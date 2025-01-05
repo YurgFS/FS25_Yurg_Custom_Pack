@@ -1,3 +1,5 @@
+<img src="res/fs/fs25.jpg" height="200"/>
+
 # Yurg's Custom Pack
 
 - [Mod Content](#mod-content)
