@@ -23,7 +23,7 @@ Your comments and suggestions are welcome.
 
 ## Main Vehicles
 
-Trucs:
+Trucks:
 - Lizard Dragon
 - Lizard Dragon Electric
 - Volvo FH16
