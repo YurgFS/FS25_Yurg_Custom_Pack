@@ -1,4 +1,4 @@
-name: Other requests
+name: ❓ Other requests
 description: For any purpose that is not a Bug report nor a Feature request
 title: "[Other]: "
 labels: ["question", "triage"]
@@ -13,6 +13,5 @@ body:
     id: question
     attributes:
       label: How may we help you?
-      render: Markdown
     validations:
       required: true
