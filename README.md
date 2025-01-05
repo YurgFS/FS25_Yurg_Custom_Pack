@@ -164,6 +164,21 @@ Liftable Consumables
 - Rice, Poplar and Trees saplings
 
 
+## Silos
+
+Agco Multi Silo:
+- Capacity of 10 000 000 for Bulk & Liquids
+- Can load from Pallets & BigBags
+
+
+## Production
+
+Agco Multi Prod:
+- Grass dryer
+- Grass and/or Chaff silage
+- Forage & Pig Food mixer
+
+
 # Compatibility issues
 
 ### Unlimited Color Configurations [#1](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/1)
