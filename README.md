@@ -145,7 +145,8 @@ Here is a list of mods I do recommend:
 - https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
-## Licence <img src="res/cc/cc-logo.svg" width="16"/> <img src="res/cc/cc-by.svg" width="16"/> <img src="res/cc/cc-nc.svg" width="16"/> <img src="res/cc/cc-nd.svg" width="16"/>
+## Licence
+<img src="res/cc/cc-logo.svg" width="16"/> <img src="res/cc/cc-by.svg" width="16"/> <img src="res/cc/cc-nc.svg" width="16"/> <img src="res/cc/cc-nd.svg" width="16"/>
 
 Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 - BY: Credit must be given to the creator.
