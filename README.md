@@ -4,7 +4,7 @@
 - [Compatibility issues](#compatibility-issues)
 - [Recommend Mods](#recommend-mods)
 - [Licence](#licence)
-- [Download](#downloads)
+- [Download](#download)
 
 ## Mod Content
 
