@@ -1,5 +1,11 @@
 # Yurg's Custom Pack
 
+- [Mod Content](#mod-content)
+- [Compatibility issues](#compatibility-issues)
+- [Recommend Mods](#recommend-mods)
+- [Licence](#licence)
+- [Download](#downloads)
+
 ## Mod Content
 
 Other vehicules, implements and customisations to be added later on, but it might already be usefull for some people.
@@ -116,7 +122,8 @@ Liftable Consumables
 
 Liftable Bales
 
-## Mod Compatibility issues
+
+## Compatibility issues
 
 ### Unlimited Color Configurations [#1](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/1)
 
@@ -124,34 +131,33 @@ It is messing up with some of the “material type” settings on some vehicles.
 
 Issue 0027127 still on going on GIANTS Software side. (it is one of their mods)
 
-### Pallets updates mods
 
-> [!WARNING]
-> It is not recommended to use mods that update pallets as it may interfere with this mod, and specially those ones:
+### Pallets update mods
+
+It is not recommended to use mods that update pallets as it may interfere with this mod, and specially those ones:
 - Liftable Pallets And Bales
 - Larger capacity pallets
 
+
 ## Recommend Mods
 
-> [!NOTE]
-> Here is a list of mods I do recommend:
+Here is a list of mods I do recommend:
 - https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
 ## Licence <img src="res/cc/cc-logo.svg" width="16"/> <img src="res/cc/cc-by.svg" width="16"/> <img src="res/cc/cc-nc.svg" width="16"/> <img src="res/cc/cc-nd.svg" width="16"/>
 
-> [!IMPORTANT]
-> Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
+Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 - BY: Credit must be given to the creator.
 - NC: Only noncommercial use of my work is permitted.
 - ND: No derivatives or adaptations of my work are permitted.
 
 To view a copy of this license, visit [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+
 ## Download
 
-> [!CAUTION]
-> Only use the download link provided in the latest version, uploading all or part of this mod on another website is not permitted.
+Only use the download link provided in the latest version, uploading all or part of this mod on another website is not permitted.
 
 - https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest
 
