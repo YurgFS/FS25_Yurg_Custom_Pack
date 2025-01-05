@@ -1,6 +1,6 @@
 name: Other requests
 description: : For any purpose that is not a Bug report nor a Feature request
-title: ''
+title: "[Other]: "
 labels: ["question", "triage"]
 assignees:
   - YurgFS
