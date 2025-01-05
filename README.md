@@ -1,6 +1,17 @@
 # Yurg's Custom Pack
 
 - [Mod Content](#mod-content)
+  - [Equipments updates](#equipments-updates)
+  - [Main Vehicles](#main-vehicles)
+  - [Trailers](#trailers)
+  - [Fields preparation](#fields-preparation)
+  - [Combine Harvesters](#combine-harvesters)
+  - [Forage Harvesters](#forage-harvesters)
+  - [Grass, Hay and Straw](#grass-hay-and-straw)
+  - [Materials Handling](#materials-handling)
+  - [Grapes & Olives](#grapes--olives)
+  - [Livestock](#livestock)
+  - [Consumables](#consumables)
 - [Compatibility issues](#compatibility-issues)
 - [Recommend Mods](#recommend-mods)
 - [Licence](#licence)
@@ -15,61 +26,50 @@ Therefore do not hesitate to rate the mod after you have tested it, and/or add a
 
 Your comments and suggestions are welcome.
 
-Vehicles & Equipments updates :
+
+ ### Equipments updates
+
+ Here is a list of adjustments made on most vehicles and implements:
 - Additional engines with higher travel speed
 - Higher working speed (24 or 35)
-- Optional working widths, filling capacities, trailer hitch for some of them
+- Optional working widths for some of them
+- Optional filling capacities for some of them
+- Optional trailer hitch for some of them
 - Additional color customisations (except Krone)
 
-Trucks:
-- Lizard Dragon & Electric
-- Volvo FH16 & Electric
+
+### Main Vehicles
+
+Trucs:
+- Lizard Dragon
+- Lizard Dragon Electric
+- Volvo FH16
+- Volvo FH16 Electric
 
 Tractors:
 - Antonio Carraro Mach 4R
 - Valtra S Series
 
-Trailers:
+
+### Trailers
+
+Bulk trailers:
 - Krampe Big Body 750 S
 - Krampe RamBody AS 750+
 - Krone GX 520
 - Krampe SKS 30/1050
 
-Liquids Trailers:
+All Liquids Trailers:
 - Abi 550
 - Abi 1600
 - Lizard MKS 8
 - Lizard MKS 32
 
-Combine Harvesters:
-- Agco Ideal
+Dolly:
+- Krampe Dolly 10 L
 
-Corn Headers:
-- Agco C16F
 
-Grain Headers:
-- Agco FD250 FlexDraper®
-- Agco HDHT 52 for FD250
-- Agco DynaFlex 9255 40FT
-- Agco PowerFlow 30FT & 40FT
-
-Forage Harvesters:
-- Krone BiG X 1180
-
-Forage Headers:
-- Krone X-Collect 900-3
-- Krone XDisc 620
-- Krone EasyFlow 300 S
-
-Mowers:
-- Krone BiG M 450
-
-Balers:
-- Krone BiG Pack 1290 HDP VC
-- Krone VariPack V 190 XC Plus (with prechamber)
-
-Loader Wagons:
-- Bergmann Shuttle 490 S
+### Fields preparation
 
 Sprayers:
 - Agrifac Condor Endurance II
@@ -84,19 +84,71 @@ Manure Spreaders:
 Planters:
 - Agco Planter 4905 (rebranded)
 
+
+### Combine Harvesters
+
+Combine Harvester:
+- Agco Ideal (rebranded)
+
+Corn Headers:
+- Agco C16F (rebranded)
+
+Grain Headers:
+- Agco FD250 Multifruit (warning: generate a lot of errors)
+- Agco FD250 FlexDraper® (rebranded)
+- Agco HDHT 52 for FD250 (rebranded)
+- Agco DynaFlex 9255 40FT
+- Agco PowerFlow 40FT
+- Agco PowerFlow 30FT
+
+
+### Forage Harvesters
+
+Forage Harvester:
+- Krone BiG X 1180
+
+Forage Headers:
+- Krone X-Collect 900-3
+- Krone XDisc 620
+- Krone EasyFlow 300 S
+
+
+### Grass, Hay and Straw
+
+Mower:
+- Krone BiG M 450
+
+Balers:
+- Krone BiG Pack 1290 HDP VC
+- Krone VariPack V 190 XC Plus (with prechamber)
+
+All bales are liftable
+
+Loader Wagons:
+- Bergmann Shuttle 490 S
+
+
+### Materials Handling
+
 Telehandlers:
 - Merlo MF44.9CS-170-CVTRONIC
-- Magsi Telehandler tools
+- All Magsi Telehandler tools
 
 Skid Steers:
 - Kubota SVL 97-2
-- Paladin Skid Steer tools
+- All Paladin Skid Steer tools
 
-Grapes & Olives Tools:
+
+### Grapes & Olives
+
+ Grapes & Olives Tools:
 - Agrisem Disc-O-Vigne (Plow or Subsoiler)
 - TMC Cancela TPN 140
 - Farmtech Variofex 750
 - Hardi Mercury 4000L
+
+
+### Livestock
 
 Rudolf Hörmann Placeables:
 - 5000 Chickens Barn
@@ -105,11 +157,14 @@ Rudolf Hörmann Placeables:
 - 3000 Pigs Barn
 - 1000 Sheeps Barn
 
-Other Placeables:
+Other Placeables
 - Two Bee Hives (500 & 2500 L/day)
 
 Liftable Livestock Pallets (x10 capacity & price)
 - Eggs, Goat Milks, Wools, Honey
+
+
+### Consumables
 
 Liftable Consumables (x5 capacity & price)
 - Seeds, Fertilizer, Lime, Herbicide, Sillage additive
@@ -119,8 +174,6 @@ Liftable Consumables (x5 capacity & price)
 Liftable Consumables
 - Bale Net, Bale Twine, Rani Wrap
 - Rice, Poplar and Trees saplings
-
-Liftable Bales
 
 
 ## Compatibility issues
