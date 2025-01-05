@@ -205,11 +205,23 @@ Here is a list of mods I do recommend:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="res/cc/cc-logo-white.svg">
   <source media="(prefers-color-scheme: light)" srcset="res/cc/cc-logo-black.svg">
-  <img alt="Creative Commons" src="res/cc/cc-logo.svg">
+  <img alt="Creative Commons" src="res/cc/cc-logo.svg" width="24">
 </picture>
-
-
-<img src="res/cc/cc-logo.svg" width="16"/> <img src="res/cc/cc-by.svg" width="16"/> <img src="res/cc/cc-nc.svg" width="16"/> <img src="res/cc/cc-nd.svg" width="16"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="res/cc/cc-by-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="res/cc/cc-by-black.svg">
+  <img alt="Creative Commons" src="res/cc/cc-by.svg" width="24">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="res/cc/cc-nc-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="res/cc/cc-nc-black.svg">
+  <img alt="Creative Commons" src="res/cc/cc-nc.svg" width="24">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="res/cc/cc-nd-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="res/cc/cc-nd-black.svg">
+  <img alt="Creative Commons" src="res/cc/cc-nd.svg" width="24">
+</picture>
 
 Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 - BY: Credit must be given to the creator.
