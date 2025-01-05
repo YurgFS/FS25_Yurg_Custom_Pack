@@ -70,19 +70,22 @@ Planters:
 
 ## Combine Harvesters
 
-Combine Harvester:
-- Agco Ideal (rebranded)
+Combine Harvesters:
+- Agco Ideal
 
-Corn Headers:
-- Agco C16F (rebranded)
+Corn Headers for Agco Ideal:
+- Agco C16F
 
-Grain Headers:
-- Agco FD250 Multifruit (warning: generate a lot of errors)
-- Agco FD250 FlexDraper® (rebranded)
-- Agco HDHT 52 for FD250 (rebranded)
+Grain Headers for Agco Ideal:
+- Agco FD250 FlexDraper®
+- Agco FD250 Multifruit (generate a lot of errors)
+- Agco HDHT 52 for FD250
 - Agco DynaFlex 9255 40FT
-- Agco PowerFlow 40FT
-- Agco PowerFlow 30FT
+- Agco PowerFlow 30FT & 40FT
+
+Grain Headers for other Combines:
+- MacDon FD250 FlexDraper®
+- MacDon FD250 Multifruit (generate a lot of errors)
 
 
 ## Forage Harvesters
