@@ -29,9 +29,11 @@ Trucs:
 - Volvo FH16
 - Volvo FH16 Electric
 
-Tractors:
-- Antonio Carraro Mach 4R
+Large Tractors:
 - Valtra S Series
+
+Small Tractors:
+- Antonio Carraro Mach 4R
 
 
 ## Trailers
