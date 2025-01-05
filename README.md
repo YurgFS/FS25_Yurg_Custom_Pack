@@ -2,25 +2,6 @@
 
 # Yurg's Custom Pack
 
-- [Mod Content](#mod-content)
-  - [Equipments updates](#equipments-updates)
-  - [Main Vehicles](#main-vehicles)
-  - [Trailers](#trailers)
-  - [Fields preparation](#fields-preparation)
-  - [Combine Harvesters](#combine-harvesters)
-  - [Forage Harvesters](#forage-harvesters)
-  - [Grass, Hay and Straw](#grass-hay-and-straw)
-  - [Materials Handling](#materials-handling)
-  - [Grapes & Olives](#grapes--olives)
-  - [Livestock](#livestock)
-  - [Consumables](#consumables)
-- [Compatibility issues](#compatibility-issues)
-- [Recommend Mods](#recommend-mods)
-- [Licence](#licence)
-- [Download](#download)
-
-## Mod Content
-
 Other vehicules, implements and customisations to be added later on, but it might already be usefull for some people.
 
 Some ayatollahs, who believe that everyone should play like them, seems to have great fun giving a single star to any mod that does not interest them or does not seems real to them.
@@ -29,7 +10,7 @@ Therefore do not hesitate to rate the mod after you have tested it, and/or add a
 Your comments and suggestions are welcome.
 
 
- ### Equipments updates
+## Equipments updates
 
  Here is a list of adjustments made on most vehicles and implements:
 - Additional engines with higher travel speed
@@ -40,7 +21,7 @@ Your comments and suggestions are welcome.
 - Additional color customisations (except Krone)
 
 
-### Main Vehicles
+## Main Vehicles
 
 Trucs:
 - Lizard Dragon
@@ -53,7 +34,7 @@ Tractors:
 - Valtra S Series
 
 
-### Trailers
+## Trailers
 
 Bulk trailers:
 - Krampe Big Body 750 S
@@ -71,7 +52,7 @@ Dolly:
 - Krampe Dolly 10 L
 
 
-### Fields preparation
+## Fields preparation
 
 Sprayers:
 - Agrifac Condor Endurance II
@@ -87,7 +68,7 @@ Planters:
 - Agco Planter 4905 (rebranded)
 
 
-### Combine Harvesters
+## Combine Harvesters
 
 Combine Harvester:
 - Agco Ideal (rebranded)
@@ -104,7 +85,7 @@ Grain Headers:
 - Agco PowerFlow 30FT
 
 
-### Forage Harvesters
+## Forage Harvesters
 
 Forage Harvester:
 - Krone BiG X 1180
@@ -115,7 +96,7 @@ Forage Headers:
 - Krone EasyFlow 300 S
 
 
-### Grass, Hay and Straw
+## Grass, Hay and Straw
 
 Mower:
 - Krone BiG M 450
@@ -130,7 +111,7 @@ Loader Wagons:
 - Bergmann Shuttle 490 S
 
 
-### Materials Handling
+## Materials Handling
 
 Telehandlers:
 - Merlo MF44.9CS-170-CVTRONIC
@@ -141,7 +122,7 @@ Skid Steers:
 - All Paladin Skid Steer tools
 
 
-### Grapes & Olives
+## Grapes & Olives
 
  Grapes & Olives Tools:
 - Agrisem Disc-O-Vigne (Plow or Subsoiler)
@@ -150,7 +131,7 @@ Skid Steers:
 - Hardi Mercury 4000L
 
 
-### Livestock
+## Livestock
 
 Rudolf Hörmann Placeables:
 - 5000 Chickens Barn
@@ -166,7 +147,7 @@ Liftable Livestock Pallets (x10 capacity & price)
 - Eggs, Goat Milks, Wools, Honey
 
 
-### Consumables
+## Consumables
 
 Liftable Consumables (x5 capacity & price)
 - Seeds, Fertilizer, Lime, Herbicide, Sillage additive
@@ -178,7 +159,7 @@ Liftable Consumables
 - Rice, Poplar and Trees saplings
 
 
-## Compatibility issues
+# Compatibility issues
 
 ### Unlimited Color Configurations [#1](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/1)
 
@@ -194,13 +175,13 @@ It is not recommended to use mods that update pallets as it may interfere with t
 - Larger capacity pallets
 
 
-## Recommend Mods
+# Recommend Mods
 
 Here is a list of mods I do recommend:
 - https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
-## Licence
+# Licence
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="res/cc/cc-logo-white.svg">
@@ -231,7 +212,7 @@ Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attributio
 To view a copy of this license, visit [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
-## Download
+# Download
 
 Only use the download link provided in the latest version:
 - https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest
