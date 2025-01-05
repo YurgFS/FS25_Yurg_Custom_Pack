@@ -162,7 +162,7 @@ Liftable Consumables
 - Rice, Poplar and Trees saplings
 
 
-# Compatibility issues
+## Compatibility issues
 
 ### Unlimited Color Configurations [#1](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/1)
 
@@ -176,6 +176,13 @@ Issue 0027127 still on going on GIANTS Software side. (it is one of their mods)
 It is not recommended to use mods that update pallets as it may interfere with this mod, and specially those ones:
 - Liftable Pallets And Bales
 - Larger capacity pallets
+
+
+## Support
+
+For any issue, suggestion or question, please use one of the following:
+- https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose
+- https://www.kingmods.net/en/search?games=fs25&q=Yurg+Custom+Pack
 
 
 # Recommend Mods
