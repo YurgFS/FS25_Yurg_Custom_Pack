@@ -171,8 +171,7 @@ Samson US 235 Dynamic
 ## v1.1.0.1 (26/12/2024)
 
 > [!WARNING]
-> ⚠️ WARNING since v1.1.0.0 ⚠️
-> Some vehicles and tools will lose the colors you have configured.
+> Some vehicles and tools will lose the colors you have configured since v1.1.0.0.
 > This is due to the complete redesign of all color configurations.
 > This has been done in so that all vehicles and tools have the same options.
 > I do apologize for the trouble, I should have started by specifying all the colors before working on the vehicles and tools. And It would have saved a few hours of work...
@@ -183,7 +182,6 @@ Missing translations fix
 ## v1.1.0.0 (25/12/2024)
 
 > [!WARNING]
-> ⚠️ WARNING ⚠️
 > Some vehicles and tools will lose the colors you have configured.
 > This is due to the complete redesign of all color configurations.
 > This has been done in so that all vehicles and tools have the same options.
