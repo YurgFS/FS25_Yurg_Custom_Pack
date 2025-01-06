@@ -174,6 +174,17 @@ Agco Multi Silo (rebranded):
 - Can load from Pallets & BigBags
 - With or Without silo extension
 
+Liquid Manure Tank & Small Extension
+- Larger Capacity (x10)
+- Faster Loading (x5)
+- Conversion from Digestate to Slurry increased
+- Liquid Manure base tank support extension increased to 500m
+
+Manure Heap & extension
+- Larger Capacity (x5)
+- Faster Loading (x5)
+- Manure Heap now support extension, same as Liquid Manure base tank
+
 
 ## Production
 
