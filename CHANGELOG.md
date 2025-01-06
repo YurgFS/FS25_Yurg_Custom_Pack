@@ -12,6 +12,18 @@ Addition of Manure Heap & extension
 - Faster Loading (x5)
 - Manure Heap now support extension, same as Liquid Manure base tank
 
+Magsi Manure Fork
+- higher discharge rate
+
+Magsi Shovel
+- higher discharge rate
+
+Paladin High Dump Bucket
+- higher discharge rate
+
+Paladin Manure Fork
+- higher discharge rate
+
 
 ## v1.1.5.0 (06/01/2025)
 

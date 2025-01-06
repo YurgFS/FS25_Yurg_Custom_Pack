@@ -40,6 +40,7 @@ And the ones made on some vehicles and implements:
 
 #### Lizard Dragon
 - 1 additional motor with higher travel speed (340hp 110kph)
+- motor start duration reduced to 1.5s
 - additional optional unreal filling capacities
 - additional optional trailer hitch
 - additional color customisations
@@ -47,6 +48,7 @@ And the ones made on some vehicles and implements:
 #### Lizard Dragon Electric
 - new electric vehicle based on the diesel one
 - 1 additional motor with higher travel speed (340hp 110kph)
+- motor start duration reduced to 0.5s (electric...)
 - additional optional unreal filling capacities
 - additional optional trailer hitch
 - additional color customisations
@@ -57,11 +59,13 @@ And the ones made on some vehicles and implements:
   - ATO3512F ASO-ULC
   - ATO3512F ASO-ULC ARSO-MSR
 - two additional motors with higher travel speed (850hp 110kph and 950hp 120kph)
+- motor start duration reduced to 1.5s
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color customisations
 
 #### Volvo FH16 Electric
 - 1 additional motor with higher travel speed (825hp 110kph)
+- motor start duration reduced to 0.5s (electric...)
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color customisations
 
@@ -69,6 +73,7 @@ And the ones made on some vehicles and implements:
 
 #### Valtra S Series
 - 3 additional motors with higher travel speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
+- motor start duration reduced to 1.5s
 - additional fuel tank options (670, 730, 790, 850L)
 - additional color customisations
 
@@ -76,6 +81,7 @@ And the ones made on some vehicles and implements:
 
 #### Antonio Carraro Mach 4R
 - 5 additional motors with higher travel speed (up to 236hp 74kph)
+- motor start duration reduced to 1.5s
 - additional fuel tank options (60, 70L)
 - additional color customisations
 
@@ -143,6 +149,7 @@ And the ones made on some vehicles and implements:
 
 #### Agrifac Condor Endurance II
 - 1 additional motor with higher travel speed (620hp 80kph)
+- motor start duration reduced to 1.5s
 - optional unreal filling capacities
 - additional color customisations
 - additional color customisations
@@ -184,6 +191,7 @@ And the ones made on some vehicles and implements:
 - rebranded as Agco (other brands decals replaced by Agco)
 - base motors travel speed updates (680hp 50kph, 790hp 60kph)
 - 1 additional motor with higher travel speed (900hp 70kph)
+- motor start duration reduced to 1.5s
 - fuel tank size is modified depending on the chosen motor
 - optional unreal filling capacities
 - higher discharge rate
@@ -240,6 +248,7 @@ And the ones made on some vehicles and implements:
 
 #### Krone BiG X 1180
 - 3 additional motors with higher travel speed (1500hp 53kph, 1800hp 63kph, 2100hp 73kph)
+- motor start duration reduced to 1.5s
 - silage additive increased capacity
 - higher discharge rate (to avoid a bottleneck due to higher working speed)
 
@@ -261,6 +270,7 @@ And the ones made on some vehicles and implements:
 
 #### Krone BiG M 450
 - 3 additional motors with higher travel speed (560hp 53kph, 670hp 63kph, 780hp 73kph)
+- motor start duration reduced to 1.5s
 - higher working speed (35kph)
 
 ### Balers
@@ -296,14 +306,73 @@ All bales are liftable
 ### Telehandlers
 
 #### Merlo MF44.9CS-170-CVTRONIC
+- 2 additional motors with higher travel speed (210hp 53kph, 250hp 63kph)
+- motor start duration reduced to 1.5s
+- additional optional fuel tank capacities (200, 260L)
+- additional color customisations
 
-#### All Magsi Telehandler tools
+### Telehandler tools
+
+#### Magsi Bale Fork
+- additional color customisations
+
+#### Magsi Bale Grab
+- additional color customisations
+
+#### Magsi Pallet Fork
+- additional color customisations
+
+#### Magsi Log Fork
+- additional color customisations
+
+#### Magsi Manure Fork
+- optional unreal filling capacities (10 000, 50 000)
+- higher discharge rate
+- additional color customisations
+
+#### Magsi Shovel
+- optional unreal filling capacities (10 000, 50 000)
+- higher discharge rate
+- additional color customisations
+
 
 ### Skid Steers
 
 #### Kubota SVL 97-2
+- 2 additional motors with higher travel speed (126hp 24kph, 156hp 36kph)
+- motor start duration reduced to 1.5s
+- additional optional fuel tank capacities (160, 200L)
+- additional color customisations
 
-#### All Paladin Skid Steer tools
+### Skid Steer tools
+
+#### Paladin Bale Fork
+- additional color customisations
+
+#### Paladin Bale Grab
+- additional color customisations
+
+#### Paladin Pallet Fork
+- additional color customisations
+
+#### Paladin Log Fork
+- additional color customisations
+
+#### Paladin Manure Fork
+- optional unreal filling capacities (10 000, 50 000)
+- higher discharge rate
+- additional color customisations
+
+#### Paladin High Dump Bucket
+- optional unreal filling capacities (10 000, 50 000)
+- higher discharge rate
+- additional color customisations
+
+#### Paladin SFB 750
+- additional color customisations
+
+#### Paladin Stump Cutter
+- additional color customisations
 
 
 ## Grapes & Olives
