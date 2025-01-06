@@ -27,6 +27,7 @@ And the ones made on some vehicles and implements:
 - additional fuel tank size options
 - customized gearbox options from the manufacturers
 - higher working speed (24 or 35kph)
+- higher discharge rate
 - optional additional plow or roller function
 - optional working widths
 - optional unreal filling capacities
@@ -38,42 +39,43 @@ And the ones made on some vehicles and implements:
 ### Trucks
 
 #### Lizard Dragon
-- 1 additional engine with higher travel speed (340hp 110kph)
+- 1 additional motor with higher travel speed (340hp 110kph)
 - additional optional unreal filling capacities
 - additional optional trailer hitch
 - additional color customisations
 
 #### Lizard Dragon Electric
-- 1 additional engine with higher travel speed (340hp 110kph)
+- new electric vehicle based on the diesel one
+- 1 additional motor with higher travel speed (340hp 110kph)
 - additional optional unreal filling capacities
 - additional optional trailer hitch
 - additional color customisations
 
 #### Volvo FH16
-- higher base engines gearboxes updated using real options from the manufacturer, adding some low gears with higher torque
+- higher base motors gearboxes updated using real options from the manufacturer, adding some low gears with higher torque
   - ATO3112F ASO-C
   - ATO3512F ASO-ULC
   - ATO3512F ASO-ULC ARSO-MSR
-- two additional engines with higher travel speed (850hp 110kph and 950hp 120kph)
+- two additional motors with higher travel speed (850hp 110kph and 950hp 120kph)
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color customisations
 
 #### Volvo FH16 Electric
-- 1 additional engines with higher travel speed (825hp 110kph)
+- 1 additional motor with higher travel speed (825hp 110kph)
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color customisations
 
 ### Large Tractors
 
 #### Valtra S Series
-- 3 additional engines with higher travel speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
+- 3 additional motors with higher travel speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
 - additional fuel tank options (670, 730, 790, 850L)
 - additional color customisations
 
 #### Small Tractors:
 
 #### Antonio Carraro Mach 4R
-- 5 additional engines with higher travel speed (up to 236hp 74kph)
+- 5 additional motors with higher travel speed (up to 236hp 74kph)
 - additional fuel tank options (60, 70L)
 - additional color customisations
 
@@ -83,40 +85,48 @@ And the ones made on some vehicles and implements:
 ### Bulk trailers
 
 #### Krampe Big Body 750 S
+- higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
 - additional color customisations
 
 #### Krampe RamBody AS 750+
+- higher discharge rate
 - optional unreal filling capacities
 - additional color customisations
 
 #### Krampe SKS 30/1050
+- higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
 - additional color customisations
 
 #### Krone GX 520
+- higher discharge rate
 - optional unreal filling capacities
 - additional color customisations
 
 ### All Liquids Trailers
 
 #### Abi 550
+- higher discharge rate
 - optional unreal filling capacities
 - additional color customisations
 
 #### Abi 1600
+- higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
 - additional color customisations
 
 #### Lizard MKS 8
+- higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
 - additional color customisations
 
 #### Lizard MKS 32
+- higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
 - additional color customisations
@@ -132,7 +142,7 @@ And the ones made on some vehicles and implements:
 ### Sprayers
 
 #### Agrifac Condor Endurance II
-- 1 additional engine with higher travel speed (620hp 80kph)
+- 1 additional motor with higher travel speed (620hp 80kph)
 - optional unreal filling capacities
 - additional color customisations
 - additional color customisations
@@ -172,7 +182,11 @@ And the ones made on some vehicles and implements:
 
 #### Agco Ideal
 - rebranded as Agco (other brands decals replaced by Agco)
-- 1 additional engine with higher travel speed (620hp 80kph)
+- base motors travel speed updates (680hp 50kph, 790hp 60kph)
+- 1 additional motor with higher travel speed (900hp 70kph)
+- fuel tank size is modified depending on the chosen motor
+- optional unreal filling capacities
+- additional color customisations
 
 ### Corn Headers for Agco Ideal
 
@@ -180,6 +194,7 @@ And the ones made on some vehicles and implements:
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
 - higher working speed (35kph)
+- additional color customisations
 
 ### Grain Headers for Agco Ideal
 
@@ -187,21 +202,26 @@ And the ones made on some vehicles and implements:
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
 - higher working speed (35kph)
+- additional color customisations
 
 #### Agco FD250 Multifruit
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
 - multifruit (generate a lot of errors)
 - higher working speed (35kph)
+- additional color customisations
 
 #### Agco HDHT 52 for FD250
 - higher working speed (35kph)
+- additional color customisations
 
 #### Agco DynaFlex 9255 40FT
 - higher working speed (35kph)
+- additional color customisations
 
 #### Agco PowerFlow 30FT & 40FT
 - higher working speed (35kph)
+- additional color customisations
 
 ### Grain Headers for other Combines
 
@@ -218,14 +238,20 @@ And the ones made on some vehicles and implements:
 ### Forage Harvester
 
 #### Krone BiG X 1180
+- 3 additional motors with higher travel speed (1500hp 53kph, 1800hp 63kph, 2100hp 73kph)
+- silage additive increased capacity
+- higher discharge rate (to avoid a bottleneck due to higher working speed)
 
 ### Forage Headers
 
 #### Krone X-Collect 900-3
+- higher working speed (35kph)
 
 #### Krone XDisc 620
+- higher working speed (35kph)
 
 #### Krone EasyFlow 300 S
+- higher working speed (35kph)
 
 
 ## Grass, Hay and Straw
