@@ -76,10 +76,10 @@ Combine Harvesters:
 - Agco Ideal
 
 Corn Headers for Agco Ideal:
-- Agco C16F
+- Agco C16F (rebranded & adjusted)
 
 Grain Headers for Agco Ideal:
-- Agco FD250 FlexDraper®
+- Agco FD250 FlexDraper® (rebranded & adjusted)
 - Agco FD250 Multifruit (generate a lot of errors)
 - Agco HDHT 52 for FD250
 - Agco DynaFlex 9255 40FT
@@ -169,7 +169,7 @@ Liftable Consumables
 
 ## Silos
 
-Agco Multi Silo:
+Agco Multi Silo (rebranded):
 - Capacity of 10 000 000 for Bulk & Liquids
 - Can load from Pallets & BigBags
 - With or Without silo extension
@@ -177,7 +177,7 @@ Agco Multi Silo:
 
 ## Production
 
-Agco Multi Prod:
+Agco Multi Prod (rebranded):
 - Grass dryer
 - Grass and/or Chaff silage
 - Forage & Pig Food mixer
