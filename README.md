@@ -12,175 +12,294 @@ Your comments and suggestions are welcome.
 
 ## Equipments updates
 
- Here is a list of adjustments made on most vehicles and implements:
-- Additional engines with higher travel speed
-- Higher working speed (24 or 35)
-- Optional working widths for some of them
-- Optional filling capacities for some of them
-- Optional trailer hitch for some of them
-- Additional color customisations (except Krone)
+Here is a list of adjustments made on all vehicles and implements:
+- lifetime of vehicle used to calculate price drop, in months (x10)
+- time to complete worn (x10)
+- motor Start Duration reduced to 1.5s
+- additional color customisations (except Krone)
+
+And the ones made on some vehicles and implements:
+- additional motors (real hp based on torque, rpm...) with higher travel speeds (and fuel consumption)
+- additional fuel tank size options
+- customized gearbox options from the manufacturers
+- higher working speed (24 or 35kph)
+- optional working widths
+- optional unreal filling capacities
+- optional trailer hitch
 
 
 ## Main Vehicles
 
-Trucks:
-- Lizard Dragon
-- Lizard Dragon Electric
-- Volvo FH16
-- Volvo FH16 Electric
+### Trucks
 
-Large Tractors:
-- Valtra S Series
+#### Lizard Dragon
+- 1 additional engine with higher travel speed (340hp 110kph)
+- additional optional unreal filling capacities
+- additional optional trailer hitch
+- additional color customisations
 
-Small Tractors:
-- Antonio Carraro Mach 4R
+#### Lizard Dragon Electric
+- 1 additional engine with higher travel speed (340hp 110kph)
+- additional optional unreal filling capacities
+- additional optional trailer hitch
+- additional color customisations
+
+#### Volvo FH16
+- two additional engines with higher travel speed (850hp 110kph and 950hp 120kph)
+- additional optional trailer hitch (usefull to move dolly..)
+- additional color customisations
+
+#### Volvo FH16 Electric
+- 1 additional engines with higher travel speed (825hp 110kph)
+- additional optional trailer hitch (usefull to move dolly..)
+- additional color customisations
+
+### Large Tractors
+
+#### Valtra S Series
+- 3 additional engines with higher travel speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
+- additional fuel tank options (670, 730, 790, 850L)
+- additional color customisations
+
+#### Small Tractors:
+
+#### Antonio Carraro Mach 4R
+- 5 additional engines with higher travel speed (up to 236hp 74kph)
+- additional fuel tank options (60, 70L)
+- additional color customisations
 
 
 ## Trailers
 
-Bulk trailers:
-- Krampe Big Body 750 S
-- Krampe RamBody AS 750+
-- Krone GX 520
-- Krampe SKS 30/1050
+### Bulk trailers
 
-All Liquids Trailers:
-- Abi 550
-- Abi 1600
-- Lizard MKS 8
-- Lizard MKS 32
+#### Krampe Big Body 750 S
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color customisations
 
-Dolly:
-- Krampe Dolly 10 L
+#### Krampe RamBody AS 750+
+- optional unreal filling capacities
+- additional color customisations
+
+#### Krampe SKS 30/1050
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color customisations
+
+#### Krone GX 520
+- optional unreal filling capacities
+- additional color customisations
+
+### All Liquids Trailers
+
+#### Abi 550
+- optional unreal filling capacities
+- additional color customisations
+
+#### Abi 1600
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color customisations
+
+#### Lizard MKS 8
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color customisations
+
+#### Lizard MKS 32
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color customisations
+
+### Others
+
+#### Krampe Dolly 10 L
+- additional color customisations
 
 
 ## Fields preparation
 
-Sprayers:
-- Agrifac Condor Endurance II
+### Sprayers
 
-Slurry  Spreaders:
-- Samson Agro PG II 28 Genesis
-- Samson SBH4 36
+#### Agrifac Condor Endurance II
+- 1 additional engine with higher travel speed (620hp 80kph)
+- optional unreal filling capacities
+- additional color customisations
 
-Manure Spreaders:
-- Samson US 235 Dynamic
+### Slurry  Spreaders
 
-Planters:
-- Agco Planter 4905 (rebranded)
+#### Samson Agro PG II 28 Genesis
+
+#### Samson SBH4 36
+
+### Manure Spreaders
+
+#### Samson US 235 Dynamic
+
+### Planters
+
+#### Agco Planter 4905 (rebranded)
 
 
 ## Combine Harvesters
 
-Combine Harvesters:
-- Agco Ideal
+### Combine Harvesters
 
-Corn Headers for Agco Ideal:
-- Agco C16F (rebranded & adjusted)
+#### Agco Ideal
 
-Grain Headers for Agco Ideal:
-- Agco FD250 FlexDraper® (rebranded & adjusted)
-- Agco FD250 Multifruit (generate a lot of errors)
-- Agco HDHT 52 for FD250
-- Agco DynaFlex 9255 40FT
-- Agco PowerFlow 30FT & 40FT
+### Corn Headers for Agco Ideal
 
-Grain Headers for other Combines:
-- MacDon FD250 FlexDraper®
-- MacDon FD250 Multifruit (generate a lot of errors)
+#### Agco C16F (rebranded & adjusted)
+
+### Grain Headers for Agco Ideal
+
+#### Agco FD250 FlexDraper® (rebranded & adjusted)
+
+#### Agco FD250 Multifruit (generate a lot of errors)
+
+#### Agco HDHT 52 for FD250
+
+#### Agco DynaFlex 9255 40FT
+
+#### Agco PowerFlow 30FT & 40FT
+
+### Grain Headers for other Combines
+
+#### MacDon FD250 FlexDraper®
+
+#### MacDon FD250 Multifruit (generate a lot of errors)
 
 
 ## Forage Harvesters
 
-Forage Harvester:
-- Krone BiG X 1180
+### Forage Harvester
 
-Forage Headers:
-- Krone X-Collect 900-3
-- Krone XDisc 620
-- Krone EasyFlow 300 S
+#### Krone BiG X 1180
+
+### Forage Headers
+
+#### Krone X-Collect 900-3
+
+#### Krone XDisc 620
+
+#### Krone EasyFlow 300 S
 
 
 ## Grass, Hay and Straw
 
-Mower:
-- Krone BiG M 450
+### Mowers
 
-Balers:
-- Krone BiG Pack 1290 HDP VC
-- Krone VariPack V 190 XC Plus (with prechamber)
+#### Krone BiG M 450
+
+### Balers
+
+#### Krone BiG Pack 1290 HDP VC
+
+#### Krone VariPack V 190 XC Plus (with prechamber)
+
+### Bales
 
 All bales are liftable
 
-Loader Wagons:
-- Bergmann Shuttle 490 S
+### Loader Wagons
+
+#### Bergmann Shuttle 490 S
 
 
 ## Materials Handling
 
-Telehandlers:
-- Merlo MF44.9CS-170-CVTRONIC
-- All Magsi Telehandler tools
+### Telehandlers
 
-Skid Steers:
-- Kubota SVL 97-2
-- All Paladin Skid Steer tools
+#### Merlo MF44.9CS-170-CVTRONIC
+
+#### All Magsi Telehandler tools
+
+### Skid Steers
+
+#### Kubota SVL 97-2
+
+#### All Paladin Skid Steer tools
 
 
 ## Grapes & Olives
 
-Grapes & Olives Harvesters:
-- Gregoire GL
+### Grapes & Olives Harvesters
 
-Grapes & Olives Tools:
-- Agrisem Disc-O-Vigne (Plow or Subsoiler)
-- TMC Cancela TPN 140
-- Farmtech Variofex 750
-- Hardi Mercury 4000L
+#### Gregoire GL
+
+### Grapes & Olives Tools
+
+#### Agrisem Disc-O-Vigne (Plow or Subsoiler)
+
+#### TMC Cancela TPN 140
+
+#### Farmtech Variofex 750
+
+#### Hardi Mercury 4000L
 
 
 ## Livestock
 
-Rudolf Hörmann Placeables:
-- 5000 Chickens Barn
-- 1000 Cows Barn
-- 1000 Cows Barn with Lely Vector
-- 3000 Pigs Barn
-- 1000 Sheeps Barn
+### Rudolf Hörmann Placeables
 
-Other Placeables
-- Two Bee Hives (500 & 2500 L/day)
+#### 5000 Chickens Barn
 
-Liftable Livestock Pallets (x10 capacity & price)
-- Eggs, Goat Milks, Wools, Honey
+#### 1000 Cows Barn
+
+#### 1000 Cows Barn with Lely Vector
+
+#### 3000 Pigs Barn
+
+#### 1000 Sheeps Barn
+
+### Other Placeables
+
+#### Two Bee Hives (500 & 2500 L/day)
+
+### Livestock Pallets
+
+#### Eggs Boxes
+- Liftable (x10 capacity & price)
+
+#### Goat Milk Cans
+- Liftable (x10 capacity & price)
+- can fill a liquid trailer
+- can be stored in some silos (faster than filling a trailer)
+
+#### Wools
+- Liftable (x10 capacity & price)
+
+#### Honey
+- Liftable (x10 capacity & price)
 
 
 ## Consumables
 
-Liftable Consumables (x5 capacity & price)
+### Liftable Consumables (x5 capacity & price)
 - Seeds, Fertilizer, Lime, Herbicide, Sillage additive
 - Chicken, Horse and Pig Food, Mineral Feed
 - Road Salt
 
-Liftable Consumables
+### Liftable Consumables
 - Bale Net, Bale Twine, Rani Wrap
 - Rice, Poplar and Trees saplings
 
 
 ## Silos
 
-Agco Multi Silo (rebranded):
+### Agco Multi Silo (rebranded)
 - Capacity of 10 000 000 for Bulk & Liquids
 - Can load from Pallets & BigBags
 - With or Without silo extension
 
-Liquid Manure Tank & Small Extension
+### Liquid Manure Tank & Small Extension
 - Larger Capacity (x10)
 - Faster Loading (x5)
 - Conversion from Digestate to Slurry increased
 - Liquid Manure base tank support extension increased to 500m
 
-Manure Heap & extension
+### Manure Heap & extension
 - Larger Capacity (x5)
 - Faster Loading (x5)
 - Manure Heap now support extension, same as Liquid Manure base tank
@@ -188,7 +307,7 @@ Manure Heap & extension
 
 ## Production
 
-Agco Multi Prod (rebranded):
+### Agco Multi Prod (rebranded)
 - Grass dryer
 - Grass and/or Chaff silage
 - Forage & Pig Food mixer
