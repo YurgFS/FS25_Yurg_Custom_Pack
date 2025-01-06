@@ -129,7 +129,10 @@ Skid Steers:
 
 ## Grapes & Olives
 
- Grapes & Olives Tools:
+Grapes & Olives Harvesters:
+- Gregoire GL
+
+Grapes & Olives Tools:
 - Agrisem Disc-O-Vigne (Plow or Subsoiler)
 - TMC Cancela TPN 140
 - Farmtech Variofex 750
