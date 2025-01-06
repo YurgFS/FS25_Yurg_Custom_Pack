@@ -507,6 +507,12 @@ And the ones made on some vehicles and implements:
 - manure Heap now support extension, same as liquid manure base tank
 
 
+# Recommend Mods
+
+Here is a list of mods I do recommend:
+- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
+
+
 # Compatibility issues
 
 ### Unlimited Color Configurations [#1](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/1)
@@ -528,12 +534,6 @@ It is not recommended to use mods that update pallets as it may interfere with t
 For any issue, suggestion or question, please use one of the following:
 - https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose
 - https://www.kingmods.net/en/search?games=fs25&q=Yurg+Custom+Pack
-
-
-# Recommend Mods
-
-Here is a list of mods I do recommend:
-- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
 # Licence
