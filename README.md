@@ -495,13 +495,13 @@ And the ones made on some vehicles and implements:
 - forage & pig food mixer
 - with or without silo extension
 
-#### Liquid Manure Tank & Small Extension
+#### Liquid Manure Tank & Extension
 - larger Capacity (x10)
 - faster Loading (x5)
 - conversion from Digestate to Slurry increased
 - liquid manure base tank support extension increased to 500m
 
-#### Manure Heap & extension
+#### Manure Heap & Extension
 - larger Capacity (x5)
 - faster Loading (x5)
 - manure Heap now support extension, same as liquid manure base tank

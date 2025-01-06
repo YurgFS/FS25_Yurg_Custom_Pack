@@ -1,13 +1,13 @@
 
 ## v1.1.6.0 (ongoing)
 
-Addition of Liquid Manure Tank & Small Extension
+Addition of Liquid Manure Tank & Extension
 - Larger Capacity (x10)
 - Faster Loading (x5)
 - Conversion from Digestate to Slurry increased
 - Liquid Manure base tank support extension increased to 500m
 
-Addition of Manure Heap & extension
+Addition of Manure Heap & Extension
 - Larger Capacity (x5)
 - Faster Loading (x5)
 - Manure Heap now support extension, same as Liquid Manure base tank
