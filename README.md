@@ -186,6 +186,7 @@ And the ones made on some vehicles and implements:
 - 1 additional motor with higher travel speed (900hp 70kph)
 - fuel tank size is modified depending on the chosen motor
 - optional unreal filling capacities
+- higher discharge rate
 - additional color customisations
 
 ### Corn Headers for Agco Ideal
@@ -259,12 +260,21 @@ And the ones made on some vehicles and implements:
 ### Mowers
 
 #### Krone BiG M 450
+- 3 additional motors with higher travel speed (560hp 53kph, 670hp 63kph, 780hp 73kph)
+- higher working speed (35kph)
 
 ### Balers
 
 #### Krone BiG Pack 1290 HDP VC
+- higher working speed (35kph)
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
 
-#### Krone VariPack V 190 XC Plus (with prechamber)
+#### Krone VariPack V 190 XC Plus
+- added prechamber (may no longer have to stop)
+- higher working speed (24kph, cannot go faster without having to stop)
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
 
 ### Bales
 
@@ -273,6 +283,12 @@ All bales are liftable
 ### Loader Wagons
 
 #### Bergmann Shuttle 490 S
+- higher working speed (35kph)
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
+- optional unreal filling capacities
+- higher discharge rate
+- additional color customisations
 
 
 ## Materials Handling
