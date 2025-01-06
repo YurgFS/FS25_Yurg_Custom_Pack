@@ -19,7 +19,7 @@ Your comments and suggestions are welcome.
 Here is a list of adjustments made on all vehicles and implements:
 - lifetime of vehicle used to calculate price drop, in months (x10)
 - time to complete worn (x10)
-- motor Start Duration reduced to 1.5s
+- motor start duration reduced to 1.5s
 - additional color customisations (except Krone)
 
 And the ones made on some vehicles and implements:
@@ -27,6 +27,7 @@ And the ones made on some vehicles and implements:
 - additional fuel tank size options
 - customized gearbox options from the manufacturers
 - higher working speed (24 or 35kph)
+- optional additional plow or roller function
 - optional working widths
 - optional unreal filling capacities
 - optional trailer hitch
@@ -49,6 +50,10 @@ And the ones made on some vehicles and implements:
 - additional color customisations
 
 #### Volvo FH16
+- higher base engines gearboxes updated using real options from the manufacturer, adding some low gears with higher torque
+  - ATO3112F ASO-C
+  - ATO3512F ASO-ULC
+  - ATO3512F ASO-ULC ARSO-MSR
 - two additional engines with higher travel speed (850hp 110kph and 950hp 120kph)
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color customisations
@@ -130,20 +135,35 @@ And the ones made on some vehicles and implements:
 - 1 additional engine with higher travel speed (620hp 80kph)
 - optional unreal filling capacities
 - additional color customisations
+- additional color customisations
 
 ### Slurry  Spreaders
 
 #### Samson Agro PG II 28 Genesis
+- optional unreal filling capacities
+- additional color customisations
 
 #### Samson SBH4 36
+- higher working speed (35kph)
+- optional working widths
 
 ### Manure Spreaders
 
 #### Samson US 235 Dynamic
+- higher working speed (35kph)
+- optional working widths
+- optional unreal filling capacities
+- additional color customisations
 
 ### Planters
 
-#### Agco Planter 4905 (rebranded)
+#### Agco Planter 4905
+- rebranded as Agco (other brand decals replaced by Agco)
+- multifruit (crops, root fruits, rice...)
+- higher working speed (35kph)
+- optional additionnal roller function
+- optional unreal filling capacities
+- additional color customisations
 
 
 ## Combine Harvesters
@@ -151,28 +171,46 @@ And the ones made on some vehicles and implements:
 ### Combine Harvesters
 
 #### Agco Ideal
+- rebranded as Agco (other brands decals replaced by Agco)
+- 1 additional engine with higher travel speed (620hp 80kph)
 
 ### Corn Headers for Agco Ideal
 
-#### Agco C16F (rebranded & adjusted)
+#### Agco C16F
+- rebranded as Agco (other brands decals replaced by Agco)
+- combine attachment adjusted to the size of the Agco Ideal
+- higher working speed (35kph)
 
 ### Grain Headers for Agco Ideal
 
-#### Agco FD250 FlexDraper® (rebranded & adjusted)
+#### Agco FD250 FlexDraper®
+- rebranded as Agco (other brands decals replaced by Agco)
+- combine attachment adjusted to the size of the Agco Ideal
+- higher working speed (35kph)
 
-#### Agco FD250 Multifruit (generate a lot of errors)
+#### Agco FD250 Multifruit
+- rebranded as Agco (other brands decals replaced by Agco)
+- combine attachment adjusted to the size of the Agco Ideal
+- multifruit (generate a lot of errors)
+- higher working speed (35kph)
 
 #### Agco HDHT 52 for FD250
+- higher working speed (35kph)
 
 #### Agco DynaFlex 9255 40FT
+- higher working speed (35kph)
 
 #### Agco PowerFlow 30FT & 40FT
+- higher working speed (35kph)
 
 ### Grain Headers for other Combines
 
 #### MacDon FD250 FlexDraper®
+- higher working speed (35kph)
 
-#### MacDon FD250 Multifruit (generate a lot of errors)
+#### MacDon FD250 Multifruit
+- higher working speed (35kph)
+- multifruit (generate a lot of errors)
 
 
 ## Forage Harvesters
