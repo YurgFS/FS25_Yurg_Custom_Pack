@@ -129,7 +129,10 @@ Skid Steers:
 
 ## Grapes & Olives
 
- Grapes & Olives Tools:
+Grapes & Olives Harvesters:
+- Gregoire GL
+
+Grapes & Olives Tools:
 - Agrisem Disc-O-Vigne (Plow or Subsoiler)
 - TMC Cancela TPN 140
 - Farmtech Variofex 750
@@ -162,6 +165,23 @@ Liftable Consumables (x5 capacity & price)
 Liftable Consumables
 - Bale Net, Bale Twine, Rani Wrap
 - Rice, Poplar and Trees saplings
+
+
+## Silos
+
+Agco Multi Silo:
+- Capacity of 10 000 000 for Bulk & Liquids
+- Can load from Pallets & BigBags
+- With or Without silo extension
+
+
+## Production
+
+Agco Multi Prod:
+- Grass dryer
+- Grass and/or Chaff silage
+- Forage & Pig Food mixer
+- With or Without silo extension
 
 
 # Compatibility issues
