@@ -24,11 +24,15 @@ Paladin High Dump Bucket
 Paladin Manure Fork
 - higher discharge rate
 
+Gregoire GL
+- Fix: 292hp engine was displaying a wrong value in shop (258 instead of 292)
+- higher discharge rate (x2)
+
 
 ## v1.1.5.0 (06/01/2025)
 
 Addition of Gregoire GL (grapes & olives harvester)
-- Additional engines with higher travel speed
+- Additional motors with higher travel speed
 - Higher working speed (35)
 - Optional tank capacities
 - Colour customisations
@@ -84,7 +88,7 @@ Liftable Consumables Pallets
 ## v1.1.3.0 (03/01/2025)
 
 Addition of Antonio Carraro Mach 4R:
-- Additional engines with higher travel speed
+- Additional motors with higher travel speed
 - Optional fuel tank capacities
 - Colour customisations
 
@@ -101,7 +105,7 @@ Optional working widths for:
 Agrisem Disc-O-Vigne V:
 - Plow function is now optional
 
-Engines rework for:
+Motors rework for:
 - Agco Ideal
 - Agrifac Condor Endurance II
 - Krone BiG M 450
@@ -162,7 +166,7 @@ Goat Milk update:
 ## v1.1.1.0 (27/12/2024)
 
 Addition of Agco Ideal pack rebranded to Agco
-- Higher speed for the latest engines
+- Higher speed for the latest motors
 - Higher working speed (35)
 - Optional unreal capacities
 - MF & Fendt decals removed
@@ -212,7 +216,7 @@ Grapes & Olives Tools:
 - Base & design colors selection
 
 Valtra S Series
-- engine name update
+- motor names update
 
 
 ## v1.0.4.1 (24/12/2024)
@@ -224,7 +228,7 @@ Volvo FH16 & FH16 Electric:
 ## v1.0.4.0 (24/12/2024)
 
 Addition of Volvo FH16 & FH16 Electric
-- One additional engine for each one (110kph)
+- One additional motor for each one (110kph)
 - Optional trailer hitch (for all wheel options from 4x2 to 8x4)
 - Additional colors
 
@@ -293,7 +297,7 @@ Bergmann & Krampe trailers:
 - Valtra colors added
 
 Krone Big X & Big M:
-- Engines names update
+- motor names update
 
 Useless files removed (i3d I do not have updated yet)
 

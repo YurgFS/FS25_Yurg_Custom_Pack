@@ -20,7 +20,7 @@ Here is a list of adjustments made on all vehicles and implements:
 - lifetime of vehicle used to calculate price drop, in months (x10)
 - time to complete worn (x10)
 - motor start duration reduced to 1.5s
-- additional color customisations (except Krone)
+- additional color configurations (except Krone)
 
 And the ones made on some vehicles and implements:
 - additional motors (real hp based on torque, rpm...) with higher travel speeds (and fuel consumption)
@@ -43,7 +43,7 @@ And the ones made on some vehicles and implements:
 - motor start duration reduced to 1.5s
 - additional optional unreal filling capacities
 - additional optional trailer hitch
-- additional color customisations
+- additional color configurations
 
 #### Lizard Dragon Electric
 - new electric vehicle based on the diesel one
@@ -51,7 +51,7 @@ And the ones made on some vehicles and implements:
 - motor start duration reduced to 0.5s (electric...)
 - additional optional unreal filling capacities
 - additional optional trailer hitch
-- additional color customisations
+- additional color configurations
 
 #### Volvo FH16
 - higher base motors gearboxes updated using real options from the manufacturer, adding some low gears with higher torque
@@ -61,13 +61,13 @@ And the ones made on some vehicles and implements:
 - two additional motors with higher travel speed (850hp 110kph and 950hp 120kph)
 - motor start duration reduced to 1.5s
 - additional optional trailer hitch (usefull to move dolly..)
-- additional color customisations
+- additional color configurations
 
 #### Volvo FH16 Electric
 - 1 additional motor with higher travel speed (825hp 110kph)
 - motor start duration reduced to 0.5s (electric...)
 - additional optional trailer hitch (usefull to move dolly..)
-- additional color customisations
+- additional color configurations
 
 ### Large Tractors
 
@@ -75,7 +75,7 @@ And the ones made on some vehicles and implements:
 - 3 additional motors with higher travel speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
 - motor start duration reduced to 1.5s
 - additional fuel tank options (670, 730, 790, 850L)
-- additional color customisations
+- additional color configurations
 
 #### Small Tractors:
 
@@ -83,7 +83,7 @@ And the ones made on some vehicles and implements:
 - 5 additional motors with higher travel speed (up to 236hp 74kph)
 - motor start duration reduced to 1.5s
 - additional fuel tank options (60, 70L)
-- additional color customisations
+- additional color configurations
 
 
 ## Trailers
@@ -94,53 +94,53 @@ And the ones made on some vehicles and implements:
 - higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
-- additional color customisations
+- additional color configurations
 
 #### Krampe RamBody AS 750+
 - higher discharge rate
 - optional unreal filling capacities
-- additional color customisations
+- additional color configurations
 
 #### Krampe SKS 30/1050
 - higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
-- additional color customisations
+- additional color configurations
 
 #### Krone GX 520
 - higher discharge rate
 - optional unreal filling capacities
-- additional color customisations
+- additional color configurations
 
 ### All Liquids Trailers
 
 #### Abi 550
 - higher discharge rate
 - optional unreal filling capacities
-- additional color customisations
+- additional color configurations
 
 #### Abi 1600
 - higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
-- additional color customisations
+- additional color configurations
 
 #### Lizard MKS 8
 - higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
-- additional color customisations
+- additional color configurations
 
 #### Lizard MKS 32
 - higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
-- additional color customisations
+- additional color configurations
 
 ### Others
 
 #### Krampe Dolly 10 L
-- additional color customisations
+- additional color configurations
 
 
 ## Fields preparation
@@ -151,14 +151,13 @@ And the ones made on some vehicles and implements:
 - 1 additional motor with higher travel speed (620hp 80kph)
 - motor start duration reduced to 1.5s
 - optional unreal filling capacities
-- additional color customisations
-- additional color customisations
+- additional color configurations
 
 ### Slurry  Spreaders
 
 #### Samson Agro PG II 28 Genesis
 - optional unreal filling capacities
-- additional color customisations
+- additional color configurations
 
 #### Samson SBH4 36
 - higher working speed (35kph)
@@ -170,7 +169,7 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - optional working widths
 - optional unreal filling capacities
-- additional color customisations
+- additional color configurations
 
 ### Planters
 
@@ -180,7 +179,7 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - optional additionnal roller function
 - optional unreal filling capacities
-- additional color customisations
+- additional color configurations
 
 
 ## Combine Harvesters
@@ -195,7 +194,7 @@ And the ones made on some vehicles and implements:
 - fuel tank size is modified depending on the chosen motor
 - optional unreal filling capacities
 - higher discharge rate
-- additional color customisations
+- additional color configurations
 
 ### Corn Headers for Agco Ideal
 
@@ -203,7 +202,7 @@ And the ones made on some vehicles and implements:
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
 - higher working speed (35kph)
-- additional color customisations
+- additional color configurations
 
 ### Grain Headers for Agco Ideal
 
@@ -211,26 +210,26 @@ And the ones made on some vehicles and implements:
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
 - higher working speed (35kph)
-- additional color customisations
+- additional color configurations
 
 #### Agco FD250 Multifruit
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
 - multifruit (generate a lot of errors)
 - higher working speed (35kph)
-- additional color customisations
+- additional color configurations
 
 #### Agco HDHT 52 for FD250
 - higher working speed (35kph)
-- additional color customisations
+- additional color configurations
 
 #### Agco DynaFlex 9255 40FT
 - higher working speed (35kph)
-- additional color customisations
+- additional color configurations
 
 #### Agco PowerFlow 30FT & 40FT
 - higher working speed (35kph)
-- additional color customisations
+- additional color configurations
 
 ### Grain Headers for other Combines
 
@@ -298,7 +297,7 @@ All bales are liftable
 - max pickup liters per second increased (x10)
 - optional unreal filling capacities
 - higher discharge rate
-- additional color customisations
+- additional color configurations
 
 
 ## Materials Handling
@@ -309,31 +308,31 @@ All bales are liftable
 - 2 additional motors with higher travel speed (210hp 53kph, 250hp 63kph)
 - motor start duration reduced to 1.5s
 - additional optional fuel tank capacities (200, 260L)
-- additional color customisations
+- additional color configurations
 
 ### Telehandler tools
 
 #### Magsi Bale Fork
-- additional color customisations
+- additional color configurations
 
 #### Magsi Bale Grab
-- additional color customisations
+- additional color configurations
 
 #### Magsi Pallet Fork
-- additional color customisations
+- additional color configurations
 
 #### Magsi Log Fork
-- additional color customisations
+- additional color configurations
 
 #### Magsi Manure Fork
 - optional unreal filling capacities (10 000, 50 000)
 - higher discharge rate
-- additional color customisations
+- additional color configurations
 
 #### Magsi Shovel
 - optional unreal filling capacities (10 000, 50 000)
 - higher discharge rate
-- additional color customisations
+- additional color configurations
 
 
 ### Skid Steers
@@ -342,37 +341,37 @@ All bales are liftable
 - 2 additional motors with higher travel speed (126hp 24kph, 156hp 36kph)
 - motor start duration reduced to 1.5s
 - additional optional fuel tank capacities (160, 200L)
-- additional color customisations
+- additional color configurations
 
 ### Skid Steer tools
 
 #### Paladin Bale Fork
-- additional color customisations
+- additional color configurations
 
 #### Paladin Bale Grab
-- additional color customisations
+- additional color configurations
 
 #### Paladin Pallet Fork
-- additional color customisations
+- additional color configurations
 
 #### Paladin Log Fork
-- additional color customisations
+- additional color configurations
 
 #### Paladin Manure Fork
-- optional unreal filling capacities (10 000, 50 000)
+- optional unreal filling capacities (10000, 50000)
 - higher discharge rate
-- additional color customisations
+- additional color configurations
 
 #### Paladin High Dump Bucket
-- optional unreal filling capacities (10 000, 50 000)
+- optional unreal filling capacities (10000, 50000)
 - higher discharge rate
-- additional color customisations
+- additional color configurations
 
 #### Paladin SFB 750
-- additional color customisations
+- additional color configurations
 
 #### Paladin Stump Cutter
-- additional color customisations
+- additional color configurations
 
 
 ## Grapes & Olives
@@ -380,16 +379,34 @@ All bales are liftable
 ### Grapes & Olives Harvesters
 
 #### Gregoire GL
+- 2 additional motors with higher travel speed (224hp 40kph, 258hp 50kph, 292hp 60kph)
+- motor start duration reduced to 1.5s
+- higher working speed (24)
+- optional unreal filling capacities (9000, 12000)
+- higher discharge rate (x2)
+- additional color configurations
 
 ### Grapes & Olives Tools
 
-#### Agrisem Disc-O-Vigne (Plow or Subsoiler)
+#### Agrisem Disc-O-Vigne
+- higher working speed (24)
+- optional plow function instead of subsoiler
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
 
 #### TMC Cancela TPN 140
+- higher working speed (24)
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
 
 #### Farmtech Variofex 750
+- higher working speed (24)
+- additional color configurations
 
 #### Hardi Mercury 4000L
+- higher working speed (24)
+- optional additional working widths (5, 6m)
+- additional color configurations
 
 
 ## Livestock
