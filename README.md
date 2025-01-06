@@ -9,6 +9,10 @@ Therefore do not hesitate to rate the mod after you have tested it, and/or add a
 
 Your comments and suggestions are welcome.
 
+> [!TIP]
+> You can use the table of contents menu in the upper right corner to find what you're looking for more easily.
+<img src="res/gh/toc.png">
+
 
 ## Equipments updates
 
