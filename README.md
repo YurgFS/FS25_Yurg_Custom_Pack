@@ -169,6 +169,7 @@ Liftable Consumables
 Agco Multi Silo:
 - Capacity of 10 000 000 for Bulk & Liquids
 - Can load from Pallets & BigBags
+- With or Without silo extension
 
 
 ## Production
@@ -177,6 +178,7 @@ Agco Multi Prod:
 - Grass dryer
 - Grass and/or Chaff silage
 - Forage & Pig Food mixer
+- With or Without silo extension
 
 
 # Compatibility issues
