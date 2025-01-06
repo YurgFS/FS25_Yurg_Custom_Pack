@@ -285,10 +285,6 @@ And the ones made on some vehicles and implements:
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
 
-### Bales
-
-All bales are liftable
-
 ### Loader Wagons
 
 #### Bergmann Shuttle 490 S
@@ -297,6 +293,41 @@ All bales are liftable
 - max pickup liters per second increased (x10)
 - optional unreal filling capacities
 - higher discharge rate
+- additional color configurations
+
+
+## Grapes & Olives
+
+### Grapes & Olives Harvesters
+
+#### Gregoire GL
+- 2 additional motors with higher travel speed (224hp 40kph, 258hp 50kph, 292hp 60kph)
+- motor start duration reduced to 1.5s
+- higher working speed (24)
+- optional unreal filling capacities (9000, 12000)
+- higher discharge rate (x2)
+- additional color configurations
+
+### Grapes & Olives Tools
+
+#### Agrisem Disc-O-Vigne
+- higher working speed (24)
+- optional plow function instead of subsoiler
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
+
+#### TMC Cancela TPN 140
+- higher working speed (24)
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
+
+#### Farmtech Variofex 750
+- higher working speed (24)
+- additional color configurations
+
+#### Hardi Mercury 4000L
+- higher working speed (24)
+- optional additional working widths (5, 6m)
 - additional color configurations
 
 
@@ -333,7 +364,6 @@ All bales are liftable
 - optional unreal filling capacities (10 000, 50 000)
 - higher discharge rate
 - additional color configurations
-
 
 ### Skid Steers
 
@@ -374,58 +404,18 @@ All bales are liftable
 - additional color configurations
 
 
-## Grapes & Olives
+## Materials
 
-### Grapes & Olives Harvesters
+### Farm Consumables
 
-#### Gregoire GL
-- 2 additional motors with higher travel speed (224hp 40kph, 258hp 50kph, 292hp 60kph)
-- motor start duration reduced to 1.5s
-- higher working speed (24)
-- optional unreal filling capacities (9000, 12000)
-- higher discharge rate (x2)
-- additional color configurations
+#### Liftable Consumables (x5 capacity & price)
+- Seeds, Fertilizer, Lime, Herbicide, Sillage additive
+- Chicken, Horse and Pig Food, Mineral Feed
+- Road Salt
 
-### Grapes & Olives Tools
-
-#### Agrisem Disc-O-Vigne
-- higher working speed (24)
-- optional plow function instead of subsoiler
-- optional additional working widths (2.25, 3.5, 4.75, 6m)
-- additional color configurations
-
-#### TMC Cancela TPN 140
-- higher working speed (24)
-- optional additional working widths (2.25, 3.5, 4.75, 6m)
-- additional color configurations
-
-#### Farmtech Variofex 750
-- higher working speed (24)
-- additional color configurations
-
-#### Hardi Mercury 4000L
-- higher working speed (24)
-- optional additional working widths (5, 6m)
-- additional color configurations
-
-
-## Livestock
-
-### Rudolf Hörmann Placeables
-
-#### 5000 Chickens Barn
-
-#### 1000 Cows Barn
-
-#### 1000 Cows Barn with Lely Vector
-
-#### 3000 Pigs Barn
-
-#### 1000 Sheeps Barn
-
-### Other Placeables
-
-#### Two Bee Hives (500 & 2500 L/day)
+#### Liftable Consumables (standard capacity & price)
+- Bale Net, Bale Twine, Rani Wrap
+- Rice, Poplar and Trees saplings
 
 ### Livestock Pallets
 
@@ -443,45 +433,78 @@ All bales are liftable
 #### Honey
 - Liftable (x10 capacity & price)
 
+### Bales
 
-## Consumables
-
-### Liftable Consumables (x5 capacity & price)
-- Seeds, Fertilizer, Lime, Herbicide, Sillage additive
-- Chicken, Horse and Pig Food, Mineral Feed
-- Road Salt
-
-### Liftable Consumables
-- Bale Net, Bale Twine, Rani Wrap
-- Rice, Poplar and Trees saplings
+#### Liftable Bales
+- All bales are liftable
 
 
-## Silos
+## Placeables
 
-### Agco Multi Silo (rebranded)
-- Capacity of 10 000 000 for Bulk & Liquids
-- Can load from Pallets & BigBags
-- With or Without silo extension
+### Livestock
 
-### Liquid Manure Tank & Small Extension
-- Larger Capacity (x10)
-- Faster Loading (x5)
-- Conversion from Digestate to Slurry increased
-- Liquid Manure base tank support extension increased to 500m
+#### Rudolf Hörmann Big Chickens Barn
+- 5000 chickens
+- 125 000 food capacity
 
-### Manure Heap & extension
-- Larger Capacity (x5)
-- Faster Loading (x5)
-- Manure Heap now support extension, same as Liquid Manure base tank
+#### Rudolf Hörmann Big Cows Barn
+- 1000 cows
+- 800 000 food capacity
+- 500 000 straw capacity
+- 625 000 milk capacity
+- 1 500 000 liquid manure capacity
+- 1 500 000 manure capacity (not sure it will work)
 
+#### Rudolf Hörmann Big Cows Barn with Lely Vector
+- same stats as the one without Lely Vector robot
+- Lely Vector robot additional capacities:
+  - 1 500 000 for silage
+  - 600 000 for mineral feed
+  - 600 000 for dry grass
+  - 600 000 for straw
 
-## Production
+#### Rudolf Hörmann Big Pigs Barn
+- 3000 pigs
+- 1 000 000 food capacity
+- 500 000 straw capacity
+- 1 500 000 liquid manure capacity
+- 1 500 000 manure capacity (not sure it will work)
 
-### Agco Multi Prod (rebranded)
-- Grass dryer
-- Grass and/or Chaff silage
-- Forage & Pig Food mixer
-- With or Without silo extension
+#### Rudolf Hörmann Big Sheeps Barn
+- 1000 sheeps and/or goats
+- 180 000 food capacity
+
+#### Small Bee Hive
+- 500 L/day
+
+#### Large Bee Hive
+- 2500 L/day
+
+### Silos & Productions
+
+#### Agco Multi Silo
+- rebranded as Agco (other brands decals replaced by Agco)
+- capacity of 10 000 000 for Bulk & Liquids
+- can load from Pallets & BigBags
+- with or without silo extension
+
+#### Agco Multi Prod
+- rebranded as Agco (other brands decals replaced by Agco)
+- grass dryer
+- grass and/or chaff silage
+- forage & pig food mixer
+- with or without silo extension
+
+#### Liquid Manure Tank & Small Extension
+- larger Capacity (x10)
+- faster Loading (x5)
+- conversion from Digestate to Slurry increased
+- liquid manure base tank support extension increased to 500m
+
+#### Manure Heap & extension
+- larger Capacity (x5)
+- faster Loading (x5)
+- manure Heap now support extension, same as liquid manure base tank
 
 
 # Compatibility issues
