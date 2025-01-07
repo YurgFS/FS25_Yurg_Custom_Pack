@@ -12,15 +12,19 @@ Addition of Manure Heap & Extension
 - Faster Loading (x5)
 - Manure Heap now support extension, same as Liquid Manure base tank
 
-Gregoire GL
-- Fix: 292hp engine was displaying a wrong value in shop (258 instead of 292)
-- higher discharge rate (x2)
-
 Samson US 235 Dynamic
-- added LIME & FERTILIZER
+- now able to spread lime and fertilizer
+- now able to discharge
+
+Farmtech Variofex 750
+- now able to spread lime and fertilizer (wide spread mode only at this time)
 - now able to discharge
 
 Added consumable combinations on vehicles and implements (bale net, fertilizer, seeds...)
+
+Gregoire GL
+- Fix: 292hp engine was displaying a wrong value in shop (258 instead of 292)
+- higher discharge rate (x2)
 
 Magsi Manure Fork
 - higher discharge rate

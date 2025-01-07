@@ -325,6 +325,8 @@ And the ones made on some vehicles and implements:
 
 #### Farmtech Variofex 750
 - higher working speed (24)
+- can also spread lime and fertilizer (wide spread mode only at this time)
+- now able to discharge
 - additional color configurations
 
 #### Hardi Mercury 4000L
