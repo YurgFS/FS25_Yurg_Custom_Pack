@@ -1,5 +1,5 @@
 
-## v1.1.6.0 (ongoing)
+## v1.1.6.0 (07/01/2025)
 
 Addition of Liquid Manure Tank & Extension
 - Larger Capacity (x10)
