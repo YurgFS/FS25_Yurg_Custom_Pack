@@ -1,3 +1,9 @@
+## TBD (ongoing)
+
+Addition of Provitis MP 122 OCEA
+- Higher working speed (35)
+- Colour customisations
+
 
 ## v1.1.6.0 (07/01/2025)
 
@@ -31,6 +37,7 @@ Higher discharge rate for:
 - Magsi Shovel
 - Paladin High Dump Bucket
 - Paladin Manure Fork
+
 
 ## v1.1.5.0 (06/01/2025)
 
