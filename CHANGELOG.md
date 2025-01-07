@@ -14,11 +14,11 @@ Addition of Manure Heap & Extension
 
 Samson US 235 Dynamic
 - now able to spread lime and fertilizer
-- now able to discharge
+- now able to discharge on silos
 
 Farmtech Variofex 750
 - now able to spread lime and fertilizer (wide spread mode only at this time)
-- now able to discharge
+- now able to discharge on silos
 
 Added consumable combinations on all vehicles and implements (bale net, fertilizer, seeds...)
 
