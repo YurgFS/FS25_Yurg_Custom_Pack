@@ -75,7 +75,7 @@ And the ones made on some vehicles and implements:
 - additional fuel tank options (670, 730, 790, 850L)
 - additional color configurations
 
-#### Small Tractors:
+### Small Tractors:
 
 #### Antonio Carraro Mach 4R
 - 5 additional motors with higher travel speed (up to 236hp 74kph)
@@ -488,14 +488,14 @@ And the ones made on some vehicles and implements:
 - rebranded as Agco (other brands decals replaced by Agco)
 - capacity of 10 000 000 for Bulk & Liquids
 - can load from Pallets & BigBags
-- with or without silo extension
+- with or without silo extension enabled
 
 #### Agco Multi Prod
 - rebranded as Agco (other brands decals replaced by Agco)
 - grass dryer
 - grass and/or chaff silage
 - forage & pig food mixer
-- with or without silo extension
+- with or without silo extension enabled
 
 #### Liquid Manure Tank & Extension
 - larger Capacity (x10)
