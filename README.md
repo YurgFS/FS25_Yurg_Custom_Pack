@@ -22,8 +22,8 @@ Here is a list of adjustments made on all vehicles and implements:
 
 And the ones made on some vehicles and implements:
 - additional motors (real hp based on torque, rpm...) with higher travel speeds (and fuel consumption)
+- customized gearbox based on real options from the manufacturers
 - additional fuel tank size options
-- customized gearbox options from the manufacturers
 - higher working speed (24 or 35kph)
 - higher discharge rate
 - optional additional plow or roller function
