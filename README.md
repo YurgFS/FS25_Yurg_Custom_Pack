@@ -2,186 +2,517 @@
 
 # Yurg's Custom Pack
 
-Other vehicules, implements and customisations to be added later on, but it might already be usefull for some people.
-
 Some ayatollahs, who believe that everyone should play like them, seems to have great fun giving a single star to any mod that does not interest them or does not seems real to them.
 Therefore do not hesitate to rate the mod after you have tested it, and/or add a comment if something is not right for you.
 
 Your comments and suggestions are welcome.
 
+> [!TIP]
+> You can use the table of contents menu in the upper right corner to find what you're looking for more easily.
+> <img src="res/gh/toc.png">
+
 
 ## Equipments updates
 
- Here is a list of adjustments made on most vehicles and implements:
-- Additional engines with higher travel speed
-- Higher working speed (24 or 35)
-- Optional working widths for some of them
-- Optional filling capacities for some of them
-- Optional trailer hitch for some of them
-- Additional color customisations (except Krone)
+Here is a list of adjustments made on all vehicles and implements:
+- lifetime of vehicle used to calculate price drop, in months (x10)
+- time to complete worn (x10)
+- motor start duration reduced to 1.5s
+- additional color configurations (except Krone)
+
+And the ones made on some vehicles and implements:
+- additional motors (real hp based on torque, rpm...) with higher travel speeds (and fuel consumption)
+- customized gearbox based on real options from the manufacturers
+- additional fuel tank size options
+- higher working speed (24 or 35kph)
+- higher discharge rate
+- optional additional plow or roller function
+- optional working widths
+- optional unreal filling capacities
+- optional trailer hitch
 
 
 ## Main Vehicles
 
-Trucks:
-- Lizard Dragon
-- Lizard Dragon Electric
-- Volvo FH16
-- Volvo FH16 Electric
+### Trucks
 
-Large Tractors:
-- Valtra S Series
+#### Lizard Dragon
+- 1 additional motor with higher travel speed (340hp 110kph)
+- motor start duration reduced to 1.5s
+- additional optional unreal filling capacities
+- additional optional trailer hitch
+- additional color configurations
 
-Small Tractors:
-- Antonio Carraro Mach 4R
+#### Lizard Dragon Electric
+- new electric vehicle based on the diesel one
+- 1 additional motor with higher travel speed (340hp 110kph)
+- motor start duration reduced to 0.5s (electric...)
+- additional optional unreal filling capacities
+- additional optional trailer hitch
+- additional color configurations
+
+#### Volvo FH16
+- higher base motors gearboxes updated using real options from the manufacturer, adding some low gears with higher torque
+  - ATO3112F ASO-C
+  - ATO3512F ASO-ULC
+  - ATO3512F ASO-ULC ARSO-MSR
+- two additional motors with higher travel speed (850hp 110kph and 950hp 120kph)
+- motor start duration reduced to 1.5s
+- additional optional trailer hitch (usefull to move dolly..)
+- additional color configurations
+
+#### Volvo FH16 Electric
+- 1 additional motor with higher travel speed (825hp 110kph)
+- motor start duration reduced to 0.5s (electric...)
+- additional optional trailer hitch (usefull to move dolly..)
+- additional color configurations
+
+### Large Tractors
+
+#### Valtra S Series
+- 3 additional motors with higher travel speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
+- motor start duration reduced to 1.5s
+- additional fuel tank options (670, 730, 790, 850L)
+- additional color configurations
+
+### Small Tractors:
+
+#### Antonio Carraro Mach 4R
+- 5 additional motors with higher travel speed (up to 236hp 74kph)
+- motor start duration reduced to 1.5s
+- additional fuel tank options (60, 70L)
+- additional color configurations
 
 
 ## Trailers
 
-Bulk trailers:
-- Krampe Big Body 750 S
-- Krampe RamBody AS 750+
-- Krone GX 520
-- Krampe SKS 30/1050
+### Bulk trailers
 
-All Liquids Trailers:
-- Abi 550
-- Abi 1600
-- Lizard MKS 8
-- Lizard MKS 32
+#### Krampe Big Body 750 S
+- higher discharge rate
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color configurations
 
-Dolly:
-- Krampe Dolly 10 L
+#### Krampe RamBody AS 750+
+- higher discharge rate
+- optional unreal filling capacities
+- additional color configurations
+
+#### Krampe SKS 30/1050
+- higher discharge rate
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color configurations
+
+#### Krone GX 520
+- higher discharge rate
+- optional unreal filling capacities
+- additional color configurations
+
+### All Liquids Trailers
+
+#### Abi 550
+- higher discharge rate
+- optional unreal filling capacities
+- additional color configurations
+
+#### Abi 1600
+- higher discharge rate
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color configurations
+
+#### Lizard MKS 8
+- higher discharge rate
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color configurations
+
+#### Lizard MKS 32
+- higher discharge rate
+- optional unreal filling capacities
+- optional trailer hitch
+- additional color configurations
+
+### Others
+
+#### Krampe Dolly 10 L
+- additional color configurations
 
 
 ## Fields preparation
 
-Sprayers:
-- Agrifac Condor Endurance II
+### Sprayers
 
-Slurry  Spreaders:
-- Samson Agro PG II 28 Genesis
-- Samson SBH4 36
+#### Agrifac Condor Endurance II
+- 1 additional motor with higher travel speed (620hp 80kph)
+- motor start duration reduced to 1.5s
+- optional unreal filling capacities
+- additional color configurations
 
-Manure Spreaders:
-- Samson US 235 Dynamic
+### Slurry  Spreaders
 
-Planters:
-- Agco Planter 4905 (rebranded)
+#### Samson Agro PG II 28 Genesis
+- optional unreal filling capacities
+- additional color configurations
+
+#### Samson SBH4 36
+- higher working speed (35kph)
+- optional working widths
+
+### Manure Spreaders
+
+#### Samson US 235 Dynamic
+- higher working speed (35kph)
+- optional working widths
+- optional unreal filling capacities
+- can also spread lime and fertilizer
+- now able to discharge on silos
+- additional color configurations
+
+### Planters
+
+#### Agco Planter 4905
+- rebranded as Agco (other brand decals replaced by Agco)
+- multifruit (crops, root fruits, rice...)
+- higher working speed (35kph)
+- optional additionnal roller function
+- optional unreal filling capacities
+- additional color configurations
 
 
 ## Combine Harvesters
 
-Combine Harvesters:
-- Agco Ideal
+### Combine Harvesters
 
-Corn Headers for Agco Ideal:
-- Agco C16F
+#### Agco Ideal
+- rebranded as Agco (other brands decals replaced by Agco)
+- base motors travel speed updates (680hp 50kph, 790hp 60kph)
+- 1 additional motor with higher travel speed (900hp 70kph)
+- motor start duration reduced to 1.5s
+- fuel tank size is modified depending on the chosen motor
+- optional unreal filling capacities
+- higher discharge rate
+- additional color configurations
 
-Grain Headers for Agco Ideal:
-- Agco FD250 FlexDraper®
-- Agco FD250 Multifruit (generate a lot of errors)
-- Agco HDHT 52 for FD250
-- Agco DynaFlex 9255 40FT
-- Agco PowerFlow 30FT & 40FT
+### Corn Headers for Agco Ideal
 
-Grain Headers for other Combines:
-- MacDon FD250 FlexDraper®
-- MacDon FD250 Multifruit (generate a lot of errors)
+#### Agco C16F
+- rebranded as Agco (other brands decals replaced by Agco)
+- combine attachment adjusted to the size of the Agco Ideal
+- higher working speed (35kph)
+- additional color configurations
+
+### Grain Headers for Agco Ideal
+
+#### Agco FD250 FlexDraper®
+- rebranded as Agco (other brands decals replaced by Agco)
+- combine attachment adjusted to the size of the Agco Ideal
+- higher working speed (35kph)
+- additional color configurations
+
+#### Agco FD250 Multifruit
+- rebranded as Agco (other brands decals replaced by Agco)
+- combine attachment adjusted to the size of the Agco Ideal
+- multifruit (generate a lot of errors)
+- higher working speed (35kph)
+- additional color configurations
+
+#### Agco HDHT 52 for FD250
+- higher working speed (35kph)
+- additional color configurations
+
+#### Agco DynaFlex 9255 40FT
+- higher working speed (35kph)
+- additional color configurations
+
+#### Agco PowerFlow 30FT & 40FT
+- higher working speed (35kph)
+- additional color configurations
+
+### Grain Headers for other Combines
+
+#### MacDon FD250 FlexDraper®
+- higher working speed (35kph)
+
+#### MacDon FD250 Multifruit
+- higher working speed (35kph)
+- multifruit (generate a lot of errors)
 
 
 ## Forage Harvesters
 
-Forage Harvester:
-- Krone BiG X 1180
+### Forage Harvester
 
-Forage Headers:
-- Krone X-Collect 900-3
-- Krone XDisc 620
-- Krone EasyFlow 300 S
+#### Krone BiG X 1180
+- 3 additional motors with higher travel speed (1500hp 53kph, 1800hp 63kph, 2100hp 73kph)
+- motor start duration reduced to 1.5s
+- silage additive increased capacity
+- higher discharge rate (to avoid a bottleneck due to higher working speed)
+
+### Forage Headers
+
+#### Krone X-Collect 900-3
+- higher working speed (35kph)
+
+#### Krone XDisc 620
+- higher working speed (35kph)
+
+#### Krone EasyFlow 300 S
+- higher working speed (35kph)
 
 
 ## Grass, Hay and Straw
 
-Mower:
-- Krone BiG M 450
+### Mowers
 
-Balers:
-- Krone BiG Pack 1290 HDP VC
-- Krone VariPack V 190 XC Plus (with prechamber)
+#### Krone BiG M 450
+- 3 additional motors with higher travel speed (560hp 53kph, 670hp 63kph, 780hp 73kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
 
-All bales are liftable
+### Balers
 
-Loader Wagons:
-- Bergmann Shuttle 490 S
+#### Krone BiG Pack 1290 HDP VC
+- higher working speed (35kph)
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
 
+#### Krone VariPack V 190 XC Plus
+- added prechamber (may no longer have to stop)
+- higher working speed (24kph, cannot go faster without having to stop)
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
 
-## Materials Handling
+### Loader Wagons
 
-Telehandlers:
-- Merlo MF44.9CS-170-CVTRONIC
-- All Magsi Telehandler tools
-
-Skid Steers:
-- Kubota SVL 97-2
-- All Paladin Skid Steer tools
+#### Bergmann Shuttle 490 S
+- higher working speed (35kph)
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
+- optional unreal filling capacities
+- higher discharge rate
+- additional color configurations
 
 
 ## Grapes & Olives
 
-Grapes & Olives Harvesters:
-- Gregoire GL
+### Grapes & Olives Harvesters
 
-Grapes & Olives Tools:
-- Agrisem Disc-O-Vigne (Plow or Subsoiler)
-- TMC Cancela TPN 140
-- Farmtech Variofex 750
-- Hardi Mercury 4000L
+#### Gregoire GL
+- 2 additional motors with higher travel speed (224hp 40kph, 258hp 50kph, 292hp 60kph)
+- motor start duration reduced to 1.5s
+- higher working speed (24)
+- optional unreal filling capacities (9000, 12000)
+- higher discharge rate (x2)
+- additional color configurations
+
+### Grapes & Olives Tools
+
+#### Agrisem Disc-O-Vigne
+- higher working speed (24)
+- optional plow function instead of subsoiler
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
+
+#### TMC Cancela TPN 140
+- higher working speed (24)
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
+
+#### Farmtech Variofex 750
+- higher working speed (24)
+- can also spread lime and fertilizer (wide spread mode only at this time)
+- now able to discharge on silos
+- additional color configurations
+
+#### Hardi Mercury 4000L
+- higher working speed (24)
+- optional additional working widths (5, 6m)
+- additional color configurations
 
 
-## Livestock
+## Materials Handling
 
-Rudolf Hörmann Placeables:
-- 5000 Chickens Barn
-- 1000 Cows Barn
-- 1000 Cows Barn with Lely Vector
-- 3000 Pigs Barn
-- 1000 Sheeps Barn
+### Telehandlers
 
-Other Placeables
-- Two Bee Hives (500 & 2500 L/day)
+#### Merlo MF44.9CS-170-CVTRONIC
+- 2 additional motors with higher travel speed (210hp 53kph, 250hp 63kph)
+- motor start duration reduced to 1.5s
+- additional optional fuel tank capacities (200, 260L)
+- additional color configurations
 
-Liftable Livestock Pallets (x10 capacity & price)
-- Eggs, Goat Milks, Wools, Honey
+### Telehandler tools
+
+#### Magsi Bale Fork
+- additional color configurations
+
+#### Magsi Bale Grab
+- additional color configurations
+
+#### Magsi Pallet Fork
+- additional color configurations
+
+#### Magsi Log Fork
+- additional color configurations
+
+#### Magsi Manure Fork
+- optional unreal filling capacities (10 000, 50 000)
+- higher discharge rate
+- additional color configurations
+
+#### Magsi Shovel
+- optional unreal filling capacities (10 000, 50 000)
+- higher discharge rate
+- additional color configurations
+
+### Skid Steers
+
+#### Kubota SVL 97-2
+- 2 additional motors with higher travel speed (126hp 24kph, 156hp 36kph)
+- motor start duration reduced to 1.5s
+- additional optional fuel tank capacities (160, 200L)
+- additional color configurations
+
+### Skid Steer tools
+
+#### Paladin Bale Fork
+- additional color configurations
+
+#### Paladin Bale Grab
+- additional color configurations
+
+#### Paladin Pallet Fork
+- additional color configurations
+
+#### Paladin Log Fork
+- additional color configurations
+
+#### Paladin Manure Fork
+- optional unreal filling capacities (10000, 50000)
+- higher discharge rate
+- additional color configurations
+
+#### Paladin High Dump Bucket
+- optional unreal filling capacities (10000, 50000)
+- higher discharge rate
+- additional color configurations
+
+#### Paladin SFB 750
+- additional color configurations
+
+#### Paladin Stump Cutter
+- additional color configurations
 
 
-## Consumables
+## Materials
 
-Liftable Consumables (x5 capacity & price)
+### Farm Consumables
+
+#### Liftable Consumables (x5 capacity & price)
 - Seeds, Fertilizer, Lime, Herbicide, Sillage additive
 - Chicken, Horse and Pig Food, Mineral Feed
 - Road Salt
 
-Liftable Consumables
+#### Liftable Consumables (standard capacity & price)
 - Bale Net, Bale Twine, Rani Wrap
 - Rice, Poplar and Trees saplings
 
+### Livestock Pallets
 
-## Silos
+#### Eggs Boxes
+- Liftable (x10 capacity & price)
 
-Agco Multi Silo:
-- Capacity of 10 000 000 for Bulk & Liquids
-- Can load from Pallets & BigBags
-- With or Without silo extension
+#### Goat Milk Cans
+- Liftable (x10 capacity & price)
+- can fill a liquid trailer
+- can be stored in some silos (faster than filling a trailer)
+
+#### Wools
+- Liftable (x10 capacity & price)
+
+#### Honey
+- Liftable (x10 capacity & price)
+
+### Bales
+
+#### Liftable Bales
+- All bales are liftable
 
 
-## Production
+## Placeables
 
-Agco Multi Prod:
-- Grass dryer
-- Grass and/or Chaff silage
-- Forage & Pig Food mixer
-- With or Without silo extension
+### Livestock
+
+#### Rudolf Hörmann Big Chickens Barn
+- 5000 chickens
+- 125 000 food capacity
+
+#### Rudolf Hörmann Big Cows Barn
+- 1000 cows
+- 800 000 food capacity
+- 500 000 straw capacity
+- 625 000 milk capacity
+- 1 500 000 liquid manure capacity
+- 1 500 000 manure capacity (not sure it will work)
+
+#### Rudolf Hörmann Big Cows Barn with Lely Vector
+- same stats as the one without Lely Vector robot
+- Lely Vector robot additional capacities:
+  - 1 500 000 for silage
+  - 600 000 for mineral feed
+  - 600 000 for dry grass
+  - 600 000 for straw
+
+#### Rudolf Hörmann Big Pigs Barn
+- 3000 pigs
+- 1 000 000 food capacity
+- 500 000 straw capacity
+- 1 500 000 liquid manure capacity
+- 1 500 000 manure capacity (not sure it will work)
+
+#### Rudolf Hörmann Big Sheeps Barn
+- 1000 sheeps and/or goats
+- 180 000 food capacity
+
+#### Small Bee Hive
+- 500 L/day
+
+#### Large Bee Hive
+- 2500 L/day
+
+### Silos & Productions
+
+#### Agco Multi Silo
+- rebranded as Agco (other brands decals replaced by Agco)
+- capacity of 10 000 000 for Bulk & Liquids
+- can load from Pallets & BigBags
+- with or without silo extension enabled
+
+#### Agco Multi Prod
+- rebranded as Agco (other brands decals replaced by Agco)
+- grass dryer
+- grass and/or chaff silage
+- forage & pig food mixer
+- with or without silo extension enabled
+
+#### Liquid Manure Tank & Extension
+- larger Capacity (x10)
+- faster Loading (x5)
+- conversion from Digestate to Slurry increased
+- liquid manure base tank support extension increased to 500m
+
+#### Manure Heap & Extension
+- larger Capacity (x5)
+- faster Loading (x5)
+- manure Heap now support extension, same as liquid manure base tank
+
+
+# Recommend Mods
+
+Here is a list of mods I do recommend:
+- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
 # Compatibility issues
@@ -205,12 +536,6 @@ It is not recommended to use mods that update pallets as it may interfere with t
 For any issue, suggestion or question, please use one of the following:
 - https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose
 - https://www.kingmods.net/en/search?games=fs25&q=Yurg+Custom+Pack
-
-
-# Recommend Mods
-
-Here is a list of mods I do recommend:
-- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
 
 
 # Licence
