@@ -4,6 +4,8 @@ Addition of Provitis MP 122 OCEA
 - Higher working speed (24)
 - Colour customisations
 
+GitHub Documentation
+- removed the header 4 for each tool, making the table of content useless (too long)
 
 ## v1.1.6.0 (07/01/2025)
 
