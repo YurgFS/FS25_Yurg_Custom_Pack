@@ -1,7 +1,7 @@
 ## TBD (ongoing)
 
 Addition of Provitis MP 122 OCEA
-- Higher working speed (35)
+- Higher working speed (24)
 - Colour customisations
 
 

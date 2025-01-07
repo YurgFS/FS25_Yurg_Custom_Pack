@@ -333,7 +333,7 @@ And the ones made on some vehicles and implements:
 - additional color configurations
 
 **Provitis MP 122 OCEA**
-- Higher working speed (35)
+- Higher working speed (24)
 - Colour customisations
 
 ## Materials Handling
