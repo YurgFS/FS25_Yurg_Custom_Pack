@@ -523,12 +523,17 @@ It is messing up with some of the “material type” settings on some vehicles.
 
 Issue 0027127 still on going on GIANTS Software side. (it is one of their mods)
 
+### Working width mods
 
-### Pallets update mods
+It is not recommended to use mods that update the working with of equipments, as some of them will not take the actual width into account and set a fixed value.
+Like this one:
+- **Increased Work Areas for Pickups**
+
+### Pallets mods
 
 It is not recommended to use mods that update pallets as it may interfere with this mod, and specially those ones:
-- Liftable Pallets And Bales
-- Larger capacity pallets
+- **Liftable Pallets And Bales**
+- **Larger capacity pallets**
 
 
 # Support
