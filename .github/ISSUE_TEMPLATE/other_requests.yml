@@ -1,4 +1,4 @@
-name: ❓ Other requests
+name: ❓ Other request
 description: For any purpose that is not a Bug report nor a Feature request
 title: "[Other]: "
 labels: ["question", "triage"]
@@ -9,6 +9,13 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this request!
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Could you please provide us the version you are using?
+    validations:
+      required: true
   - type: textarea
     id: question
     attributes:

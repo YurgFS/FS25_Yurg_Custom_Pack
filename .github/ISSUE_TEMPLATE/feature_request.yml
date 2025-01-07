@@ -9,13 +9,20 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Could you please provide us the version you are using?
+    validations:
+      required: true
   - type: textarea
     id: what-happened
     attributes:
       label: Is your feature request related to a problem? Please describe.
       description: A clear and concise description of what the problem is.
     validations:
-      required: true
+      required: false
   - type: textarea
     id: solution
     attributes:
