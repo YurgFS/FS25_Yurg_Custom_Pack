@@ -20,23 +20,17 @@ Farmtech Variofex 750
 - now able to spread lime and fertilizer (wide spread mode only at this time)
 - now able to discharge
 
-Added consumable combinations on vehicles and implements (bale net, fertilizer, seeds...)
+Added consumable combinations on all vehicles and implements (bale net, fertilizer, seeds...)
 
 Gregoire GL
 - Fix: 292hp engine was displaying a wrong value in shop (258 instead of 292)
 - higher discharge rate (x2)
 
-Magsi Manure Fork
-- higher discharge rate
-
-Magsi Shovel
-- higher discharge rate
-
-Paladin High Dump Bucket
-- higher discharge rate
-
-Paladin Manure Fork
-- higher discharge rate
+Higher discharge rate for:
+- Magsi Manure Fork
+- Magsi Shovel
+- Paladin High Dump Bucket
+- Paladin Manure Fork
 
 ## v1.1.5.0 (06/01/2025)
 
