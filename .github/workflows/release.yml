@@ -22,7 +22,7 @@ jobs:
       - name: "Prepare Release"
         shell: bash
         run: |
-          if [[ "${PR_TITLE}" =~ ^v[1-9]?[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+          if [[ "${PR_TITLE}" =~ ^v[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
             echo "RELEASE_NAME=${PR_TITLE}" >> "${GITHUB_ENV}"
             echo "RELEASE_TAG=${PR_TITLE}" >> "${GITHUB_ENV}"
             RELEASE_BODY="## Download\n\nOnly use the following download link:\n- https://sharemods.com/xxxxxx/FS25_Yurg_Custom_Pack.zip.html\n\nUploading all or part of this mod on another website is not permitted.\n\n## Changelog"
