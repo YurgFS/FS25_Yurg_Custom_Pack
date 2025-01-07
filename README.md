@@ -169,6 +169,8 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - optional working widths
 - optional unreal filling capacities
+- can also spread lime and fertilizer
+- now able to discharge
 - additional color configurations
 
 ### Planters
