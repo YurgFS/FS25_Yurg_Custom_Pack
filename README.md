@@ -2,8 +2,6 @@
 
 # Yurg's Custom Pack
 
-Other vehicules, implements and customisations to be added later on, but it might already be usefull for some people.
-
 Some ayatollahs, who believe that everyone should play like them, seems to have great fun giving a single star to any mod that does not interest them or does not seems real to them.
 Therefore do not hesitate to rate the mod after you have tested it, and/or add a comment if something is not right for you.
 
