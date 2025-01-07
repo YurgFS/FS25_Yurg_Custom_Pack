@@ -336,6 +336,7 @@ And the ones made on some vehicles and implements:
 - Higher working speed (24)
 - Colour customisations
 
+
 ## Materials Handling
 
 ### Telehandlers
@@ -517,23 +518,20 @@ Here is a list of mods I do recommend:
 
 # Compatibility issues
 
-**Unlimited Color Configurations** [#1](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/1)
+`Unlimited Color Configurations` by GIANTS Software [#1](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/1)
 
-It is messing up with some of the “material type” settings on some vehicles.
+> It is messing up with some of the “material type” settings on some vehicles.
+> 25/12/2024 : Issue 0027127 on going on GIANTS Software side.
 
-Issue 0027127 still on going on GIANTS Software side. (it is one of their mods)
+`Increased Work Areas for Pickups` by Ifko[nator]
 
-**Working width mods**
+> Please avoid mods that update the working width of equipments with some fixed value without first checking if the current value is higher or not.
 
-It is not recommended to use mods that update the working with of equipments, as some of them will not take the actual width into account and set a fixed value.
-Like this one:
-- **Increased Work Areas for Pickups**
+`Liftable Pallets And Bales`  by Jos
 
-**Pallets mods**
+`Larger capacity pallets` by Virgile0, TopAce888, pipopaaulus
 
-It is not recommended to use mods that update pallets as it may interfere with this mod, and specially those ones:
-- **Liftable Pallets And Bales**
-- **Larger capacity pallets**
+> Please avoid mods that update pallets as it may interfere with this mod. And specially the Livestock pallets (x10) if you are using the updated barns because the pallet spawn area will be too small.
 
 
 # Support
