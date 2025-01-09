@@ -117,7 +117,7 @@ And the ones made on some vehicles and implements:
 - optional unreal filling capacities
 - additional color configurations
 
- **Abi 1600**
+**Abi 1600**
 - higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
@@ -196,15 +196,15 @@ And the ones made on some vehicles and implements:
 - higher discharge rate
 - additional color configurations
 
-### Corn Headers for Agco Ideal
+### Corn Headers
 
- **Agco C16F**
+**Agco C16F**
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
 - higher working speed (35kph)
 - additional color configurations
 
-### Grain Headers for Agco Ideal
+### Grain Headers
 
 **Agco FD250 FlexDraper®**
 - rebranded as Agco (other brands decals replaced by Agco)
@@ -231,12 +231,12 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - additional color configurations
 
-### Grain Headers for other Combines
-
 **MacDon FD250 FlexDraper®**
+- trailer option not suitable for Agco Ideal
 - higher working speed (35kph)
 
 **MacDon FD250 Multifruit**
+- trailer option not suitable for Agco Ideal
 - higher working speed (35kph)
 - multifruit (generate a lot of errors)
 
@@ -255,6 +255,9 @@ And the ones made on some vehicles and implements:
 
 **Krone X-Collect 900-3**
 - higher working speed (35kph)
+
+**X-Collect 900-3 Poplar Edition**
+- same as Krone X-Collect 900-3 but dedicated to poplar
 
 **Krone XDisc 620**
 - higher working speed (35kph)
