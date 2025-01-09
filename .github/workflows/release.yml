@@ -1,0 +1,70 @@
+name: New Release
+run-name: New Release ${{ github.event.pull_request.title }} by ${{ github.actor }}
+env:
+  PR_ACTOR: ${{ github.actor }}
+  PR_TITLE: ${{ github.event.pull_request.title }}
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  create_release:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: "CheckOut"
+        uses: actions/checkout@v4
+      - name: "Prepare Release"
+        shell: bash
+        run: |
+          if [[ "${PR_TITLE}" =~ ^v[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            echo "RELEASE_NAME=${PR_TITLE}" >> "${GITHUB_ENV}"
+            echo "RELEASE_TAG=${PR_TITLE}" >> "${GITHUB_ENV}"
+            RELEASE_BODY="## Download\n\nOnly use the following download link:\n- https://sharemods.com/xxxxxx/FS25_Yurg_Custom_Pack.zip.html\n\nUploading all or part of this mod on another website is not permitted.\n\n## Changelog"
+            echo "RELEASE_BODY=${RELEASE_BODY}" >> "${GITHUB_ENV}"
+          fi
+      - name: "Create Release"
+        uses: actions/github-script@v7
+        with:
+          github-token: "${{ secrets.GIT_BOT_TOKEN }}"
+          script: |
+            const fs = require('fs');
+            if (!process.env.RELEASE_NAME) {
+              core.setFailed("The environment variable RELEASE_NAME is not defined.")
+              return;
+            }
+            if (!process.env.RELEASE_TAG) {
+              core.setFailed("The environment variable RELEASE_TAG is not defined.")
+              return;
+            }
+            if (!process.env.RELEASE_BODY) {
+              core.setFailed("The environment variable RELEASE_BODY is not defined.")
+              return;
+            }
+            console.log(`Repository   : '${context.repo.repo}'`);
+            console.log(`Owner        : '${context.repo.owner}'`);
+            console.log(`Release Name : '${process.env.RELEASE_NAME}'`);
+            console.log(`Release Tag  : '${process.env.RELEASE_TAG}'`);
+            try {
+              const response = await github.rest.repos.createRelease({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: process.env.RELEASE_NAME,
+                body: process.env.RELEASE_BODY,
+                tag_name: process.env.RELEASE_TAG,
+                generate_release_notes: true,
+                prerelease: false,
+                draft: true,
+              });
+              core.exportVariable('RELEASE_ID', response.data.id);
+              core.exportVariable('RELEASE_UPLOAD_URL', response.data.upload_url);
+              console.log(`Release Id   : '${process.env.RELEASE_ID}'`);
+            } catch (error) {
+              core.setFailed(`Create Release: ${error.message}`);
+              return;
+            }

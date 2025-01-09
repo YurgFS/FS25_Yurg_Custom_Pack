@@ -1,22 +1,28 @@
 changelog:
   exclude:
     labels:
-      - ignore-for-release
+      - ignore*
+      - github*
     authors:
       - octocat
   categories:
-    - title: Breaking Changes
+    - title: 🛠️ Breaking Changes
       labels:
         - breaking-change
-    - title: New Features
+    - title: 🎯 Features
       labels:
+        - feature
         - enhancement
-    - title: Features
+    - title: 🩹 Fixes
+      labels:
+        - bug
+        - fix
+    - title: 🧹 Others
       labels:
         - "*"
       exclude:
         labels:
           - dependencies
-    - title: Dependencies
+    - title: 👒 Dependencies
       labels:
         - dependencies
