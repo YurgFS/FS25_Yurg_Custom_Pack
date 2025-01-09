@@ -1,4 +1,4 @@
-## v1.1.7.0 (ongoing)
+## v1.1.7.0 (09/01/2025)
 
 Addition of Provitis MP 122 OCEA
 - Higher working speed (24)
@@ -10,10 +10,10 @@ Updated fill types for:
 - MacDon FD250 Multi-fruit
 
 Agco Planter 4905:
-- cotton added
+- cotton added (as requested)
 
 Krone BiG X 1180:
-- addition of X-Collect 900-3 Poplar Edition
+- addition of X-Collect 900-3 Poplar Edition (as requested)
 
 GitHub Documentation: table of content useless (too long)
 - header 4 removed for each tool
