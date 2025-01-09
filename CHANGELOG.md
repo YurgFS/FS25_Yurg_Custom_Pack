@@ -4,9 +4,6 @@ Addition of Provitis MP 122 OCEA
 - Higher working speed (24)
 - Colour customisations
 
-GitHub Documentation
-- removed the header 4 for each tool, making the table of content useless (too long)
-
 Updated fill types for:
 - Agco IDEAL
 - Agdo FD250 Multi-fruit
@@ -17,6 +14,9 @@ Agco Planter 4905:
 
 Krone BiG X 1180:
 - addition of X-Collect 900-3 Poplar Edition
+
+GitHub Documentation: table of content useless (too long)
+- header 4 removed for each tool
 
 ## v1.1.6.0 (07/01/2025)
 
