@@ -77,7 +77,7 @@ And the ones made on some vehicles and implements:
 
 ### Small Tractors:
 
-** Antonio Carraro Mach 4R**
+**Antonio Carraro Mach 4R**
 - 5 additional motors with higher travel speed (up to 236hp 74kph)
 - motor start duration reduced to 1.5s
 - additional fuel tank options (60, 70L)
@@ -88,13 +88,13 @@ And the ones made on some vehicles and implements:
 
 ### Bulk trailers
 
-** Krampe Big Body 750 S**
+**Krampe Big Body 750 S**
 - higher discharge rate
 - optional unreal filling capacities
 - optional trailer hitch
 - additional color configurations
 
-** Krampe RamBody AS 750+**
+**Krampe RamBody AS 750+**
 - higher discharge rate
 - optional unreal filling capacities
 - additional color configurations
@@ -212,10 +212,10 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - additional color configurations
 
-**Agco FD250 Multifruit**
+**Agco FD250 Multi-fruit**
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
-- multifruit (generate a lot of errors)
+- multi-fruit (generate a lot of errors and my not work for missions)
 - higher working speed (35kph)
 - additional color configurations
 
@@ -227,6 +227,11 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - additional color configurations
 
+**DynaFlex 9255 Multi-fruit**
+- multi-fruit (generate a lot of errors and my not work for missions)
+- higher working speed (35kph)
+- additional color configurations
+
 **Agco PowerFlow 30FT & 40FT**
 - higher working speed (35kph)
 - additional color configurations
@@ -235,10 +240,10 @@ And the ones made on some vehicles and implements:
 - trailer option not suitable for Agco Ideal
 - higher working speed (35kph)
 
-**MacDon FD250 Multifruit**
+**MacDon FD250 Multi-fruit**
+- multi-fruit (generate a lot of errors and my not work for missions)
 - trailer option not suitable for Agco Ideal
 - higher working speed (35kph)
-- multifruit (generate a lot of errors)
 
 
 ## Forage Harvesters
@@ -281,12 +286,31 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
+- the bigger bales are now the default ones
+- bale unloading time reduced
+
+> [!IMPORTANT]
+> The pre-chambers of round balers will only be effective at the right speed for the current job.
+> It is obvious that if you're using a round baler with the wrapper activated on a working width of 20m, the pre-chamber will not be suitable at a speed of 35 kph.
 
 **Krone VariPack V 190 XC Plus**
-- added prechamber (may no longer have to stop)
-- higher working speed (24kph, cannot go faster without having to stop)
+- higher maximum working speed (35kph)
+- pre-chamber addition (may no longer have to stop)
+- faster unloading & door closing animation speeds
+- 1.25 round bales removed, too small to work fine with pre-chamber
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
+- automatic bales unload is now set by default
+
+**Pöettinger Impress 3190 VC Pro**
+- higher maximum working speed (35kph)
+- pre-chamber addition (may no longer have to stop)
+- faster unloading & door closing animation speeds
+- 1.25 round bales removed, too small to work fine with pre-chamber
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
+- automatic bales unload is now set by default
+- additional color configurations
 
 ### Loader Wagons
 
@@ -313,6 +337,12 @@ And the ones made on some vehicles and implements:
 
 ### Grapes & Olives Tools
 
+**Šálek AKP-122**
+- higher working speed (24)
+- optional plow function instead of subsoiler
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
+
 **Agrisem Disc-O-Vigne**
 - higher working speed (24)
 - optional plow function instead of subsoiler
@@ -322,6 +352,11 @@ And the ones made on some vehicles and implements:
 **TMC Cancela TPN 140**
 - higher working speed (24)
 - optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
+
+**Šálek RZK 300H**
+- higher working speed (24)
+- can also spread lime
 - additional color configurations
 
 **Farmtech Variofex 750**
@@ -438,7 +473,6 @@ And the ones made on some vehicles and implements:
 - can refill a liquid trailer
 - be stored in a silo (faster than filling a liquid trailer)
 
-
 ### Bales
 
 **Liftable Bales**
@@ -511,6 +545,12 @@ And the ones made on some vehicles and implements:
 - larger Capacity (x5)
 - faster Loading (x5)
 - manure Heap now support extension, same as liquid manure base tank
+
+### Others
+
+**Electric Charging Station**
+- faster (10/s)
+- 25% cheaper
 
 
 # Recommend Mods

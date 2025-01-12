@@ -1,3 +1,60 @@
+## v1.1.8.0 (12/01/2025)
+
+Update of Agco Multi Silo:
+- rework of silo storage capacities
+
+Update of All Liquids Trailers:
+- use of configurationSets to allow distinct empty speeds based on capacity
+
+> [!IMPORTANT]
+> The pre-chambers of round balers will only be effective at the right speed for the current job.
+> It is obvious that if you're using a round baler with the wrapper activated on a working width of 20m, the pre-chamber will not be suitable at a speed of 35 kph.
+
+Addition of Pöettinger Impress 3190 VC Pro (#21):
+- higher maximum working speed (35kph)
+- pre-chamber addition (may no longer have to stop)
+- faster unloading & door closing animation speeds
+- 1.25 round bales removed, too small to work fine with pre-chamber
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
+- automatic bales unload is now set by default
+- additional color configurations
+
+Update of Krone VariPack V 190 XC Plus:
+- higher maximum working speed (35kph)
+- faster unloading & door closing animation speeds
+- 1.25 round bales removed, too small to work fine with pre-chamber
+- automatic bales unload is now set by default
+
+Update of Krone BiG Pack 1290 HDP VC:
+- the bigger bales are now the default ones
+- bale unloading time reduced
+
+Addition of DynaFlex 9255 Multi-fruit (#24):
+- multi-fruit (generate a lot of errors and my not work for missions)
+- higher working speed (35kph)
+- additional color configurations
+
+Addition of Šálek AKP-122:
+- higher working speed (24)
+- optional plow function instead of subsoiler
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- additional color configurations
+
+Addition of Šálek RZK 300H:
+- higher working speed (24)
+- can also spread lime
+- additional color configurations
+
+Addition of Šálek RZK ANS-1900:
+- higher discharge rate
+- optional unreal filling capacities
+- additional color configurations
+
+Addition of Electric Charging Station
+- faster (10/s)
+- 25% cheaper
+
 ## v1.1.7.0 (09/01/2025)
 
 Addition of Provitis MP 122 OCEA
@@ -77,7 +134,7 @@ Addition of Agco Multi Prod:
 MacDon FD250 FlexDraper® is back as it was before v1.1.2.2 but only for:
 - New Holland CR11
 - Case IH AF11
-Because the trailer option is not suitable for Agco Ideal
+  Because the trailer option is not suitable for Agco Ideal
 
 
 ## v1.1.4.0 (04/01/2025)
