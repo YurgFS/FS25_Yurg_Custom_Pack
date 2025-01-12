@@ -286,12 +286,31 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
+- the bigger bales are now the default ones
+- bale unloading time reduced
+
+> [!IMPORTANT]
+> The pre-chambers of round balers will only be effective at the right speed for the current job.
+> It is obvious that if you're using a round baler with the wrapper activated on a working width of 20m, the pre-chamber will not be suitable at a speed of 35 kph.
 
 **Krone VariPack V 190 XC Plus**
-- added prechamber (may no longer have to stop)
-- higher working speed (24kph, cannot go faster without having to stop)
+- higher maximum working speed (35kph)
+- pre-chamber addition (may no longer have to stop)
+- faster unloading & door closing animation speeds
+- 1.25 round bales removed, too small to work fine with pre-chamber
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
+- automatic bales unload is now set by default
+
+**Pöettinger Impress 3190 VC Pro**
+- higher maximum working speed (35kph)
+- pre-chamber addition (may no longer have to stop)
+- faster unloading & door closing animation speeds
+- 1.25 round bales removed, too small to work fine with pre-chamber
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
+- automatic bales unload is now set by default
+- additional color configurations
 
 ### Loader Wagons
 
@@ -453,7 +472,6 @@ And the ones made on some vehicles and implements:
 **Goat Milk Cans**
 - can refill a liquid trailer
 - be stored in a silo (faster than filling a liquid trailer)
-
 
 ### Bales
 
