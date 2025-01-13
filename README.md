@@ -21,7 +21,7 @@ Here is a list of adjustments made on all vehicles and implements:
 - additional color configurations (except Krone)
 
 And the ones made on some vehicles and implements:
-- additional motors (real hp based on torque, rpm...) with higher travel speeds (and fuel consumption)
+- additional motors (real hp based on torque, rpm...) with higher max speeds (and fuel consumption)
 - customized gearbox based on real options from the manufacturers
 - additional fuel tank size options
 - higher working speed (24 or 35kph)
@@ -37,7 +37,7 @@ And the ones made on some vehicles and implements:
 ### Trucks
 
 **Lizard Dragon**
-- 1 additional motor with higher travel speed (340hp 110kph)
+- 1 additional motor with higher max speed (340hp 110kph)
 - motor start duration reduced to 1.5s
 - additional optional unreal filling capacities
 - additional optional trailer hitch
@@ -45,7 +45,7 @@ And the ones made on some vehicles and implements:
 
 **Lizard Dragon Electric**
 - new electric vehicle based on the diesel one
-- 1 additional motor with higher travel speed (340hp 110kph)
+- 1 additional motor with higher max speed (340hp 110kph)
 - motor start duration reduced to 0.5s (electric...)
 - additional optional unreal filling capacities
 - additional optional trailer hitch
@@ -56,13 +56,13 @@ And the ones made on some vehicles and implements:
   - ATO3112F ASO-C
   - ATO3512F ASO-ULC
   - ATO3512F ASO-ULC ARSO-MSR
-- two additional motors with higher travel speed (850hp 110kph and 950hp 120kph)
+- two additional motors with higher max speed (850hp 110kph and 950hp 120kph)
 - motor start duration reduced to 1.5s
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color configurations
 
 **Volvo FH16 Electric**
-- 1 additional motor with higher travel speed (825hp 110kph)
+- 1 additional motor with higher max speed (825hp 110kph)
 - motor start duration reduced to 0.5s (electric...)
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color configurations
@@ -70,7 +70,7 @@ And the ones made on some vehicles and implements:
 ### Large Tractors
 
 **Valtra S Series**
-- 3 additional motors with higher travel speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
+- 3 additional motors with higher max speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
 - motor start duration reduced to 1.5s
 - additional fuel tank options (670, 730, 790, 850L)
 - additional color configurations
@@ -78,7 +78,7 @@ And the ones made on some vehicles and implements:
 ### Small Tractors:
 
 **Antonio Carraro Mach 4R**
-- 5 additional motors with higher travel speed (up to 236hp 74kph)
+- 5 additional motors with higher max speed (up to 236hp 74kph)
 - motor start duration reduced to 1.5s
 - additional fuel tank options (60, 70L)
 - additional color configurations
@@ -146,7 +146,7 @@ And the ones made on some vehicles and implements:
 ### Sprayers
 
 **Agrifac Condor Endurance II**
-- 1 additional motor with higher travel speed (620hp 80kph)
+- 1 additional motor with higher max speed (620hp 80kph)
 - motor start duration reduced to 1.5s
 - optional unreal filling capacities
 - additional color configurations
@@ -189,7 +189,7 @@ And the ones made on some vehicles and implements:
 **Agco Ideal**
 - rebranded as Agco (other brands decals replaced by Agco)
 - base motors travel speed updates (680hp 50kph, 790hp 60kph)
-- 1 additional motor with higher travel speed (900hp 70kph)
+- 1 additional motor with higher max speed (900hp 70kph)
 - motor start duration reduced to 1.5s
 - fuel tank size is modified depending on the chosen motor
 - optional unreal filling capacities
@@ -251,7 +251,7 @@ And the ones made on some vehicles and implements:
 ### Forage Harvester
 
 **Krone BiG X 1180**
-- 3 additional motors with higher travel speed (1500hp 53kph, 1800hp 63kph, 2100hp 73kph)
+- 3 additional motors with higher max speed (1500hp 53kph, 1800hp 63kph, 2100hp 73kph)
 - motor start duration reduced to 1.5s
 - silage additive increased capacity
 - higher discharge rate (to avoid a bottleneck due to higher working speed)
@@ -276,11 +276,27 @@ And the ones made on some vehicles and implements:
 ### Mowers
 
 **Krone BiG M 450**
-- 3 additional motors with higher travel speed (560hp 53kph, 670hp 63kph, 780hp 73kph)
+- 3 additional motors with higher max speed (560hp 53kph, 670hp 63kph, 780hp 73kph)
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
 
+### Loader Wagons
+
+**Bergmann Shuttle 490 S**
+- higher working speed (35kph)
+- optional additional working widths (3.5, 5, 10, 20m)
+- max pickup liters per second increased (x10)
+- optional unreal filling capacities
+- higher discharge rate
+- additional color configurations
+
 ### Balers
+
+**Göweil VARIO-Master V140**
+- optional unreal filling capacities
+- faster baler for unreal filling capacities
+- faster wrapper
+- additional color configurations
 
 **Krone BiG Pack 1290 HDP VC**
 - higher working speed (35kph)
@@ -312,14 +328,30 @@ And the ones made on some vehicles and implements:
 - automatic bales unload is now set by default
 - additional color configurations
 
-### Loader Wagons
+## Root crops
 
-**Bergmann Shuttle 490 S**
+### Root crops Harvester
+
+**Grimme Ventor 4150**
+- 3 additional motors with higher max speed (630hp 42kph, 730hp 57kph, 830hp 72kph)
+- motor start duration reduced to 1.5s
 - higher working speed (35kph)
-- optional additional working widths (3.5, 5, 10, 20m)
-- max pickup liters per second increased (x10)
 - optional unreal filling capacities
-- higher discharge rate
+
+**Ropa Tiger 6S**
+- 2 additional motors with higher max speed (896hp 58kph, 996hp 73kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+
+## Cotton
+
+### Cotton Harvester
+
+**John Deere CP690**
+- 3 additional motors with higher max speed (690hp 42kph, 790hp 57kph, 890hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
 - additional color configurations
 
 
@@ -328,7 +360,7 @@ And the ones made on some vehicles and implements:
 ### Grapes & Olives Harvesters
 
 **Gregoire GL**
-- 2 additional motors with higher travel speed (224hp 40kph, 258hp 50kph, 292hp 60kph)
+- 2 additional motors with higher max speed (224hp 40kph, 258hp 50kph, 292hp 60kph)
 - motor start duration reduced to 1.5s
 - higher working speed (24)
 - optional unreal filling capacities (9000, 12000)
@@ -380,7 +412,7 @@ And the ones made on some vehicles and implements:
 ### Telehandlers
 
 **Merlo MF44.9CS-170-CVTRONIC**
-- 2 additional motors with higher travel speed (210hp 53kph, 250hp 63kph)
+- 2 additional motors with higher max speed (210hp 53kph, 250hp 63kph)
 - motor start duration reduced to 1.5s
 - additional optional fuel tank capacities (200, 260L)
 - additional color configurations
@@ -412,7 +444,7 @@ And the ones made on some vehicles and implements:
 ### Skid Steers
 
 **Kubota SVL 97-2**
-- 2 additional motors with higher travel speed (126hp 24kph, 156hp 36kph)
+- 2 additional motors with higher max speed (126hp 24kph, 156hp 36kph)
 - motor start duration reduced to 1.5s
 - additional optional fuel tank capacities (160, 200L)
 - additional color configurations
