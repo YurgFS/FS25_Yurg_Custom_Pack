@@ -1,3 +1,40 @@
+## v1.1.9.0 (13/01/2025)
+
+> [!CAUTION]
+> **Important fix for Agco Multi Silo & Prod**
+> - Correction of a clearing zone (that erase what is at this place) misplaced by GIANTS developers in the Farma 500 i3d original file.
+> - It does not have any impact if you have already placed it, as the damage has undoubtedly already been done (e.g. deleting a piece of field).
+> - Thinking at first that I might have modified the game's i3d without paying attention, I checked the i3d of another mod based on the same silo, and it contains the exact same error.
+
+Addition of Ropa Tiger 6S #14
+- 2 additional motors with higher max speed (896hp 58kph, 996hp 73kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- no color configuration yet, the fix for the Silo is more important to me
+
+Addition of Grimme Ventor 4150 #13
+- 3 additional motors with higher max speed (630hp 42kph, 730hp 57kph, 830hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- additional color configurations
+
+Addition of John Deere CP690 (Cotton harvester) #22
+- 3 additional motors with higher max speed (690hp 42kph, 790hp 57kph, 890hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- additional color configurations
+
+Addition of Göweil VARIO-Master V140 (Stationary baler & Wrapper) #20
+- optional unreal filling capacities
+- faster baler for unreal filling capacities
+- faster wrapper
+- additional color configurations
+
+Enhancement of Agco Multi Prod #28
+- addition of SUGARBEET_CUT production
+
 ## v1.1.8.0 (12/01/2025)
 
 Update of Agco Multi Silo:
@@ -112,7 +149,7 @@ Higher discharge rate for:
 ## v1.1.5.0 (06/01/2025)
 
 Addition of Gregoire GL (grapes & olives harvester)
-- Additional motors with higher travel speed
+- Additional motors with higher max speed
 - Higher working speed (35)
 - Optional tank capacities
 - Colour customisations
@@ -134,7 +171,7 @@ Addition of Agco Multi Prod:
 MacDon FD250 FlexDraper® is back as it was before v1.1.2.2 but only for:
 - New Holland CR11
 - Case IH AF11
-  Because the trailer option is not suitable for Agco Ideal
+Because the trailer option is not suitable for Agco Ideal
 
 
 ## v1.1.4.0 (04/01/2025)
@@ -168,7 +205,7 @@ Liftable Consumables Pallets
 ## v1.1.3.0 (03/01/2025)
 
 Addition of Antonio Carraro Mach 4R:
-- Additional motors with higher travel speed
+- Additional motors with higher max speed
 - Optional fuel tank capacities
 - Colour customisations
 
