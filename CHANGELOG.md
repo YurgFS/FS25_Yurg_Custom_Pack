@@ -1,3 +1,73 @@
+## v1.1.10.0 (14/01/2025)
+
+Addition of Agrifac LightTraxx #33
+- 3 additional motors with higher max speed (569hp 40kph, 669hp 55kph, 769hp 70kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- optional working widths (2.95, 3.50, 4.00)
+- no color configuration yet
+
+Addition of Agrifac OptiTraxx
+- same as Agrifac LightTraxx
+
+Addition of Dewulf ZKIV(SE) #19
+- 3 additional motors with higher max speed (550hp 42kph, 650hp 57kph, 750hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- optional working widths (3.00, 3.50, 4.00)
+- no color configuration yet
+
+Addition of Oxbo BP2140e #16
+- 3 additional motors with higher max speed (424hp 42kph, 536hp 56kph, 648hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- no color configuration yet
+
+Addition of Oxbo EPD540e #17
+- 3 additional motors with higher max speed (512hp 42kph, 624hp 56kph, 736hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- no color configuration yet
+
+Addition of Oxbo EPD540e TERRA TRAC
+- same as Oxbo EPD540e
+
+Addition of Oxbo MKB-4TR #15
+- 3 additional motors with higher max speed (512hp 42kph, 624hp 56kph, 736hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- no color configuration yet
+
+Addition of Iseki HJ6130 #34
+- 3 additional motors with higher max speed (160hp 24kph, 190hp 36kph, 220hp 48kph)
+- motor start duration reduced to 1.5s
+- higher max working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- no color configuration yet
+
+Addition of Iseki PRJ8D #35
+- 3 additional motors with higher max speed (32hp 36kph, 39hp 52kph, 46hp 68kph)
+- motor start duration reduced to 1.5s
+- higher max working speed (35kph)
+- no color configuration yet
+
+The following equipments are now able to pick up swaths on areas that do not belong to us
+- Bergmann Shuttle 490 S
+- Krone BiG Pack 1290 HDP VC
+- Krone VariPack V 190 XC Plus
+- Pöettinger Impress 3190 VC Pro
+
 ## v1.1.9.0 (13/01/2025)
 
 > [!CAUTION]
