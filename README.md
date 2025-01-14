@@ -18,7 +18,10 @@ Here is a list of adjustments made on all vehicles and implements:
 - lifetime of vehicle used to calculate price drop, in months (x10)
 - time to complete worn (x10)
 - motor start duration reduced to 1.5s
-- additional color configurations (except Krone)
+- additional color configurations
+  - no color configurations yet for Krone, Ropa, Dewulf, Oxbo and Iseki
+  - it requires to include i3d files making the pack size bigger
+  - I will probably add some of them, tell me which ones you prefer
 
 And the ones made on some vehicles and implements:
 - additional motors (real hp based on torque, rpm...) with higher max speeds (and fuel consumption)
@@ -31,6 +34,10 @@ And the ones made on some vehicles and implements:
 - optional unreal filling capacities
 - optional trailer hitch
 
+Here is the list of current requests and planed additions:
+- https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement%2Cfeature
+
+Feel free to create a new issue if you want something.
 
 ## Main Vehicles
 
@@ -188,7 +195,7 @@ And the ones made on some vehicles and implements:
 
 **Agco Ideal**
 - rebranded as Agco (other brands decals replaced by Agco)
-- base motors travel speed updates (680hp 50kph, 790hp 60kph)
+- base motors max speed updates (680hp 50kph, 790hp 60kph)
 - 1 additional motor with higher max speed (900hp 70kph)
 - motor start duration reduced to 1.5s
 - fuel tank size is modified depending on the chosen motor
@@ -209,15 +216,13 @@ And the ones made on some vehicles and implements:
 **Agco FD250 FlexDraper®**
 - rebranded as Agco (other brands decals replaced by Agco)
 - combine attachment adjusted to the size of the Agco Ideal
+- trailer option removed as not suitable for Agco Ideal
 - higher working speed (35kph)
 - additional color configurations
 
 **Agco FD250 Multi-fruit**
-- rebranded as Agco (other brands decals replaced by Agco)
-- combine attachment adjusted to the size of the Agco Ideal
-- multi-fruit (generate a lot of errors and my not work for missions)
-- higher working speed (35kph)
-- additional color configurations
+- same as Agco FD250 FlexDraper®
+- multi-fruit (generate a lot of errors, not compatible with helpers and may not work for missions)
 
 **Agco HDHT 52 for FD250**
 - higher working speed (35kph)
@@ -228,9 +233,8 @@ And the ones made on some vehicles and implements:
 - additional color configurations
 
 **DynaFlex 9255 Multi-fruit**
-- multi-fruit (generate a lot of errors and my not work for missions)
-- higher working speed (35kph)
-- additional color configurations
+- same as Agco DynaFlex 9255 40FT
+- multi-fruit (generate a lot of errors, not compatible with helpers and may not work for missions)
 
 **Agco PowerFlow 30FT & 40FT**
 - higher working speed (35kph)
@@ -241,9 +245,8 @@ And the ones made on some vehicles and implements:
 - higher working speed (35kph)
 
 **MacDon FD250 Multi-fruit**
-- multi-fruit (generate a lot of errors and my not work for missions)
-- trailer option not suitable for Agco Ideal
-- higher working speed (35kph)
+- same as MacDon FD250 FlexDraper®
+- multi-fruit (generate a lot of errors, not compatible with helpers and may not work for missions)
 
 
 ## Forage Harvesters
@@ -288,6 +291,7 @@ And the ones made on some vehicles and implements:
 - max pickup liters per second increased (x10)
 - optional unreal filling capacities
 - higher discharge rate
+- able to pick up swaths on non-owned farmlands
 - additional color configurations
 
 ### Balers
@@ -304,6 +308,7 @@ And the ones made on some vehicles and implements:
 - max pickup liters per second increased (x10)
 - the bigger bales are now the default ones
 - bale unloading time reduced
+- able to pick up swaths on non-owned farmlands
 
 > [!IMPORTANT]
 > The pre-chambers of round balers will only be effective at the right speed for the current job.
@@ -317,6 +322,7 @@ And the ones made on some vehicles and implements:
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
 - automatic bales unload is now set by default
+- able to pick up swaths on non-owned farmlands
 
 **Pöettinger Impress 3190 VC Pro**
 - higher maximum working speed (35kph)
@@ -326,6 +332,7 @@ And the ones made on some vehicles and implements:
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
 - automatic bales unload is now set by default
+- able to pick up swaths on non-owned farmlands
 - additional color configurations
 
 ## Root crops
@@ -337,12 +344,59 @@ And the ones made on some vehicles and implements:
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
 - optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- additional color configurations
+
+**Agrifac LightTraxx**
+- 3 additional motors with higher max speed (569hp 40kph, 669hp 55kph, 769hp 70kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- optional working widths (2.95, 3.20, 4.00)
+- no color configuration yet
+
+**Agrifac OptiTraxx**
+- same as Agrifac LightTraxx
 
 **Ropa Tiger 6S**
 - 2 additional motors with higher max speed (896hp 58kph, 996hp 73kph)
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
 - optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- no color configuration yet
+
+**Dewulf ZKIV(SE)**
+- 3 additional motors with higher max speed (550hp 42kph, 650hp 57kph, 750hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- optional working widths (3.00, 3.50, 4.00)
+- no color configuration yet
+
+
+## Rice
+
+### Rice Harvester
+
+**Iseki HJ6130**
+- 3 additional motors with higher max speed (160hp 24kph, 190hp 36kph, 220hp 48kph)
+- motor start duration reduced to 1.5s
+- higher max working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- no color configuration yet
+
+### Rice Planter
+
+**Iseki PRJ8D**
+- 3 additional motors with higher max speed (32hp 36kph, 39hp 52kph, 46hp 68kph)
+- motor start duration reduced to 1.5s
+- higher max working speed (35kph)
+- no color configuration yet
+
 
 ## Cotton
 
@@ -403,8 +457,8 @@ And the ones made on some vehicles and implements:
 - additional color configurations
 
 **Provitis MP 122 OCEA**
-- Higher working speed (24)
-- Colour customisations
+- higher working speed (24)
+- additional color configurations
 
 
 ## Materials Handling
@@ -525,7 +579,7 @@ And the ones made on some vehicles and implements:
 - 500 000 straw capacity
 - 625 000 milk capacity
 - 1 500 000 liquid manure capacity
-- 1 500 000 manure capacity (not sure it will work)
+- 1 500 000 manure capacity (not sure if it will work)
 
 **Rudolf Hörmann Big Cows Barn with Lely Vector**
 - same stats as the one without Lely Vector robot
@@ -540,7 +594,7 @@ And the ones made on some vehicles and implements:
 - 1 000 000 food capacity
 - 500 000 straw capacity
 - 1 500 000 liquid manure capacity
-- 1 500 000 manure capacity (not sure it will work)
+- 1 500 000 manure capacity (not sure if it will work)
 
 **Rudolf Hörmann Big Sheeps Barn**
 - 1000 sheeps and/or goats
@@ -565,6 +619,7 @@ And the ones made on some vehicles and implements:
 - grass dryer
 - grass and/or chaff silage
 - forage & pig food mixer
+- sugarbeet cut
 - with or without silo extension enabled
 
 **Liquid Manure Tank & Extension**
@@ -611,9 +666,8 @@ Here is a list of mods I do recommend:
 
 # Support
 
-For any issue, suggestion or question, please use one of the following:
+For any issue, suggestion or question, please create an issue using the following address:
 - https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose
-- https://www.kingmods.net/en/search?games=fs25&q=Yurg+Custom+Pack
 
 
 # Licence
