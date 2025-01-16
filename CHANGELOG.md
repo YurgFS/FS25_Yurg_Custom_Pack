@@ -1,3 +1,45 @@
+## v1.2.0.0 (16/01/2025)
+
+Addition of Case IH Austoft 8800 Multi-Row #23
+- 4 additional motors with higher max speed (385hp 35kph, 417hp 50kph, 449hp 65kph, 481hp 80kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- optional working widths (2.60, 3.20, 3.80, 4.40)
+- trailer hitch updated
+- no color configuration yet
+
+Addition of Production Points #42
+- Dairy, Grain Mill, Grape Processing, Oil Mill, Sugar Mill
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+Addition of Green Houses #41
+- Large Glass Green House, Large Mushrooms Green House
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+Addition of Selling Stations #39
+- Small Farmer Kiosk, Big Farmer Kiosk
+- quantity before price drop greatly increased (250 000, 1 000 000)
+- time to reset greatly reduced (8h)
+
+Addition of Liftable farm consumables pallets #40
+- fillablePallet (capacity x5)
+- potatoPallet (capacity & price x5)
+- sugarCanePallet (capacity & price x5)
+- vegetablesPallet (capacity x5)
+
+Addition of liftable production pallets (64 pallets) #38
+- except for grape & stone [Bug] FS25 v1.4.0.0 : grape and stone pallets are bugged #37
+
 ## v1.1.10.0 (14/01/2025)
 
 Addition of Agrifac LightTraxx #33
