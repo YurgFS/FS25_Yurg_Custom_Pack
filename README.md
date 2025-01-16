@@ -398,6 +398,21 @@ Feel free to create a new issue if you want something.
 - no color configuration yet
 
 
+## Sugar Cane
+
+### Sugar Cane Harvester
+
+**Case IH Austoft 8800 Multi-Row**
+- 4 additional motors with higher max speed (385hp 35kph, 417hp 50kph, 449hp 65kph, 481hp 80kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- discharge rate increased for unreal filling capacities
+- optional working widths (2.60, 3.20, 3.80, 4.40)
+- trailer hitch updated
+- no color configuration yet
+
+
 ## Cotton
 
 ### Cotton Harvester
@@ -559,6 +574,12 @@ Feel free to create a new issue if you want something.
 - can refill a liquid trailer
 - be stored in a silo (faster than filling a liquid trailer)
 
+### Production Pallets
+
+**Liftable Production Pallets**
+- All base production pallets are liftable
+- except for grape & stone [#37](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/37)
+
 ### Bales
 
 **Liftable Bales**
@@ -566,6 +587,33 @@ Feel free to create a new issue if you want something.
 
 
 ## Placeables
+
+### Silos & Productions
+
+**Agco Multi Silo**
+- rebranded as Agco (other brands decals replaced by Agco)
+- capacity of 10 000 000 for Bulk & Liquids
+- can load from Pallets & BigBags
+- with or without silo extension enabled
+
+**Agco Multi Prod**
+- rebranded as Agco (other brands decals replaced by Agco)
+- grass dryer
+- grass and/or chaff silage
+- forage & pig food mixer
+- sugarbeet cut
+- with or without silo extension enabled
+
+**Liquid Manure Tank & Extension**
+- larger Capacity (x10)
+- faster Loading (x5)
+- conversion from Digestate to Slurry increased
+- liquid manure base tank support extension increased to 500m
+
+**Manure Heap & Extension**
+- larger Capacity (x5)
+- faster Loading (x5)
+- manure Heap now support extension, same as liquid manure base tank
 
 ### Livestock
 
@@ -606,32 +654,69 @@ Feel free to create a new issue if you want something.
 **Large Bee Hive**
 - 2500 L/day
 
-### Silos & Productions
+### Green Houses
 
-**Agco Multi Silo**
-- rebranded as Agco (other brands decals replaced by Agco)
-- capacity of 10 000 000 for Bulk & Liquids
-- can load from Pallets & BigBags
-- with or without silo extension enabled
+**Large Glass Green House**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
 
-**Agco Multi Prod**
-- rebranded as Agco (other brands decals replaced by Agco)
-- grass dryer
-- grass and/or chaff silage
-- forage & pig food mixer
-- sugarbeet cut
-- with or without silo extension enabled
+**Large Mushrooms Green House**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
 
-**Liquid Manure Tank & Extension**
-- larger Capacity (x10)
-- faster Loading (x5)
-- conversion from Digestate to Slurry increased
-- liquid manure base tank support extension increased to 500m
+### Production Points
 
-**Manure Heap & Extension**
-- larger Capacity (x5)
-- faster Loading (x5)
-- manure Heap now support extension, same as liquid manure base tank
+**Dairy**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+- same cost for bottling all milk types
+
+**Grain Mill**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+**Grape Processing**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+**Oil Mill**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+**Sugar Mill**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+### Selling Stations
+
+**Small Farmer Kiosk**
+- quantity before price drop greatly increased (250 000)
+- time to reset greatly reduced (8h)
+
+**Big Farmer Kiosk**
+- quantity before price drop greatly increased (1 000 000)
+- time to reset greatly reduced (8h)
 
 ### Others
 
