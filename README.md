@@ -160,6 +160,20 @@ Feel free to create a new issue if you want something.
 
 ### Slurry  Spreaders
 
+**Oxbo AT5105 LNMS**
+- 2 additional motors with higher max speed (662hp 56kph, 774hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- no color configuration yet
+
+**Bomech B.V. Trac-Pack**
+- higher working speed (35kph)
+- optional working widths (18, 21, 24) [(Real Stats)](https://www.bomech.nl/producten/trac-pack/)
+
+**Zunhammer Vibro**
+- higher working speed (35kph)
+
 **Samson Agro PG II 28 Genesis**
 - optional unreal filling capacities
 - additional color configurations
@@ -169,6 +183,14 @@ Feel free to create a new issue if you want something.
 - optional working widths
 
 ### Manure Spreaders
+
+**Oxbo AT5105 DNMS #18**
+- 2 additional motors with higher max speed (662hp 56kph, 774hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- optional working widths (24, 36, 48)
+- no color configuration yet
 
 **Samson US 235 Dynamic**
 - higher working speed (35kph)
@@ -574,11 +596,34 @@ Feel free to create a new issue if you want something.
 - can refill a liquid trailer
 - be stored in a silo (faster than filling a liquid trailer)
 
-### Production Pallets
+### Food Production Pallets
 
-**Liftable Production Pallets**
-- All base production pallets are liftable
-- except for grape & stone [#37](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/37)
+**Liftable Food Production Pallets**
+- All Food Production Pallets are liftable
+- 10x capacity to Bakery Factory products
+- 10x capacity to Cereal Factory products
+- 10x capacity to Dairy products
+- 10x capacity to Grain Mill products
+- 10x capacity to Grape Processing products
+- 10x capacity to Green Houses products
+- 10x capacity to Mushrooms Green House products
+- 10x capacity to Oil Mill products
+- 10x capacity to Preserved Food Factory products
+- 10x capacity to Soup Factory products
+- 10x capacity to Sugar Mill products
+
+### Building Materials Production Pallets
+
+**Liftable Building Materials Production Pallets**
+- All Building Materials Production Pallets are liftable
+- 5x capacity to Cement Factory products
+- 5x capacity to Sawmill products (x20 for woodchips)
+- 5x capacity to Carpentry products
+
+### Other Production Pallets
+
+**Liftable Other Production Pallets**
+- All Other Production Pallets are liftable
 
 ### Bales
 
@@ -670,43 +715,120 @@ Feel free to create a new issue if you want something.
 - input storage increased (x20)
 - output storage increased (x10)
 
-### Production Points
+### Food Production Points
+
+**Bakery, Bakery (AS), Bakery (EU)**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+**Cereal Factory**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
 
 **Dairy**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
-- input storage increased (x20)
 - output storage increased (x10)
+- input storage increased (x20)
 - same cost for bottling all milk types
 
 **Grain Mill**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
-- input storage increased (x20)
 - output storage increased (x10)
+- input storage increased (x20)
 
 **Grape Processing**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
-- input storage increased (x20)
 - output storage increased (x10)
+- input storage increased (x20)
 
 **Oil Mill**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
-- input storage increased (x20)
 - output storage increased (x10)
+- input storage increased (x20)
+
+**Preserved Food Factory (EU)**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+**Preserved Food Factory (AS)**
+- twice the values of the EU variant, since it is more than twice as large
+- addition of Soup Factory productions
+- renamed "l10n_shopItem_preservedFoodFactory (l10n_shopItem_soupFactory)"
+- price increased (330000+330000)*1.15
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x20)
+- output storage increased (x20)
+- input storage increased (x40)
+
+**Soup Factory**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
 
 **Sugar Mill**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
-- input storage increased (x20)
 - output storage increased (x10)
+- input storage increased (x20)
+
+### Building Materials Production Points
+
+**Carpentry, Carpentry (EU)**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+**Carpentry (US)**
+- twice the values of the EU variant, since it is more than twice as large
+- addition of Sawmill productions
+- renamed "l10n_shopItem_carpenter (Wood-Mizer LT15)"
+- price increased (300000+300000)*1.15
+- no daily upkeep fee
+- reduction of cost per hour
+- production speed increased (x20)
+- output storage increased (x20)
+- input storage increased (x40)
+
+**Cement Factory (EU), Cement Factory (US)**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+**Sawmill**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+**Stone Quarry**
+- no daily upkeep fee
+- production increased (x10)
 
 ### Selling Stations
 

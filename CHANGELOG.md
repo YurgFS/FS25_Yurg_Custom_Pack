@@ -1,3 +1,90 @@
+## v1.3.0.0 (20/01/2025)
+
+Addition of Oxbo AT5105 DNMS #18
+- 2 additional motors with higher max speed (662hp 56kph, 774hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- optional working widths (24, 36, 48)
+- no color configuration yet
+
+Addition of Oxbo AT5105 LNMS #18
+- 2 additional motors with higher max speed (662hp 56kph, 774hp 72kph)
+- motor start duration reduced to 1.5s
+- higher working speed (35kph)
+- optional unreal filling capacities
+- no color configuration yet
+
+Bomech B.V. Trac-Pack
+- higher working speed (35kph)
+- optional working widths (18, 21, 24) [(Real Stats)](https://www.bomech.nl/producten/trac-pack/)
+
+Zunhammer Vibro
+- higher working speed (35kph)
+
+Enhancement of Agco Multi Prod
+- addition of WATER production (to be set as Disribution)
+- more details in production names
+
+Enhancement of Production Points:
+- addition of one function with the detail of increased values
+
+Addition of Food Production Points #42
+- Bakery, Bakery (AS), Bakery (EU), Cereal Factory, Preserved Food Factory (EU), Soup Factory
+- no daily upkeep fee
+- reduction of cost per hour
+- production speed increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+Addition of Food Production Points #42
+- Preserved Food Factory (AS) more than twice the size of the EU variant
+- addition of Soup Factory productions
+- renamed "l10n_shopItem_preservedFoodFactory (l10n_shopItem_soupFactory)"
+- price increased (330000+330000)*1.15
+- no daily upkeep fee
+- reduction of cost per hour
+- production speed increased (x20)
+- output storage increased (x20)
+- input storage increased (x40)
+
+Update of liftable Food Production Pallets:
+- 10x capacity to Bakery Factory products
+- 10x capacity to Cereal Factory products
+- 10x capacity to Dairy products
+- 10x capacity to Grain Mill products
+- 10x capacity to Grape Processing products
+- 10x capacity to Green Houses products
+- 10x capacity to Mushrooms Green House products
+- 10x capacity to Oil Mill products
+- 10x capacity to Preserved Food Factory products
+- 10x capacity to Soup Factory products
+- 10x capacity to Sugar Mill products
+
+Addition of Building Materials Production Points #42
+- Sawmill, Carpentry, Carpentry (EU), Stone Quarry, Cement Factory (EU), Cement Factory (US)
+- no daily upkeep fee
+- reduction of cost per hour
+- production speed increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+Addition of Building Materials Production Points #42
+- Carpentry (US) more than twice the size of other variants
+- addition of Sawmill productions
+- renamed "l10n_shopItem_carpenter (Wood-Mizer LT15)"
+- price increased (300000+300000)*1.15
+- no daily upkeep fee
+- reduction of cost per hour
+- production speed increased (x20)
+- output storage increased (x20)
+- input storage increased (x40)
+
+Update of liftable Building Materials Production Pallets:
+- 5x capacity to Cement Factory products
+- 5x capacity to Sawmill products (x20 for woodchips)
+- 5x capacity to Carpentry products
+
 ## v1.2.0.0 (16/01/2025)
 
 Addition of Case IH Austoft 8800 Multi-Row #23
