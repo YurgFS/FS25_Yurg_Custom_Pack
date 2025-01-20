@@ -25,89 +25,69 @@ run-name: >-
 
 jobs:
   release:
-    if: ${{ github.event_name == 'workflow_dispatch' || github.event.pull_request.merged == true }}
+    if: ${{ github.event_name == 'workflow_dispatch' || ( vars.DEPLOY != 'false' && github.event.pull_request.merged == true ) }}
     runs-on: ubuntu-latest
     steps:
-      - name: "Prepare Release"
+      - name: "Workflow Dispatch"
         if: ${{ github.event_name == 'workflow_dispatch' }}
         env:
-          ACTOR: ${{ github.actor }}
           INPUT_VERSION: ${{ inputs.version }}
         shell: bash
         run: |
           NEW_VERSION="${INPUT_VERSION}"
           if [[ "${NEW_VERSION}" =~ ^v[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
-            echo "RELEASE_NAME=${NEW_VERSION}" >> "${GITHUB_ENV}"
-            echo "RELEASE_TAG=${NEW_VERSION}" >> "${GITHUB_ENV}"
-            echo 'RELEASE_BODY<<RELEASE_BODY_EOF' >> "${GITHUB_ENV}"
-            echo '## Download' >> "${GITHUB_ENV}"
-            echo 'Only use the following download link:' >> "${GITHUB_ENV}"
-            echo '- https://sharemods.com/xxxxxx/zzzzzz.zip.html' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo 'Uploading all or part of this mod on another website is not permitted (only noncommercial use of my work is permitted).' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '## Changelog' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!NOTE]' >> "${GITHUB_ENV}"
-            echo '> Useful information' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!TIP]' >> "${GITHUB_ENV}"
-            echo '> Helpful advice' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!IMPORTANT]' >> "${GITHUB_ENV}"
-            echo '> Key information' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!WARNING]' >> "${GITHUB_ENV}"
-            echo '> Info that needs user attention' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!CAUTION]' >> "${GITHUB_ENV}"
-            echo '> Advises about risks' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo 'RELEASE_BODY_EOF' >> "${GITHUB_ENV}"
+            echo "NEW_VERSION=${NEW_VERSION}" >> "${GITHUB_ENV}"
           else
-            echo "::error title={Wrong Input}::{Provided version does not match expected pattern.}"
+            echo "::error title=Wrong Input::Provided version does not match expected pattern."
             exit 1
           fi
-      - name: "Prepare Release"
+      - name: "Pull Request"
         if: ${{ github.event_name == 'pull_request' }}
         env:
-          ACTOR: ${{ github.actor }}
           PR_TITLE: ${{ github.event.pull_request.title }}
         shell: bash
         run: |
           NEW_VERSION="${PR_TITLE}"
           if [[ "${NEW_VERSION}" =~ ^v[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
-            echo "RELEASE_NAME=${NEW_VERSION}" >> "${GITHUB_ENV}"
-            echo "RELEASE_TAG=${NEW_VERSION}" >> "${GITHUB_ENV}"
-            echo 'RELEASE_BODY<<RELEASE_BODY_EOF' >> "${GITHUB_ENV}"
-            echo '## Download' >> "${GITHUB_ENV}"
-            echo 'Only use the following download link:' >> "${GITHUB_ENV}"
-            echo '- https://sharemods.com/xxxxxx/zzzzzz.zip.html' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo 'Uploading all or part of this mod on another website is not permitted (only noncommercial use of my work is permitted).' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '## Changelog' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!NOTE]' >> "${GITHUB_ENV}"
-            echo '> Useful information' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!TIP]' >> "${GITHUB_ENV}"
-            echo '> Helpful advice' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!IMPORTANT]' >> "${GITHUB_ENV}"
-            echo '> Key information' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!WARNING]' >> "${GITHUB_ENV}"
-            echo '> Info that needs user attention' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo '> [!CAUTION]' >> "${GITHUB_ENV}"
-            echo '> Advises about risks' >> "${GITHUB_ENV}"
-            echo -ne '\n' >> "${GITHUB_ENV}"
-            echo 'RELEASE_BODY_EOF' >> "${GITHUB_ENV}"
+            echo "NEW_VERSION=${NEW_VERSION}" >> "${GITHUB_ENV}"
           else
-            echo "::error title={Wrong Input}::{Provided version does not match expected pattern.}"
+            echo "::error title=Wrong Input::Provided version does not match expected pattern."
             exit 1
           fi
+      - name: "Checkout Private Repository"
+        uses: actions/checkout@v4
+      - name: "Prepare Release"
+        shell: bash
+        run: |
+          LAST_LINE=$(grep -on "##" CHANGELOG.md | head -n 2 | tail -n 1)
+          CHANGELOG=$(head -n ${LAST_LINE//:##/} CHANGELOG.md | grep -v "##.*")
+          echo "RELEASE_NAME=${NEW_VERSION}" >> "${GITHUB_ENV}"
+          echo "RELEASE_TAG=${NEW_VERSION}" >> "${GITHUB_ENV}"
+          echo 'RELEASE_BODY<<RELEASE_BODY_EOF' >> "${GITHUB_ENV}"
+          echo '## Download' >> "${GITHUB_ENV}"
+          echo 'Only use the following download link:' >> "${GITHUB_ENV}"
+          echo '- https://sharemods.com/xxxxxx/zzzzzz.zip.html' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo 'Uploading all or part of this mod on another website is not permitted.<br>*(only noncommercial use of my work is permitted)*' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo '## Changelog' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo '> [!NOTE]' >> "${GITHUB_ENV}"
+          echo '> Useful information' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo '> [!TIP]' >> "${GITHUB_ENV}"
+          echo '> Helpful advice' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo '> [!IMPORTANT]' >> "${GITHUB_ENV}"
+          echo '> Key information' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo '> [!WARNING]' >> "${GITHUB_ENV}"
+          echo '> Info that needs user attention' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo '> [!CAUTION]' >> "${GITHUB_ENV}"
+          echo '> Advises about risks' >> "${GITHUB_ENV}"
+          echo -ne '\n' >> "${GITHUB_ENV}"
+          echo -ne "${CHANGELOG}\n\nRELEASE_BODY_EOF" >> "${GITHUB_ENV}"
       - name: "Create Draft Release"
         uses: actions/github-script@v7
         with:
