@@ -11,7 +11,7 @@ Farming Simulator security issues are the responsibility of its publisher, GIANT
 ## Reporting a Vulnerability
 
 If a security problem occurs because of this mod and not because of the game (which is highly unlikely), please:
-- create an “[other request](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new?template=other_requests.yml)” issue.
+- use the "[Report a vulnerability](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/security/advisories/new)" button
 
 If a security problem occurs because of the game, please use GIANTS Software issues tool:
 - https://feedback.giants-software.com/
