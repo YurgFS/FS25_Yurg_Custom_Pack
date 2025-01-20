@@ -1,3 +1,7 @@
+## v1.3.0.1 (20/01/2025)
+
+Polish translation by ugoFantozzi [#48](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/48)
+
 ## v1.3.0.0 (20/01/2025)
 
 Addition of Oxbo AT5105 DNMS #18
