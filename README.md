@@ -50,7 +50,7 @@ Feel free to create a new issue if you want something.
 - [Materials](MATERIALS.md)
 
 
-## Project contributors
+## Project Contributors
 
 Many thanks to the following people for their contribution:
 - [rjwaters0311](https://www.kingmods.net/en/profile/rjwaters0311): sponsor of the project

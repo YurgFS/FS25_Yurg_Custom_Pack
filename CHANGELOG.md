@@ -1,3 +1,10 @@
+## v1.3.0.2 (21/01/2025)
+
+Fix for [Bug] Failed to Load Distance Textures Errors [#55](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/55)
+- Addition of data\fillPlanes\distance files for grapes, stones and woodchips
+
+GitHub release workflow update
+
 ## v1.3.0.1 (20/01/2025)
 
 Polish translation by ugoFantozzi [#48](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/48)
