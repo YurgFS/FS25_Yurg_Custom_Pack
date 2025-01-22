@@ -1,5 +1,6 @@
 ---
-title: Yurg's Custom Pack
+id: readme
+title: ""
 ---
 ![](fs/fs25.200.jpg) [![](modScreen.200.png)](modScreen.png)
 

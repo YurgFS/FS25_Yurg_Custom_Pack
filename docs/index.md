@@ -3,7 +3,8 @@ id: homepage
 title: Yurg's Custom Pack
 sidebar_label: Yurg's Custom Pack
 ---
-![](fs/fs25.200.jpg) [![](modScreen.200.png)](modScreen.png)
+|![](fs/fs25.200.jpg)|[![](modScreen.200.png)](modScreen.png)|
+|-|-|
 
 # Yurg's Custom Pack
 
@@ -73,7 +74,8 @@ For any issue, suggestion or question, please create an issue using the followin
 
 ## Licence
 
-![](cc/cc-logo.svg) ![](cc/cc-by.svg) ![](cc/cc-nc.svg) ![](cc/cc-nd.svg)
+|![](cc/cc-logo.png)|![](cc/cc-by.png)|![](cc/cc-nc.png)|![](cc/cc-nd.png)|
+|-|-|-|-|
 
 Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 - BY: Credit must be given to the creator.
