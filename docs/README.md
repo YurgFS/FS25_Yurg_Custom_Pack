@@ -1,5 +1,5 @@
 ---
-id: home
+id: getting-started
 title: Yurg's Custom Pack
 sidebar_label: Yurg's Custom Pack
 ---

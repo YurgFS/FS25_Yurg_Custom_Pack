@@ -1,9 +1,7 @@
 title: Yurg's Custom Pack
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
-max_width: 980px
-search_enabled: true
 sidebar:
-  - home
+  - getting-started
   - label: Vehicles
     children:
       - drivables
