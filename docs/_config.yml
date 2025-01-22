@@ -1,2 +1,24 @@
 title: Yurg's Custom Pack
 theme: jekyll-theme-slate
+sidebar:
+  - home
+  - label: Vehicles
+    children:
+      - drivables
+      - loaders
+      - trailers
+      - soil-cultivation
+      - seeding
+      - yiels-improvements
+      - combine-harvesting
+      - forage-harvesting
+      - grassland
+      - baling
+      - rootcrops
+      - vegetables
+      - special-crops
+      - grapes-olives
+      - animals
+      - forestry
+      - miscellaneous
+      - objects
