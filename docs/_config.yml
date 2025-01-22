@@ -1,7 +1,7 @@
 title: Yurg's Custom Pack
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 sidebar:
-  - getting-started
+  - homepage
   - label: Vehicles
     children:
       - drivables
