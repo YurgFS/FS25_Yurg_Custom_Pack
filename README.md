@@ -1,4 +1,4 @@
-<img src="docs/fs/fs25.jpg" height="200"/> <img src="docs/modScreen.png" height="200"/>
+![](docs/fs/fs25.200.jpg) [![](docs/modScreen.200.png)](docs/modScreen.png)
 
 # Yurg's Custom Pack
 

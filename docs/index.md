@@ -3,7 +3,7 @@ id: homepage
 title: Yurg's Custom Pack
 sidebar_label: Yurg's Custom Pack
 ---
-<img src="./fs/fs25.jpg" height="200"/> <img src="modScreen.png" height="200"/>
+![](fs/fs25.200.jpg) [![](modScreen.200.png)](modScreen.png)
 
 # Yurg's Custom Pack
 
