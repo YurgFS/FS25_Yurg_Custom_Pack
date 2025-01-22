@@ -1,11 +1,6 @@
 title: Yurg's Custom Pack
 
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-
-search_enabled: true
-
-max_width: 930px
+theme: jekyll-theme-slate
 
 sidebar:
   - home
