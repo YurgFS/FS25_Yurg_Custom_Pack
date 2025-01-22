@@ -1,5 +1,9 @@
 title: Yurg's Custom Pack
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+search_enabled: true
+mermaid_enabled: false
+auto_page_title: false
+version: false
 sidebar:
   - homepage
   - label: Vehicles
