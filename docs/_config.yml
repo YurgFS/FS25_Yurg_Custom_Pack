@@ -1,6 +1,6 @@
 title: Yurg's Custom Pack
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
-search_enabled: true
+search_enabled: false
 mermaid_enabled: false
 auto_page_title: false
 version: false
