@@ -73,26 +73,7 @@ For any issue, suggestion or question, please create an issue using the followin
 
 ## Licence
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cc/cc-logo-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./cc/cc-logo-black.svg">
-  <img alt="Creative Commons" src="./cc/cc-logo.svg" width="24">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cc/cc-by-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./cc/cc-by-black.svg">
-  <img alt="Creative Commons" src="./cc/cc-by.svg" width="24">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cc/cc-nc-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./cc/cc-nc-black.svg">
-  <img alt="Creative Commons" src="./cc/cc-nc.svg" width="24">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./cc/cc-nd-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./cc/cc-nd-black.svg">
-  <img alt="Creative Commons" src="./cc/cc-nd.svg" width="24">
-</picture>
+![](cc/cc-logo.svg) ![](cc/cc-by.svg) ![](cc/cc-nc.svg) ![](cc/cc-nd.svg)
 
 Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
 - BY: Credit must be given to the creator.
