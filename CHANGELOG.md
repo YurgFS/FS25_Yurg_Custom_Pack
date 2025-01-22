@@ -1,4 +1,4 @@
-## v1.3.1.0 (22/01/2025)
+## v1.3.1.0 (23/01/2025)
 
 Addition of Horsch Cultro 12 TC (mulcher) [#57](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/57)
 - higher working speed (35kph)
