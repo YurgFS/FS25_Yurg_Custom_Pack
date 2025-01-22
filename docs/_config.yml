@@ -1,0 +1,38 @@
+title: blank
+
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+search_enabled: true
+
+max_width: 930px
+
+sidebar:
+  - home
+  - label: Vehicles
+    children:
+      - drivables
+      - loaders
+      - trailers
+      - soil-cultivation
+      - seeding
+      - yiels-improvements
+      - combine-harvesting
+      - forage-harvesting
+      - grassland
+      - baling
+      - rootcrops
+      - vegetables
+      - special-crops
+      - grapes-olives
+      - animals
+      - forestry
+      - miscellaneous
+      - objects
+  - label: Placeables
+    children:
+      - placeables-silos
+      - placeables-livestock
+      - placeables-food-production
+      - placeables-building-materials-production
+      - placeables-others
