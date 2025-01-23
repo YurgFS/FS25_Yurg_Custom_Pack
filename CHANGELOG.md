@@ -1,3 +1,30 @@
+## v1.3.1.0 (23/01/2025)
+
+Addition of Horsch Cultro 12 TC (mulcher) [#57](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/57)
+- higher working speed (35kph)
+- additional color configurations
+
+Addition of Bednar SwifterDisc XE 18400 Mega (cultivator or plow) [#58](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/58)
+- higher working speed (35kph)
+- optional plow function instead of cultivator
+- additional color configurations
+
+Addition of Brandt LandRoller 591A (roller) [#59](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/59)
+- higher working speed (35kph)
+- additional color configurations
+
+Addition of Elmer's Manufacturing Super 7 (weeder) [#60](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/60)
+- higher working speed (35kph)
+- additional color configurations
+
+Enhancement of Krone EasyFlow 300 S (forage header) [#61](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/61)
+- Krone BiG X 1180: addition of straw fill type
+- optional additional working widths (3.5, 5, 10, 20m)
+- now able to pick up the straw & dry grass
+
+GitHub Documentation update, now using GitHub pages
+- https://yurgfs.github.io/FS25_Yurg_Custom_Pack/
+
 ## v1.3.0.2 (21/01/2025)
 
 Fix for [Bug] Failed to Load Distance Textures Errors [#55](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/55)
