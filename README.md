@@ -1,4 +1,4 @@
-![](docs/fs/fs25.200.jpg) [![](docs/modScreen.200.png)](docs/modScreen.png)
+[![](docs/modHeader.png)](docs/modScreen.png)
 
 # Yurg's Custom Pack
 
