@@ -5,8 +5,6 @@ sidebar_label: Yurg's Custom Pack
 ---
 [![](modHeader.png)](modScreen.png)
 
-# Yurg's Custom Pack
-
 ## Equipment updates
 
 Here is a list of adjustments made on all vehicles and implements:
@@ -45,7 +43,7 @@ Many thanks to the following people for their contribution:
 ## Recommended Mods
 
 Here is a list of mods I do recommend:
-- https://www.kingmods.net/en/fs25/packs/3529/recommended-mods
+- [https://www.kingmods.net/en/fs25/packs/3529/recommended-mods](https://www.kingmods.net/en/fs25/packs/3529/recommended-mods)
 
 
 ## Compatibility issues
@@ -60,7 +58,7 @@ Please avoid mods that update the working width of equipments with some fixed va
 
 Please avoid mods that update pallets as it may interfere with this mod.<br>*And specially the Livestock pallets (x10) if you are using the updated barns because the pallet spawn area will be too small.*
 
-- `Liftable Pallets And Bales`  by Jos [#50](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/50)
+- `Liftable Pallets And Bales` by Jos [#50](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/50)
 
 - `Larger capacity pallets` by Virgile0, TopAce888, pipopaaulus [#51](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/51)
 
@@ -68,7 +66,7 @@ Please avoid mods that update pallets as it may interfere with this mod.<br>*And
 ## Support
 
 For any issue, suggestion or question, please create an issue using the following address:
-- https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose
+- [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose)
 
 
 ## Licence
@@ -86,7 +84,6 @@ To view a copy of this license, visit [CC BY-NC-ND 4.0](https://creativecommons.
 ## Download
 
 Only use the download link provided in the latest version:
-- https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest
+- [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest)
 
-> [!CAUTION]
 > Uploading all or part of this mod on another website is not permitted (only noncommercial use of my work is permitted).
