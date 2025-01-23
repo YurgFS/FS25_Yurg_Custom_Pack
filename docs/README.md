@@ -33,6 +33,8 @@ Here is the list of current requests and planed additions:
 
 Feel free to create a new issue if you want something.
 
+All details are now available here:
+- https://yurgfs.github.io/FS25_Yurg_Custom_Pack/
 
 ## Project Contributors
 
