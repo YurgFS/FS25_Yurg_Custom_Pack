@@ -86,4 +86,5 @@ To view a copy of this license, visit [CC BY-NC-ND 4.0](https://creativecommons.
 Only use the download link provided in the latest version:
 - [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest)
 
+> [!CAUTION]
 > Uploading all or part of this mod on another website is not permitted (only noncommercial use of my work is permitted).
