@@ -3,7 +3,6 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 search_enabled: false
 mermaid_enabled: false
 auto_page_title: false
-version: true
 sidebar:
   - homepage
   - label: Vehicles
