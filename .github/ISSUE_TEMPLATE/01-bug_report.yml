@@ -16,7 +16,7 @@ body:
       label: Version
       description: Could you please provide us the version you are using?
     validations:
-      required: true
+      required: false
   - type: textarea
     id: what-happened
     attributes:
