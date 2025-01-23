@@ -69,16 +69,9 @@ For any issue, suggestion or question, please create an issue using the followin
 - [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose)
 
 
-## Licence
+## Copyright
 
-![](cc/cc-by-nc-nd.png)
-
-Yurg's Custom Pack © 2024 by Yurg is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.
-- BY: Credit must be given to the creator.
-- NC: Only noncommercial use of my work is permitted.
-- ND: No derivatives or adaptations of my work are permitted.
-
-To view a copy of this license, visit [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+© 2025 Yurg, all rights reserved
 
 
 ## Download
@@ -87,4 +80,4 @@ Only use the download link provided in the latest version:
 - [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest)
 
 > [!CAUTION]
-> Uploading all or part of this mod on another website is not permitted (only noncommercial use of my work is permitted).
+> Uploading all or part of this mod on another website is not permitted.
