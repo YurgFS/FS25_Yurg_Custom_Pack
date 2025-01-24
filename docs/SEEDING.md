@@ -5,12 +5,38 @@ sidebar_label: Seeding
 ---
 # Seeding
 
+## Seeders
+
+
+
 ## Planters
 
 **Agco Planter 4905**
 - rebranded as Agco (other brand decals replaced by Agco)
-- multifruit (crops, root fruits, rice...)
 - higher working speed (35kph)
-- optional additionnal roller function
-- optional unreal filling capacities
+- multi-fruit (crops, root fruits, rice...)
+- optionnal filling capacity options (x2, x3, x4, x5)
+- optionnal roller function
 - additional color configurations
+
+**Kverneland Optima RS**
+- higher working speed (35)
+- multi-fruit (crops, root fruits, rice...)
+- optionnal filling capacity options (x2, x3, x4, x5)
+- optionnal roller function
+- no color configuration yet
+
+## Seed Tanks
+
+
+
+## Seeds
+
+**Liftable Big Bag Consumables (x5 capacity & price)**
+- Seeds
+
+**Liftable Big Bag Pallet Consumables (x5 capacity & price)**
+- Seeds
+
+**Liftable Pallets Consumables (x5 capacity & price)**
+- Seeds

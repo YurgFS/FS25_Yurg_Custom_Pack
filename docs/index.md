@@ -69,15 +69,11 @@ For any issue, suggestion or question, please create an issue using the followin
 - [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose)
 
 
-## Copyright
-
-© 2025 Yurg, all rights reserved
-
-
 ## Download
 
 Only use the download link provided in the latest version:
 - [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest)
 
-> [!CAUTION]
-> Uploading all or part of this mod on another website is not permitted.
+🚫 Uploading all or part of this mod on another website is not permitted.
+
+©️ Copyright 2025 Yurg, all rights reserved.

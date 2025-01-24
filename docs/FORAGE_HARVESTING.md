@@ -12,6 +12,7 @@ sidebar_label: Forage Harvesting
 - motor start duration reduced to 1.5s
 - silage additive increased capacity
 - higher discharge rate (to avoid a bottleneck due to higher working speed)
+- optional unreal filling capacities
 - addition of straw & dry grass fill types
 
 ## Headers
@@ -29,3 +30,27 @@ sidebar_label: Forage Harvesting
 - higher working speed (35kph)
 - optional additional working widths (3.5, 5, 10, 20m)
 - now able to pick up the straw & dry grass
+
+**EasyFlow 300 S Chaff Edition**
+- same as EasyFlow 300 S but convert all swaths to Chaff
+
+## Header Trailers
+
+
+
+## Levelers
+
+**Holaras MES 400**
+- additional color configurations
+
+## Silo Compaction
+
+**Holaras Stego 485 Pro**
+- higher working speed (16)
+- higher compacting scale (x15)
+- additional color configurations
+
+## Consumables
+
+**Liftable Consumables (x5 capacity & price)**
+- Sillage Additive Pallets

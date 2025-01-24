@@ -13,6 +13,10 @@ sidebar_label: Special Crops
 - higher max working speed (35kph)
 - no color configuration yet
 
+**Agco Planter 4905** (Multi-fruit Planter, more details in Seeding)
+
+**Kverneland Optima RS** (Multi-fruit Planter, more details in Seeding)
+
 ## Rice Harvesters
 
 **Iseki HJ6130**
@@ -22,6 +26,12 @@ sidebar_label: Special Crops
 - optional unreal filling capacities
 - discharge rate increased for unreal filling capacities
 - no color configuration yet
+
+## Sugar Cane Planters
+
+**Agco Planter 4905** (Multi-fruit Planter, more details in Seeding)
+
+**Kverneland Optima RS** (Multi-fruit Planter, more details in Seeding)
 
 ## Sugar Cane Harvesters
 
@@ -35,6 +45,10 @@ sidebar_label: Special Crops
 - trailer hitch updated
 - no color configuration yet
 
+## Sugar Cane Transport
+
+**All bulk trailers of this pack can transport Sugar Cane**
+
 ## Cotton Harvesters
 
 **John Deere CP690**
@@ -42,3 +56,16 @@ sidebar_label: Special Crops
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
 - additional color configurations
+
+## Cotton Transport
+
+
+
+## Consumables
+
+**Liftable Consumables (x5 capacity & price)**
+- Potatoes Pallets
+- Sugarcane Pallets
+
+**Liftable Consumables (standard capacity & price)**
+- Rice Sapling Pallets

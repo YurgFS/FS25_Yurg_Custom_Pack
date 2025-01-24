@@ -1,9 +1,16 @@
 ---
 id: placeables-building-materials-production
-title: Building Materials Production
+title: Building Materials Production Placeables
 sidebar_label: Building Materials Production
 ---
 # Building Materials Production
+
+**Sawmill**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
 
 **Carpentry, Carpentry (EU)**
 - no daily upkeep fee
@@ -23,20 +30,13 @@ sidebar_label: Building Materials Production
 - output storage increased (x20)
 - input storage increased (x40)
 
+**Stone Quarry**
+- no daily upkeep fee
+- production increased (x10)
+
 **Cement Factory (EU), Cement Factory (US)**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
-
-**Sawmill**
-- no daily upkeep fee
-- reduction of cost per hour
-- production increased (x10)
-- output storage increased (x10)
-- input storage increased (x20)
-
-**Stone Quarry**
-- no daily upkeep fee
-- production increased (x10)

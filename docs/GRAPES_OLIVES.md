@@ -17,43 +17,45 @@ sidebar_label: Grapes & Olives
 
 ## Grapes Trailers
 
-Any BULK trailer can be used.
+**All bulk trailers of this pack can transport Grapes**
 
 ## Grapes Tools
 
-**Šálek AKP-122**
+**Antonio Carraro Mach 4R** (small tractor, more details in Drivables)
+
+**Šálek AKP-122** (subsoiler or plow)
 - higher working speed (24)
 - optional plow function instead of subsoiler
 - optional additional working widths (2.25, 3.5, 4.75, 6m)
 - additional color configurations
 
-**Agrisem Disc-O-Vigne**
+**Agrisem Disc-O-Vigne** (subsoiler or plow)
 - higher working speed (24)
 - optional plow function instead of subsoiler
 - optional additional working widths (2.25, 3.5, 4.75, 6m)
 - additional color configurations
 
-**TMC Cancela TPN 140**
+**Hardi Mercury 4000L** (sprayer)
 - higher working speed (24)
-- optional additional working widths (2.25, 3.5, 4.75, 6m)
+- optional additional working widths (5, 6m)
 - additional color configurations
 
-**Šálek RZK 300H**
+**Šálek RZK 300H** (fertilizer spreader)
 - higher working speed (24)
 - can also spread lime
 - additional color configurations
 
-**Farmtech Variofex 750**
+**Farmtech Variofex 750** (manure spreader)
 - higher working speed (24)
 - can also spread lime and fertilizer (wide spread mode only at this time)
 - now able to discharge on silos
 - additional color configurations
 
-**Hardi Mercury 4000L**
+**TMC Cancela TPN 140** (mulcher)
 - higher working speed (24)
-- optional additional working widths (5, 6m)
+- optional additional working widths (2.25, 3.5, 4.75, 6m)
 - additional color configurations
 
-**Provitis MP 122 OCEA**
+**Provitis MP 122 OCEA** (pre-pruner)
 - higher working speed (24)
 - additional color configurations

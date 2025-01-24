@@ -5,12 +5,21 @@ sidebar_label: Drivables
 ---
 # Drivables
 
-## Small Tractors:
+## Small Tractors
 
 **Antonio Carraro Mach 4R**
 - 5 additional motors with higher max speed (up to 236hp 74kph)
 - motor start duration reduced to 1.5s
 - additional fuel tank options (60, 70L)
+- additional color configurations
+
+## Medium Tractors
+
+**Valtra T Series**
+- 5 additional motors with higher max speed (292hp 63kph, 312hp 63kph, 332hp 73kph, 352hp 73kph, 372hp 83kph)
+- new motors are available in 3 variants just like the basic ones (Active, Versu & Direct)
+- motor start duration reduced to 1.5s
+- additional fuel tank options (420, 460, 500L)
 - additional color configurations
 
 ## Large Tractors
@@ -53,3 +62,11 @@ sidebar_label: Drivables
 - motor start duration reduced to 0.5s (electric...)
 - additional optional trailer hitch (usefull to move dolly..)
 - additional color configurations
+
+## Cars & Bikes
+
+
+
+## Micsellaneous
+
+

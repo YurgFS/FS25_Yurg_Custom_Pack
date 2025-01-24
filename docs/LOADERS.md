@@ -5,6 +5,38 @@ sidebar_label: Loaders
 ---
 # Loaders
 
+## Front Loader Vehicles
+
+
+
+## Front Loaders
+
+**Quicke Q7M**
+- additional color configurations
+
+## Front Loader Tools
+
+**Front Loader Tools Updates**
+- all Front Loader Tools are liftable
+- optional unreal filling capacities (10 000, 50 000)
+- discharge rate increased for unreal filling capacities
+- additional color configurations
+
+**Front Loader Tools List**
+- Albutt BaleKing
+- Albutt BaleSpike
+- Albutt LogFork
+- Albutt ManureFork
+- Albutt ManureGrab
+- Albutt PalletFork
+- Albutt RoundBaleFork
+- Albutt Shovel
+- Albutt SilageCutter
+- Albutt SquareBaleGrab
+- Fliegl Ruby 2000
+- Quicke Bag Lifter
+- Quicke Bag Lifter Dual
+
 ## Telehandlers
 
 **Merlo MF44.9CS-170-CVTRONIC**
@@ -13,29 +45,29 @@ sidebar_label: Loaders
 - additional optional fuel tank capacities (200, 260L)
 - additional color configurations
 
-## Telehandler tools
+## Telehandler Tools
 
-**Magsi Bale Fork**
-- additional color configurations
-
-**Magsi Bale Grab**
-- additional color configurations
-
-**Magsi Pallet Fork**
-- additional color configurations
-
-**Magsi Log Fork**
-- additional color configurations
-
-**Magsi Manure Fork**
+**Telehandler Tools Updates**
+- all Telehandler Tools are liftable
 - optional unreal filling capacities (10 000, 50 000)
 - higher discharge rate
 - additional color configurations
 
-**Magsi Shovel**
-- optional unreal filling capacities (10 000, 50 000)
-- higher discharge rate
-- additional color configurations
+**Telehandler Tools List**
+- Magsi Bale Fork
+- Magsi Bale Grab
+- Magsi Pallet Fork
+- Magsi Log Fork
+- Magsi Manure Fork
+- Magsi Shovel
+
+## Wheel Loaders
+
+
+
+## Wheel Loader Tools
+
+
 
 ## Skid Steer Loaders
 
@@ -45,32 +77,24 @@ sidebar_label: Loaders
 - additional optional fuel tank capacities (160, 200L)
 - additional color configurations
 
-## Skid Steer Loader tools
+## Skid Steer Loader Tools
 
-**Paladin Bale Fork**
-- additional color configurations
-
-**Paladin Bale Grab**
-- additional color configurations
-
-**Paladin Pallet Fork**
-- additional color configurations
-
-**Paladin Log Fork**
-- additional color configurations
-
-**Paladin Manure Fork**
-- optional unreal filling capacities (10000, 50000)
+**Skid Steer Loader Tools Updates**
+- all Skid Steer Loader Tools are liftable
+- optional unreal filling capacities (10 000, 50 000)
 - higher discharge rate
 - additional color configurations
 
-**Paladin High Dump Bucket**
-- optional unreal filling capacities (10000, 50000)
-- higher discharge rate
-- additional color configurations
+**Skid Steer Loader Tools List**
+- Paladin Bale Fork
+- Paladin Bale Grab
+- Paladin Pallet Fork
+- Paladin Log Fork
+- Paladin Manure Fork
+- Paladin High Dump Bucket
+- Paladin SFB 750
+- Paladin Stump Cutter
 
-**Paladin SFB 750**
-- additional color configurations
+# Forklifts
 
-**Paladin Stump Cutter**
-- additional color configurations
+

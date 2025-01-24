@@ -58,6 +58,10 @@ sidebar_label: Combine Harvesting
 - higher working speed (35kph)
 - additional color configurations
 
+## Special Headers
+
+
+
 ## Headers Trailers
 
 **Agco HDHT 52 for FD250**

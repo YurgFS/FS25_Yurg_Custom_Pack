@@ -7,6 +7,11 @@ sidebar_label: Trailers
 
 ## Trailers
 
+**Šálek RZK ANS-1900**
+- higher discharge rate
+- optional unreal filling capacities
+- additional color configurations
+
 **Krampe Big Body 750 S**
 - higher discharge rate
 - optional unreal filling capacities
@@ -23,15 +28,29 @@ sidebar_label: Trailers
 - optional unreal filling capacities
 - additional color configurations
 
-**Šálek RZK ANS-1900**
-- higher discharge rate
+
+## Auger Wagons
+
+**Elmer's Manufacturing HaulMaster**
+- multi-fruit (crops, root fruits, rice...)
 - optional unreal filling capacities
+- discharge rate increased (x2 but x10 & x20 for unreal filling capacities)
 - additional color configurations
+
+
+## Changing Systems
+
+
+
+## Flatbed Trailers
+
+
+
+## Low Loaders
+
+
 
 ## Semi Trailers
-
-**Krampe Dolly 10 L**
-- additional color configurations
 
 **Krampe SKS 30/1050**
 - higher discharge rate
