@@ -1,3 +1,8 @@
+## v1.3.2.1 (24/01/2025)
+
+[Enhancement] Agco Multi Prod Increased Production Capacity [#75](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/75)
+- addition of a variants for both (with silo extension or not) with increased output storage (x5)
+
 ## v1.3.2.0 (24/01/2025)
 
 Addition of Valtra T Series (medium tractor) [#65](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/65)

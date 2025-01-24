@@ -1,7 +1,7 @@
 ---
 id: homepage
 title: Yurg's Custom Pack
-sidebar_label: Equipment updates
+sidebar_label: Yurg's Custom Pack
 ---
 [![](modHeader.png)](modScreen.png)
 

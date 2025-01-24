@@ -24,10 +24,24 @@ sidebar_label: Silos & Productions
 
 # Productions
 
-**Agco Multi Prod**
+**Agco Multi Prod 500K**
 - rebranded as Agco (other brands decals replaced by Agco)
 - grass dryer
 - grass and/or chaff silage
 - forage & pig food mixer
 - sugarbeet cut
-- with or without silo extension enabled
+- silo extension enabled
+- 5M storage for input products
+- 500K storage for productions output
+
+**Agco Multi Prod 500K (no extension)**
+- same as **Agco Multi Prod 500K**
+- silo extension disabled
+
+**Agco Multi Prod 2.5M**
+- same as **Agco Multi Prod 500K**
+- 2.5M storage for productions output
+
+**Agco Multi Prod 2.5M (no extension)**
+- same as **Agco Multi Prod 2.5M**
+- silo extension disabled
