@@ -1,0 +1,35 @@
+title: Yurg's Custom Pack
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+search_enabled: false
+mermaid_enabled: false
+auto_page_title: false
+sidebar:
+  - homepage
+  - label: Vehicles
+    children:
+      - drivables
+      - loaders
+      - trailers
+      - soil-cultivation
+      - seeding
+      - yiels-improvements
+      - combine-harvesting
+      - forage-harvesting
+      - grassland
+      - baling
+      - rootcrops
+      - vegetables
+      - special-crops
+      - grapes-olives
+      - animals
+      - forestry
+      - miscellaneous
+      - objects
+  - label: Placeables
+    children:
+      - placeables-silos
+      - placeables-livestock
+      - placeables-food-production
+      - placeables-building-materials-production
+      - placeables-selling-stations
+      - placeables-others

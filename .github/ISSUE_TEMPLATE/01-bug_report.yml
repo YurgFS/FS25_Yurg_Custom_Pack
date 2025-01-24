@@ -1,0 +1,62 @@
+name: 🐞 Bug report
+description: Create a report to help us improve
+title: "[Bug] "
+labels: ["bug", "triage"]
+assignees:
+  - YurgFS
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+        The more details we have, the easier it will be to solve the problem.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Could you please provide us the version you are using?
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: to-reproduce
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the behavior.
+    validations:
+      required: false
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log file
+      description: If applicable, add the part of the game log file to help explain your problem.
+      render: Shell
+    validations:
+      required: false
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here.
+    validations:
+      required: false
