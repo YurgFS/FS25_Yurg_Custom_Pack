@@ -47,3 +47,18 @@ sidebar_label: Baling
 - automatic bales unload is now set by default
 - able to pick up swaths on non-owned farmlands
 - additional color configurations
+
+## Transport
+
+
+
+## Miscellaneous
+
+
+
+## Consumables
+
+**Liftable Consumables (standard capacity & price)**
+- Bale Net Pallets
+- Bale Twine Pallets
+- Rani Wrap Pallets

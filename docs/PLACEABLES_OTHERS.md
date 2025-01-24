@@ -1,6 +1,6 @@
 ---
 id: placeables-others
-title: Others
+title: Other Placeables
 sidebar_label: Others
 ---
 # Others

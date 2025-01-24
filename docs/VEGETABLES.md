@@ -5,6 +5,12 @@ sidebar_label: Vegetables
 ---
 # Vegetables
 
+## Vegetables Planters
+
+**Agco Planter 4905** (Multi-fruit Planter, more details in Seeding)
+
+**Kverneland Optima RS** (Multi-fruit Planter, more details in Seeding)
+
 ## Vegetables Harvesters
 
 **Dewulf ZKIV(SE)**
@@ -48,3 +54,8 @@ sidebar_label: Vegetables
 
 **Oxbo EPD540e TERRA TRAC**
 - same as Oxbo EPD540e with Class Terra Trac
+
+## Consumables
+
+**Liftable Consumables (x20 capacity)**
+- Dewulf Vegetables Pallets

@@ -1,3 +1,82 @@
+## v1.3.2.0 (24/01/2025)
+
+Addition of Valtra T Series (medium tractor) [#65](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/65)
+- 5 additional motors with higher max speed (292hp 63kph, 312hp 63kph, 332hp 73kph, 352hp 73kph, 372hp 83kph)
+- new motors are available in 3 variants just like the basic ones (Active, Versu & Direct)
+- motor start duration reduced to 1.5s
+- additional fuel tank options (420, 460, 500L)
+- additional color configurations
+
+Addition of Front Loader Tools [#67](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/67)
+- Quicke Q7M
+- Albutt BaleKing
+- Albutt BaleSpike
+- Albutt LogFork
+- Albutt ManureFork
+- Albutt ManureGrab
+- Albutt PalletFork
+- Albutt RoundBaleFork
+- Albutt Shovel
+- Albutt SilageCutter
+- Albutt SquareBaleGrab
+- Fliegl Ruby 2000
+- Quicke Bag Lifter
+- Quicke Bag Lifter Dual
+
+Front Loader Tools Updates:
+- all Front Loader Tools are liftable
+- optional unreal filling capacities (10 000, 50 000)
+- discharge rate increased for unreal filling capacities
+- additional color configurations
+
+Telehandler & Skid Steer Loader Tools Updates [#68](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/68)
+- all Telehandler & Skid Steer Loader Tools are liftable
+
+Addition of Elmer's Manufacturing HaulMaster (auger wagon) [#66](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/66)
+- multi-fruit (crops, root fruits, rice...)
+- optional unreal filling capacities
+- discharge rate increased (x2 but x10 & x20 for unreal filling capacities)
+- additional color configurations
+
+Addition of Kverneland Optima RS (planter) [#62](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/62)
+- higher working speed (35)
+- multi-fruit (crops, root fruits, rice...)
+- optionnal filling capacity options (x2, x3, x4, x5)
+- optionnal roller function
+- no color configuration yet
+
+Update of Agco Planter 4905 (planter) [#62](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/62)
+- more optionnal filling capacity options (x3 & x5)
+
+Addition of Holaras MES 400 (leveler) [#69](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/69)
+- additional color configurations
+
+Addition of Holaras Stego 485 Pro (silo compaction tool) [#69](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/69)
+- higher working speed (16)
+- higher compacting scale (x15)
+- additional color configurations
+
+Addition of Impex Hannibal T50 (forestry harvester) [#64](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/64)
+- 5 additional motors with higher max speed (352hp 16kph, 384hp 24kph, 416hp 32kph, 448hp 40kph, 480hp, 48kph)
+- motor start duration reduced to 1.5s
+- no color configuration yet
+
+Addition of Potato Processing Plant [#71](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/71)
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+Potato Processing products update
+- liftable Pallets with x10 capacity & price
+
+Addition of Krone EasyFlow 300 S Chaff Edition [#70](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/70)
+- same as EasyFlow 300 S but convert all swaths to Chaff
+
+Update of Krone BiG X 1180 [#72](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/72)
+- optional unreal filling capacities
+
 ## v1.3.1.0 (23/01/2025)
 
 Addition of Horsch Cultro 12 TC (mulcher) [#57](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/57)

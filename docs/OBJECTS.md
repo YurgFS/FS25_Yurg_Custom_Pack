@@ -7,18 +7,29 @@ sidebar_label: Objects
 
 ## Farm Consumables
 
-**Liftable Consumables (x5 capacity & price)**
-- Seeds, Fertilizer, Lime, Herbicide, Sillage additive
+**Liftable Farm Consumables (x20 capacity)**
+- Fillable Pallet
+- Dewulf Vegetables Pallet
+
+**Liftable Farm Consumables (x5 capacity & price)**
+- Seeds, Potatoes, Sugarcane, Poplar
+- Lime, Solid Fertilizer, Liquid Fertilizer, Herbicide
+- Sillage Additive
 - Chicken, Horse and Pig Food, Mineral Feed
 - Road Salt
 
-**Liftable Consumables (standard capacity & price)**
+**Liftable Farm Consumables (standard capacity & price)**
 - Bale Net, Bale Twine, Rani Wrap
-- Rice, Poplar and Trees saplings
+- Rice and Trees Saplings
+
+## Bales
+
+**Liftable Bales**
+- All bales are liftable
 
 ## Livestock Pallets
 
-**Liftable Livestock Pallets (x10 capacity & price)**
+**Livestock Liftable Pallets (x10 capacity & price)**
 - Eggs Boxes
 - Goat Milk Cans
 - Wools
@@ -30,34 +41,33 @@ sidebar_label: Objects
 
 ## Food Production Pallets
 
-**Liftable Food Production Pallets**
-- All Food Production Pallets are liftable
-- 10x capacity to Bakery Factory products
-- 10x capacity to Cereal Factory products
-- 10x capacity to Dairy products
-- 10x capacity to Grain Mill products
-- 10x capacity to Grape Processing products
-- 10x capacity to Green Houses products
-- 10x capacity to Mushrooms Green House products
-- 10x capacity to Oil Mill products
-- 10x capacity to Preserved Food Factory products
-- 10x capacity to Soup Factory products
-- 10x capacity to Sugar Mill products
+**Food Liftable Pallets (x10 capacity & price)**
+- Bakery Factory products
+- Cereal Factory products
+- Dairy products
+- Grain Mill products
+- Grape Processing products
+- Green Houses products
+- Mushrooms Green House products
+- Preserved Food Factory products
+- Soup Factory products
+- Sugar Mill products
+- Oil Mill products
+- Potato Processing products
 
 ## Building Materials Production Pallets
 
-**Liftable Building Materials Production Pallets**
-- All Building Materials Production Pallets are liftable
-- 5x capacity to Cement Factory products
-- 5x capacity to Sawmill products (x20 for woodchips)
-- 5x capacity to Carpentry products
+**Building Materials Liftable Pallets (x5 capacity & price)**
+- Carpentry products
+- Cement Factory products
+- Sawmill products (x20 for woodchips)
+- Stone Quarry products
 
 ## Other Production Pallets
 
-**Liftable Other Production Pallets**
-- All Other Production Pallets are liftable
-
-## Bales
-
-**Liftable Bales**
-- All bales are liftable
+**Other Liftable Pallets (standard capacity & price)**
+- Cooper products
+- Paper Factory products
+- Rope Maker products
+- Spinnery products
+- Tailor Shop products

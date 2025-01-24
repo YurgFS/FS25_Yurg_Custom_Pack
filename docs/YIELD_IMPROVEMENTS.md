@@ -31,6 +31,10 @@ sidebar_label: Yield Improvements
 - now able to discharge on silos
 - additional color configurations
 
+## Fertilizer Spreaders
+
+**Samson US 235 Dynamic** (can also spread lime and fertilizer)
+
 ## Slurry Tankers
 
 **Oxbo AT5105 LNMS**
@@ -57,6 +61,10 @@ sidebar_label: Yield Improvements
 - higher working speed (35kph)
 - optional working widths
 
+## Slurry Transport
+
+**All Liquids Trailers of this pack can transport Slurry**
+
 ## Weeders
 
 **Elmer's Manufacturing Super 7**
@@ -68,3 +76,11 @@ sidebar_label: Yield Improvements
 **Brandt LandRoller 591A**
 - higher working speed (35kph)
 - additional color configurations
+
+## Consumables
+
+**Liftable Consumables (x5 capacity & price)**
+- Lime Big Bags & Big Bag Pallets
+- Solid Fertilizer Big Bags & Big Bag Pallets
+- Liquid Fertilizer Tank Pallets
+- Herbicide Tank Pallets

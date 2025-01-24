@@ -5,6 +5,10 @@ sidebar_label: Animals
 ---
 # Animals
 
+## Forage Mixers
+
+**Agco Multi Prod** (placeable, more details in Silos & Productions)
+
 ## Barrels
 
 **Abi 550**
@@ -33,3 +37,19 @@ sidebar_label: Animals
 - optional unreal filling capacities
 - optional trailer hitch
 - additional color configurations
+
+## Animal Transport
+
+
+
+## Straw Blowers
+
+
+
+## Food
+
+**Liftable Consumables (x5 capacity & price)**
+- Chicken Big Bags & Big Bag Pallets
+- Horse Big Bags & Big Bag Pallets
+- Pig Food Big Bags & Big Bag Pallets
+- Mineral Feed Pallets

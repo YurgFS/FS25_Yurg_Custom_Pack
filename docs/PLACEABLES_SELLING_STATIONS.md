@@ -1,6 +1,6 @@
 ---
 id: placeables-selling-stations
-title: Selling Stations
+title: Selling Stations Placeables
 sidebar_label: Selling Stations
 ---
 # Selling Stations

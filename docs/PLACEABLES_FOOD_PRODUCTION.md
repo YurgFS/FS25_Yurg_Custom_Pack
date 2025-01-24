@@ -1,6 +1,6 @@
 ---
 id: placeables-food-production
-title: Food Production
+title: Food Production Placeables
 sidebar_label: Food Production
 ---
 # Food Production
@@ -23,14 +23,14 @@ sidebar_label: Food Production
 
 ## Food Production Points
 
-**Bakery, Bakery (AS), Bakery (EU)**
+**Grain Mill**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Cereal Factory**
+**Sugar Mill**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
@@ -45,7 +45,7 @@ sidebar_label: Food Production
 - input storage increased (x20)
 - same cost for bottling all milk types
 
-**Grain Mill**
+**Bakery, Bakery (AS), Bakery (EU)**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
@@ -59,7 +59,7 @@ sidebar_label: Food Production
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Oil Mill**
+**Cereal Factory**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
@@ -91,7 +91,14 @@ sidebar_label: Food Production
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Sugar Mill**
+**Oil Mill**
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- output storage increased (x10)
+- input storage increased (x20)
+
+**Potato Processing Plant**
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
