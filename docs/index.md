@@ -74,6 +74,6 @@ For any issue, suggestion or question, please create an issue using the followin
 Only use the download link provided in the latest version:
 - [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest)
 
-🚫 Uploading all or part of this mod on another website is not permitted.
+🚫 It is strictly forbidden to republish all or part of this mod on any other hosting site.
 
 ©️ Copyright 2025 Yurg, all rights reserved.
