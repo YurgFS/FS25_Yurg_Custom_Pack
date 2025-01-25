@@ -23,6 +23,7 @@ run-name: >-
 jobs:
 
   build:
+    if: ${{ vars.DEPLOY != 'false' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

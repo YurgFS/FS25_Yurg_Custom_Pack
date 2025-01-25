@@ -1,8 +1,9 @@
 ---
 id: yield-improvements
-title: Yield Improvements
+title: Yurg's Custom Pack - Yield Improvements
 sidebar_label: Yield Improvements
 ---
+[![](modHeader.png)](modScreen.png)
 # Yield Improvements
 
 ## Sprayers

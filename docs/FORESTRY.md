@@ -1,8 +1,9 @@
 ---
 id: forestry
-title: Forestry
+title: Yurg's Custom Pack - Forestry
 sidebar_label: Forestry
 ---
+[![](modHeader.png)](modScreen.png)
 # Forestry
 
 ## Harvesters

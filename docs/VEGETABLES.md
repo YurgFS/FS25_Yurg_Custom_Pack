@@ -1,8 +1,9 @@
 ---
 id: vegetables
-title: Vegetables
+title: Yurg's Custom Pack - Vegetables
 sidebar_label: Vegetables
 ---
+[![](modHeader.png)](modScreen.png)
 # Vegetables
 
 ## Vegetables Planters

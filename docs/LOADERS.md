@@ -1,8 +1,9 @@
 ---
 id: loaders
-title: Loaders
+title: Yurg's Custom Pack - Loaders
 sidebar_label: Loaders
 ---
+[![](modHeader.png)](modScreen.png)
 # Loaders
 
 ## Front Loader Vehicles

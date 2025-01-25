@@ -1,8 +1,9 @@
 ---
 id: forage-harvesting
-title: Forage Harvesting
+title: Yurg's Custom Pack - Forage Harvesting
 sidebar_label: Forage Harvesting
 ---
+[![](modHeader.png)](modScreen.png)
 # Forage Harvesting
 
 ## Harvesters

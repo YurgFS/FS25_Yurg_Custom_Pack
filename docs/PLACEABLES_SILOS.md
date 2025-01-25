@@ -1,8 +1,9 @@
 ---
 id: placeables-silos
-title: Silos & Productions Placeables
+title: Yurg's Custom Pack - Silos & Productions Placeables
 sidebar_label: Silos & Productions
 ---
+[![](modHeader.png)](modScreen.png)
 # Silos & Extensions
 
 **Agco Multi Silo**
