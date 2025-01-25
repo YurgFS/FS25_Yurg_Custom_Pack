@@ -1,8 +1,9 @@
 ---
 id: grassland
-title: Grassland
+title: Yurg's Custom Pack - Grassland
 sidebar_label: Grassland
 ---
+[![](modHeader.png)](modScreen.png)
 # Grassland
 
 ## Mowers

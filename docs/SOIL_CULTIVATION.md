@@ -1,8 +1,9 @@
 ---
 id: soil-cultivation
-title: Soil Cultivation
+title: Yurg's Custom Pack - Soil Cultivation
 sidebar_label: Soil Cultivation
 ---
+[![](modHeader.png)](modScreen.png)
 # Soil Cultivation
 
 ## Plows

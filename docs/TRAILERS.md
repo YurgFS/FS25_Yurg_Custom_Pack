@@ -1,8 +1,9 @@
 ---
 id: trailers
-title: Trailers
+title: Yurg's Custom Pack - Trailers
 sidebar_label: Trailers
 ---
+[![](modHeader.png)](modScreen.png)
 # Trailers
 
 ## Trailers

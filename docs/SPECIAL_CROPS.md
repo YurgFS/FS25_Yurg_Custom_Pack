@@ -1,8 +1,9 @@
 ---
 id: special-crops
-title: Special Crops
+title: Yurg's Custom Pack - Special Crops
 sidebar_label: Special Crops
 ---
+[![](modHeader.png)](modScreen.png)
 # Special Crops
 
 ## Rice Planters

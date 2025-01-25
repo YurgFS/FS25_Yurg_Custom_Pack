@@ -1,8 +1,9 @@
 ---
 id: placeables-livestock
-title: Livestock Placeables
+title: Yurg's Custom Pack - Livestock Placeables
 sidebar_label: Livestock
 ---
+[![](modHeader.png)](modScreen.png)
 # Livestock
 
 ## Cows

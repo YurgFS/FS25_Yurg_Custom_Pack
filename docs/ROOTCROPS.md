@@ -1,8 +1,9 @@
 ---
 id: rootcrops
-title: Root crops
+title: Yurg's Custom Pack - Root crops
 sidebar_label: Root crops
 ---
+[![](modHeader.png)](modScreen.png)
 # Root crops
 
 ## Beet Harvesters

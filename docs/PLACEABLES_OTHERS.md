@@ -1,8 +1,9 @@
 ---
 id: placeables-others
-title: Other Placeables
+title: Yurg's Custom Pack - Other Placeables
 sidebar_label: Others
 ---
+[![](modHeader.png)](modScreen.png)
 # Others
 
 **Electric Charging Station**

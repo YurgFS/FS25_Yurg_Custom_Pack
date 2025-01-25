@@ -1,8 +1,9 @@
 ---
 id: combine-harvesting
-title: Combine Harvesting
+title: Yurg's Custom Pack - Combine Harvesting
 sidebar_label: Combine Harvesting
 ---
+[![](modHeader.png)](modScreen.png)
 # Combine Harvesting
 
 ## Harvesters

@@ -1,8 +1,9 @@
 ---
 id: miscellaneous
-title: Miscellaneous
+title: Yurg's Custom Pack - Miscellaneous
 sidebar_label: Miscellaneous
 ---
+[![](modHeader.png)](modScreen.png)
 # Miscellaneous
 
 ## Weights
