@@ -1,8 +1,9 @@
 ---
 id: baling
-title: Baling
+title: Yurg's Custom Pack - Baling
 sidebar_label: Baling
 ---
+[![](modHeader.png)](modScreen.png)
 # Baling
 
 ## Squarebalers

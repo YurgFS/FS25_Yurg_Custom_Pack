@@ -1,8 +1,9 @@
 ---
 id: animals
-title: Animals
+title: Yurg's Custom Pack - Animals
 sidebar_label: Animals
 ---
+[![](modHeader.png)](modScreen.png)
 # Animals
 
 ## Forage Mixers

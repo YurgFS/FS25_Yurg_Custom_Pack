@@ -1,8 +1,9 @@
 ---
 id: seeding
-title: Seeding
+title: Yurg's Custom Pack - Seeding
 sidebar_label: Seeding
 ---
+[![](modHeader.png)](modScreen.png)
 # Seeding
 
 ## Seeders

@@ -1,8 +1,9 @@
 ---
 id: grapes-olives
-title: Grapes & Olives
+title: Yurg's Custom Pack - Grapes & Olives
 sidebar_label: Grapes & Olives
 ---
+[![](modHeader.png)](modScreen.png)
 # Grapes & Olives
 
 ## Grapes & Olives Harvesters

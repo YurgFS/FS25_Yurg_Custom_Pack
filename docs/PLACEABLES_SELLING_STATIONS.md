@@ -1,8 +1,9 @@
 ---
 id: placeables-selling-stations
-title: Selling Stations Placeables
+title: Yurg's Custom Pack - Selling Stations Placeables
 sidebar_label: Selling Stations
 ---
+[![](modHeader.png)](modScreen.png)
 # Selling Stations
 
 **Small Farmer Kiosk**

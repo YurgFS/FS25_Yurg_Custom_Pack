@@ -1,8 +1,9 @@
 ---
 id: placeables-building-materials-production
-title: Building Materials Production Placeables
+title: Yurg's Custom Pack - Building Materials Production Placeables
 sidebar_label: Building Materials Production
 ---
+[![](modHeader.png)](modScreen.png)
 # Building Materials Production
 
 **Sawmill**
