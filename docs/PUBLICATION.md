@@ -1,8 +1,3 @@
----
-id: publication
-title: Yurg's Custom Pack - Publication guidelines
-sidebar_label: Publication
----
 # Publication guidelines
 
 You are authorized to publish this mod on a website dedicated to Farming Simulator 25 mods, but only if you respect the following conditions.

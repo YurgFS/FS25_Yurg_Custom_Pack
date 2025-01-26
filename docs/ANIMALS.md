@@ -41,7 +41,14 @@ sidebar_label: Animals
 
 ## Animal Transport
 
+**Wilson Silverstar**
+- 12 cows, 12 horses, 36 pigs, 38 sheeps, 210 chickens
+- additional color configurations
 
+**Wilson Silverstar Unreal**
+- Wilson Silverstar x20 (except horses)
+- 240 cows, 12 horses, 720 pigs, 760 sheeps, 4200 chickens
+- additional color configurations
 
 ## Straw Blowers
 

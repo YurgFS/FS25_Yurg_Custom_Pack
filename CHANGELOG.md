@@ -1,6 +1,19 @@
-## TBD
+## v1.3.3.0 (26/01/2025)
 
+[Feature] Bee Hive Honey Pallet Spawner [#87](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/87)
+- 16 pallets
 
+[Feature] Wilson Silverstar (animal transport) [#86](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/86)
+- 12 cows, 12 horses, 36 pigs, 38 sheeps, 210 chickens
+- additional color configurations
+
+[Feature] Wilson Silverstar Unreal (animal transport) [#86](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/86)
+- Wilson Silverstar x20 (except horses)
+- 240 cows, 12 horses, 720 pigs, 760 sheeps, 4200 chickens
+- additional color configurations
+
+[Enhancement] Krone BiG M 450 (mower) : same optional working with as Bergmann Shuttle 490 S [#85](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/85)
+- optional additional working widths (15, 20m)
 
 ## v1.3.2.1 (24/01/2025)
 

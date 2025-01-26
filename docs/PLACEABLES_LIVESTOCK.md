@@ -57,6 +57,9 @@ sidebar_label: Livestock
 **Large Bee Hive**
 - 2500 L/day
 
+**Bee Hive Honey Pallet Spawner**
+- 16 pallets
+
 ## Others
 
 
