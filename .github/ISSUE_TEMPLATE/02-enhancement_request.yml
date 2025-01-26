@@ -2,8 +2,6 @@ name: 🪛 Enhancement request
 description: Propose an improvement to an existing component
 title: "[Enhancement] "
 labels: ["enhancement", "triage"]
-assignees:
-  - YurgFS
 body:
   - type: markdown
     attributes:

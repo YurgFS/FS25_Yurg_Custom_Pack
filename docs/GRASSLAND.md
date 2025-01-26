@@ -12,6 +12,7 @@ sidebar_label: Grassland
 - 3 additional motors with higher max speed (560hp 53kph, 670hp 63kph, 780hp 73kph)
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
+- optional additional working widths (15, 20m)
 
 ## Tedders
 

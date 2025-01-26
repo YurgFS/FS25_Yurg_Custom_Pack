@@ -2,8 +2,6 @@ name: 🐞 Bug report
 description: Create a report to help us improve
 title: "[Bug] "
 labels: ["bug", "triage"]
-assignees:
-  - YurgFS
 body:
   - type: markdown
     attributes:
