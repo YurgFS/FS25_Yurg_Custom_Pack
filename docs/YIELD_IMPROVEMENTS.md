@@ -16,7 +16,7 @@ sidebar_label: Yield Improvements
 
 ## Manure Spreaders
 
-**Oxbo AT5105 DNMS #18**
+**Oxbo AT5105 DNMS**
 - 2 additional motors with higher max speed (662hp 56kph, 774hp 72kph)
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)

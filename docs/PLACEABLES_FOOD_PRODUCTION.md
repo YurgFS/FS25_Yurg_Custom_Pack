@@ -22,6 +22,15 @@ sidebar_label: Food Production
 - input storage increased (x20)
 - output storage increased (x10)
 
+**Grapes & Olives GreenHouses**
+- based on the tomato recipe using Large Mushrooms Green House
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+
 ## Food Production Points
 
 **Grain Mill**
