@@ -19,3 +19,19 @@ Please avoid mods that update pallets as it may interfere with this mod.<br>*And
 - `Liftable Pallets And Bales` by Jos [#50](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/50)
 
 - `Larger capacity pallets` by Virgile0, TopAce888, pipopaaulus [#51](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/51)
+
+## Server Known Issues
+
+### XML file sizes that are too big [#93](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/93)
+```
+XML file 'goeweil/varioMaster/varioMaster.xml' is too big. Size 0.34 MB (max. 0.25 MB)
+XML file 'krone/varipackV190XC/varipackV190XC.xml' is too big. Size 0.47 MB (max. 0.25 MB)
+XML file 'poettinger/impress3190VCPro/impress3190VCPro.xml' is too big. Size 0.35 MB (max. 0.25 MB)
+```
+XML original file sizes:
+- **Göweil VARIO-Master V140** is 0.319 MB (in game equipment)
+- **Krone VariPack V 190 XC Plus** is 0.506 MB (in game equipment)
+- **Pöettinger Impress 3190 VC Pro** is 0.343 MB (GIANTS Software mod)
+
+These problems will not prevent your game from starting. If it is, you may consider using another hosting provider, as the base game and mods created by GIANTS Sofwtare exceed this 0.25 MB limit.
+We consider this limit as a bug on the GIANTS Sofware server's side, since even GIANTS Sofware cannot comply with it.

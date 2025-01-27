@@ -1,3 +1,31 @@
+## v1.3.4.0 (27/01/2025)
+
+[Bug] Several implements show 0 for work width on store screen [#89](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/89)
+- This was due to default plow configuration set to 0m and had no issue with the real work width.
+- Anyway, fixed for the following using configuration sets & vehicle type configurations (instead of custom cultivatorWithPlow)
+  - Bednar SwifterDisc XE 18400 Mega
+  - Šálek AKP-122
+  - Agrisem Disc-O-Vigne
+- I'm temporarily keeping the cultivatorWithPlow custom vehicle type, but it will be removed in a future version.
+- You will have to sell and buy again those tools.
+
+[Enhancement] Grapes & Olives GreenHouses [#92](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/92)
+- based on the tomato recipe using Large Mushrooms Green House
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+[Enhancement] Oxbo AT5105 DNMS: higher manure capacity & improved acceleration [#90](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/90)
+- higher optional unreal capacities for:
+  - Oxbo AT5105 DNMS
+  - Samson US 235 Dynamic
+  - Oxbo AT5105 LNMS
+  - Samson Agro PG II 28 Genesis
+
+[Documentation] Server Known Issues: XML file sizes that are too big [#93](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/93)
+
 ## v1.3.3.0 (26/01/2025)
 
 [Feature] Bee Hive Honey Pallet Spawner [#87](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/87)
