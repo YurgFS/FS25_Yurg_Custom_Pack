@@ -8,7 +8,7 @@ sidebar_label: Livestock
 
 ## Cows
 
-**Rudolf Hörmann Big Cows Barn**
+### Rudolf Hörmann Big Cows Barn
 - 1000 cows
 - 800 000 food capacity
 - 500 000 straw capacity
@@ -16,7 +16,7 @@ sidebar_label: Livestock
 - 1 500 000 liquid manure capacity
 - 1 500 000 manure capacity (not sure if it will work)
 
-**Rudolf Hörmann Big Cows Barn with Lely Vector**
+### Rudolf Hörmann Big Cows Barn with Lely Vector
 - same stats as the one without Lely Vector robot
 - Lely Vector robot additional capacities:
   - 1 500 000 for silage
@@ -30,7 +30,7 @@ sidebar_label: Livestock
 
 ## Pigs
 
-**Rudolf Hörmann Big Pigs Barn**
+### Rudolf Hörmann Big Pigs Barn
 - 3000 pigs
 - 1 000 000 food capacity
 - 500 000 straw capacity
@@ -39,25 +39,25 @@ sidebar_label: Livestock
 
 ## Sheep
 
-**Rudolf Hörmann Big Sheeps Barn**
+### Rudolf Hörmann Big Sheeps Barn
 - 1000 sheeps and/or goats
 - 180 000 food capacity
 
 ## Chickens
 
-**Rudolf Hörmann Big Chickens Barn**
+### Rudolf Hörmann Big Chickens Barn
 - 5000 chickens
 - 125 000 food capacity
 
 ## Bees
 
-**Small Bee Hive**
+### Small Bee Hive
 - 500 L/day
 
-**Large Bee Hive**
+### Large Bee Hive
 - 2500 L/day
 
-**Bee Hive Honey Pallet Spawner**
+### Bee Hive Honey Pallet Spawner
 - 16 pallets
 
 ## Others

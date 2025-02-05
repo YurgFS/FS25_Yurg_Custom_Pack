@@ -12,7 +12,7 @@ sidebar_label: Seeding
 
 ## Planters
 
-**Agco Planter 4905**
+### Agco Planter 4905
 - rebranded as Agco (other brand decals replaced by Agco)
 - higher working speed (35kph)
 - multi-fruit (crops, root fruits, rice...)
@@ -20,7 +20,7 @@ sidebar_label: Seeding
 - optionnal roller function
 - additional color configurations
 
-**Kverneland Optima RS**
+### Kverneland Optima RS
 - higher working speed (35)
 - multi-fruit (crops, root fruits, rice...)
 - optionnal filling capacity options (x2, x3, x4, x5)
@@ -33,11 +33,11 @@ sidebar_label: Seeding
 
 ## Seeds
 
-**Liftable Big Bag Consumables (x5 capacity & price)**
+### Liftable Big Bag Consumables (x5 capacity & price)
 - Seeds
 
-**Liftable Big Bag Pallet Consumables (x5 capacity & price)**
+### Liftable Big Bag Pallet Consumables (x5 capacity & price)
 - Seeds
 
-**Liftable Pallets Consumables (x5 capacity & price)**
+### Liftable Pallets Consumables (x5 capacity & price)
 - Seeds

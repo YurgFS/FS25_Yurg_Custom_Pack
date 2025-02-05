@@ -1,3 +1,25 @@
+## v1.3.5.0 (05/02/2025)
+
+[Enhancement] Göweil VARIO-Master V140 : slower wrapper [#96](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/96)
+- Göweil VARIO-Master V140 back to normal wrap speed
+- addition of Göweil VARIO-Master V140 Fast Wrapper with actual increased wrap speed
+
+[Enhancement] Sprayers and Spreaders application rate reduced [#105](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/105)
+- more details here: https://yurgfs.github.io/FS25_Yurg_Custom_Pack/YIELD_IMPROVEMENTS.html
+- Agrifac Condor Endurance II
+- Oxbo AT5105 DNMS
+- Samson US 235 Dynamic
+- Bomech B.V. Trac-Pack
+- Zunhammer Vibro
+- Samson SBH4 36
+- Hardi Mercury 4000L
+- Šálek RZK 300H
+- Farmtech Variofex 750
+
+[Documentation] Known Issues update https://yurgfs.github.io/FS25_Yurg_Custom_Pack/KNOWN_ISSUES.html
+
+[Documentation] All equipment as titles (and linkable)
+
 ## v1.3.4.0 (27/01/2025)
 
 [Bug] Several implements show 0 for work width on store screen [#89](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/89)
