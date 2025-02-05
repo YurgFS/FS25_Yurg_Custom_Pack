@@ -8,21 +8,21 @@ sidebar_label: Food Production
 
 ## Green Houses
 
-**Large Glass Green House**
+### Large Glass Green House
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - input storage increased (x20)
 - output storage increased (x10)
 
-**Large Mushrooms Green House**
+### Large Mushrooms Green House
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - input storage increased (x20)
 - output storage increased (x10)
 
-**Grapes & Olives GreenHouses**
+### Grapes & Olives Green House
 - based on the tomato recipe using Large Mushrooms Green House
 - no daily upkeep fee
 - reduction of cost per hour
@@ -33,21 +33,21 @@ sidebar_label: Food Production
 
 ## Food Production Points
 
-**Grain Mill**
+### Grain Mill
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Sugar Mill**
+### Sugar Mill
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Dairy**
+### Dairy
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
@@ -55,35 +55,35 @@ sidebar_label: Food Production
 - input storage increased (x20)
 - same cost for bottling all milk types
 
-**Bakery, Bakery (AS), Bakery (EU)**
+### Bakery, Bakery (AS), Bakery (EU)
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Grape Processing**
+### Grape Processing
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Cereal Factory**
+### Cereal Factory
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Preserved Food Factory (EU)**
+### Preserved Food Factory (EU)
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Preserved Food Factory (AS)**
+### Preserved Food Factory (AS)
 - twice the values of the EU variant, since it is more than twice as large
 - addition of Soup Factory productions
 - renamed "l10n_shopItem_preservedFoodFactory (l10n_shopItem_soupFactory)"
@@ -94,21 +94,21 @@ sidebar_label: Food Production
 - output storage increased (x20)
 - input storage increased (x40)
 
-**Soup Factory**
+### Soup Factory
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Oil Mill**
+### Oil Mill
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Potato Processing Plant**
+### Potato Processing Plant
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)

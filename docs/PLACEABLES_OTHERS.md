@@ -6,6 +6,6 @@ sidebar_label: Others
 [![](modHeader.png)](modScreen.png)
 # Others
 
-**Electric Charging Station**
+### Electric Charging Station
 - faster (10/s)
 - 25% cheaper

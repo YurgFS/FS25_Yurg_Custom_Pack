@@ -6,21 +6,21 @@ sidebar_label: Building Materials Production
 [![](modHeader.png)](modScreen.png)
 # Building Materials Production
 
-**Sawmill**
+### Sawmill
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Carpentry, Carpentry (EU)**
+### Carpentry, Carpentry (EU)
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - output storage increased (x10)
 - input storage increased (x20)
 
-**Carpentry (US)**
+### Carpentry (US)
 - twice the values of the EU variant, since it is more than twice as large
 - addition of Sawmill productions
 - renamed "l10n_shopItem_carpenter (Wood-Mizer LT15)"
@@ -31,11 +31,11 @@ sidebar_label: Building Materials Production
 - output storage increased (x20)
 - input storage increased (x40)
 
-**Stone Quarry**
+### Stone Quarry
 - no daily upkeep fee
 - production increased (x10)
 
-**Cement Factory (EU), Cement Factory (US)**
+### Cement Factory (EU), Cement Factory (US)
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)

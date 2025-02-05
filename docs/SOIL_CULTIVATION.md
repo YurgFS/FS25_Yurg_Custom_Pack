@@ -8,7 +8,8 @@ sidebar_label: Soil Cultivation
 
 ## Plows
 
-**Bednar SwifterDisc XE 18400 Mega** (using plow function)
+### Bednar SwifterDisc XE 18400 Plow
+- same as Bednar SwifterDisc XE 18400 Mega using plow function
 
 ## Cultivators
 
@@ -16,7 +17,7 @@ sidebar_label: Soil Cultivation
 
 ## Disc Harrows
 
-**Bednar SwifterDisc XE 18400 Mega**
+### Bednar SwifterDisc XE 18400 Mega
 - higher working speed (35kph)
 - optional plow function instead of cultivator
 - additional color configurations
@@ -31,7 +32,7 @@ sidebar_label: Soil Cultivation
 
 ## Mulchers
 
-**Horsch Cultro 12 TC**
+### Horsch Cultro 12 TC
 - higher working speed (35kph)
 - additional color configurations
 

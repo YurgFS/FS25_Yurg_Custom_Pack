@@ -8,7 +8,7 @@ sidebar_label: Miscellaneous
 
 ## Weights
 
-**Tenwinkel PAC-Multi**
+### Tenwinkel PAC-Multi
 - Weigth range rework from 600 to 3600 by step of 300
 - additional color configurations
 
@@ -22,5 +22,5 @@ sidebar_label: Miscellaneous
 
 ## Miscellaneous
 
-**Krampe Dolly 10 L**
+### Krampe Dolly 10 L
 - additional color configurations
