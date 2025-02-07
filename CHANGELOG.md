@@ -1,3 +1,8 @@
+## v1.3.5.1 (07/02/2025)
+
+[Bug] Liquid lime on sprayers (v1.3.5.0) [#108](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/108)
+- issue fixed
+
 ## v1.3.5.0 (05/02/2025)
 
 [Enhancement] Göweil VARIO-Master V140 : slower wrapper [#96](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/96)
