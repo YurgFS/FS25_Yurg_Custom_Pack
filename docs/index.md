@@ -26,8 +26,10 @@ And the ones made on some vehicles and implements:
   - it requires to include i3d files making the pack size bigger
   - I will probably add some of them, tell me which ones you prefer
 
-Here is the list of current features & enhancement requests:
-- [requested](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20is%3Aissue%20label%3Aenhancement%2Cfeature%20no%3Amilestone)
-- [in progress](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20is%3Aissue%20label%3Aenhancement%2Cfeature%20has%3Amilestone%20)
+Here are some current requests:
+- [Features & Enhancement requested](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20is%3Aissue%20label%3Aenhancement%2Cfeature%20no%3Amilestone)
+- [Features & Enhancement in progress](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20is%3Aissue%20label%3Aenhancement%2Cfeature%20has%3Amilestone%20)
+- [Compatibility & Known Issues](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20label%3Acompatibility%2Cknown-issue)
+
 
 Feel free to [create an issue](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new/choose) if you want something.
