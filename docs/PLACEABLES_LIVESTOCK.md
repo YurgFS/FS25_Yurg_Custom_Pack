@@ -14,7 +14,7 @@ sidebar_label: Livestock
 - 500 000 straw capacity
 - 625 000 milk capacity
 - 1 500 000 liquid manure capacity
-- 1 500 000 manure capacity (not sure if it will work)
+- 1 500 000 manure capacity (need a Manure Heap Extension to get loading triger point [#127](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/127))
 
 ### Rudolf Hörmann Big Cows Barn with Lely Vector
 - same stats as the one without Lely Vector robot
@@ -35,7 +35,7 @@ sidebar_label: Livestock
 - 1 000 000 food capacity
 - 500 000 straw capacity
 - 1 500 000 liquid manure capacity
-- 1 500 000 manure capacity (not sure if it will work)
+- 1 500 000 manure capacity (not working at this time [#127](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/127))
 
 ## Sheep
 

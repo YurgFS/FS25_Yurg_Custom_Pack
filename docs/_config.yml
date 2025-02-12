@@ -24,7 +24,6 @@ sidebar:
       - animals
       - forestry
       - miscellaneous
-      - objects
   - label: Placeables
     children:
       - placeables-silos
@@ -33,6 +32,14 @@ sidebar:
       - placeables-building-materials-production
       - placeables-selling-stations
       - placeables-others
+  - label: Objects
+    children:
+      - objects-consumables
+      - objects-bales
+      - objects-livestock
+      - objects-foods
+      - objects-materials
+      - objects-others
   - contributors
   - recommendations
   - known-issues

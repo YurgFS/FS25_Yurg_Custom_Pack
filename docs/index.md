@@ -26,4 +26,4 @@ And the ones made on some vehicles and implements:
   - it requires to include i3d files making the pack size bigger
   - I will probably add some of them, tell me which ones you prefer
 
-Feel free to [contact us](SUPPORT.md) if you want something.
+**Feel free to [contact us](SUPPORT.md) if you want or need something.**
