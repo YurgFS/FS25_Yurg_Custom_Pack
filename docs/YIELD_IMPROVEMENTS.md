@@ -20,8 +20,21 @@ sidebar_label: Yield Improvements
 ### Agrifac Condor Endurance II
 - 1 additional motor with higher max speed (620hp 80kph)
 - motor start duration reduced to 1.5s
+- higher working speed (35kph)
 - application rate reduced
 - optional unreal filling capacities
+- additional color configurations
+
+### Hardi MEGA 1200L
+- higher working speed (35kph)
+- application rate reduced
+- optional unreal filling capacities
+- higher discharge rate (based on filling capacity)
+- additional color configurations
+
+### Hardi MEGA 1200L Tank
+- optional unreal filling capacities
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ## Manure Spreaders
