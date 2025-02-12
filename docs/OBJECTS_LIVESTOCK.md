@@ -1,7 +1,7 @@
 ---
 id: objects-livestock
-title: Yurg's Custom Pack - Objects
-sidebar_label: Objects
+title: Yurg's Custom Pack - Livestock Pallets
+sidebar_label: Livestock Pallets
 ---
 [![](modHeader.png)](modScreen.png)
 # Livestock Pallets

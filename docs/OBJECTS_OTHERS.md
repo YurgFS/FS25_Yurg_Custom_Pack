@@ -1,7 +1,7 @@
 ---
 id: objects-others
-title: Yurg's Custom Pack - Objects
-sidebar_label: Objects
+title: Yurg's Custom Pack - Other Productions
+sidebar_label: Other Productions
 ---
 [![](modHeader.png)](modScreen.png)
 # Other Production Pallets
