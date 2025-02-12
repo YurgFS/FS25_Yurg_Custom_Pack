@@ -1,7 +1,7 @@
 ---
 id: objects-materials
-title: Yurg's Custom Pack - Objects
-sidebar_label: Objects
+title: Yurg's Custom Pack - Building Materials Productions
+sidebar_label: Building Materials Productions
 ---
 [![](modHeader.png)](modScreen.png)
 # Building Materials Production Pallets

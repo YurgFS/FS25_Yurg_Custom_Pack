@@ -1,7 +1,7 @@
 ---
 id: objects-bales
-title: Yurg's Custom Pack - Objects
-sidebar_label: Objects
+title: Yurg's Custom Pack - Bales
+sidebar_label: Bales
 ---
 [![](modHeader.png)](modScreen.png)
 # Bales

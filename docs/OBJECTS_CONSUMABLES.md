@@ -1,7 +1,7 @@
 ---
 id: objects-consumables
-title: Yurg's Custom Pack - Objects
-sidebar_label: Objects
+title: Yurg's Custom Pack - Farm Consumables
+sidebar_label: Farm Consumables
 ---
 [![](modHeader.png)](modScreen.png)
 # Farm Consumables

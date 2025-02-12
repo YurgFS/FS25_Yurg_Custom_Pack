@@ -1,7 +1,7 @@
 ---
 id: objects-foods
-title: Yurg's Custom Pack - Objects
-sidebar_label: Objects
+title: Yurg's Custom Pack - Food Productions
+sidebar_label: Food Productions
 ---
 [![](modHeader.png)](modScreen.png)
 # Food Production Pallets
