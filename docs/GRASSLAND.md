@@ -29,7 +29,7 @@ sidebar_label: Grassland
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
 - optional unreal filling capacities
-- higher discharge rate
+- higher discharge rate (based on filling capacity)
 - able to pick up swaths on non-owned farmlands
 - additional color configurations
 

@@ -19,6 +19,9 @@ sidebar_label: Baling
 ## Roundbalers
 
 ### Göweil VARIO-Master V140
+- GIANTS Software sillage additive bug fixed
+- addition of 8 BALE_NET slots
+- reduction of BALE_NET use
 - optional unreal filling capacities
 - faster baler for unreal filling capacities
 - additional color configurations

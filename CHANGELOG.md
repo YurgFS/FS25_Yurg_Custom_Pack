@@ -1,3 +1,32 @@
+## v1.3.6.0 (12/02/2025)
+
+[Feature] Spinnery [#118](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/118)
+- addition of Generic & EU Spinnery
+- Spinnery Liftable Pallets update: x10 capacity & price
+
+[Feature] Paper Factory [#120](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/120)
+- addition of Generic Paper Factory
+- addition of woodchips recipes (20 woodchips = 1 wood)
+- Paper Factory Liftable Pallets update: x10 capacity & price
+
+[Bug] FS25 v1.5.0.1 : Göweil VARIO-Master V140 is not using Silage Additive [#121](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/121)
+- another nice bug from GIANTS Software (more details in the issue)
+
+[Enhancement] Göweil VARIO-Master V140: add more BALE_NET slots [#112](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/112)
+- addition of 8 BALE_NET slots
+- reduction of BALE_NET use
+
+[Enhancement] Bergmann Shuttle 490 S: higher unreal capacities [#117](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/117)
+- **Breaking Change**: now using configuration sets to be able to have discharge rate adjusted to the filling capacity of the trailer
+- more unreal capacity options
+
+[Feature] Hardi Mega 1200L (sprayer) [#115](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/115)
+- higher working speed (35kph)
+- application rate reduced
+- optional unreal filling capacities
+- higher discharge rate (based on filling capacity)
+- additional color configurations
+
 ## v1.3.5.1 (07/02/2025)
 
 [Bug] Liquid lime on sprayers (v1.3.5.0) [#108](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/108)
