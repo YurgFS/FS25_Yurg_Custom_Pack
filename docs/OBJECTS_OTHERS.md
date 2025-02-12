@@ -4,7 +4,7 @@ title: Yurg's Custom Pack - Other Productions
 sidebar_label: Other Productions
 ---
 [![](modHeader.png)](modScreen.png)
-# Other Production Pallets
+# Other Productions
 
 ### Other Liftable Pallets (x10 capacity & price)
 - Paper Factory products

@@ -1,10 +1,10 @@
 ---
 id: placeables-building-materials-production
-title: Yurg's Custom Pack - Building Materials Production Placeables
-sidebar_label: Building Materials Production
+title: Yurg's Custom Pack - Materials Productions Placeables
+sidebar_label: Materials Productions
 ---
 [![](modHeader.png)](modScreen.png)
-# Building Materials Production
+# Materials Productions
 
 ### Sawmill
 - no daily upkeep fee

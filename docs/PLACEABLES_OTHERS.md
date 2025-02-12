@@ -1,10 +1,10 @@
 ---
 id: placeables-others
-title: Yurg's Custom Pack - Other Placeables
-sidebar_label: Others
+title: Yurg's Custom Pack - Other Productions Placeables
+sidebar_label: Other Productions
 ---
 [![](modHeader.png)](modScreen.png)
-# Others
+# Other Productions
 
 ### Paper Factory
 - no daily upkeep fee

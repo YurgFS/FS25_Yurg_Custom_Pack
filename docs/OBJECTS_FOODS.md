@@ -4,7 +4,7 @@ title: Yurg's Custom Pack - Food Productions
 sidebar_label: Food Productions
 ---
 [![](modHeader.png)](modScreen.png)
-# Food Production Pallets
+# Food Productions
 
 ### Food Liftable Pallets (x10 capacity & price)
 - Bakery Factory products

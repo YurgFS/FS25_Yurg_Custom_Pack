@@ -4,8 +4,7 @@ title: Yurg's Custom Pack - Download
 sidebar_label: Download
 ---
 [![](modHeader.png)](modScreen.png)
-
-## Download
+# Download
 
 Only use the download link provided in the latest version:
 - [https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/releases/latest)
