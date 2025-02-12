@@ -4,7 +4,7 @@ title: Yurg's Custom Pack - Equipment updates
 sidebar_label: Equipment updates
 ---
 [![](modHeader.png)](modScreen.png)
-## Equipment updates
+# Equipment updates
 
 Here is a list of adjustments made on all vehicles and implements:
 - lifetime of vehicle used to calculate price drop, in months (x10)

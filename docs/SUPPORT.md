@@ -4,7 +4,7 @@ title: Yurg's Custom Pack - Support
 sidebar_label: Support
 ---
 [![](modHeader.png)](modScreen.png)
-## Support
+# Support
 
 For any problems, suggestions or questions, please create an issue using one of the following addresses:
 
@@ -18,11 +18,12 @@ For any problems, suggestions or questions, please create an issue using one of 
 
 [❓ Other Requests](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new?template=04-other_requests.yml)
 
-Here are current ongoing issues:
+### Ongoing Issues
 - [Bug Reports & Known Issues](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20label%3Abug%2Ccompatibility%2Cknown-issue%20sort%3Aupdated-desc)
 - [Features & Enhancement requests](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20is%3Aissue%20label%3Aenhancement%2Cfeature%20sort%3Aupdated-desc)
 - [In Progress (Next Version)](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/milestones?state=open)
 
+### A few tips to help you find the root cause
 If you are unsure, you can try the following method, this might help you find the root cause of the problem:
 - create a new game with [a dedicated test map](https://github.com/YurgFS/FS25_Yurg_Dev_Map/releases/latest) having this mod as the only activated one.
 - if everything is fine, restart the test map by adding other mods until the problem re-occurs.

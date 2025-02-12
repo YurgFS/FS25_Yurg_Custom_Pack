@@ -1,10 +1,10 @@
 ---
 id: objects-materials
-title: Yurg's Custom Pack - Building Materials Productions
-sidebar_label: Building Materials Productions
+title: Yurg's Custom Pack - Materials Productions
+sidebar_label: Materials Productions
 ---
 [![](modHeader.png)](modScreen.png)
-# Building Materials Production Pallets
+# Materials Productions
 
 ### Building Materials Liftable Pallets (x5 capacity & price)
 - Carpentry products

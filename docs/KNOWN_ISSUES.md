@@ -4,7 +4,13 @@ title: Yurg's Custom Pack - Known Issues
 sidebar_label: Known Issues
 ---
 [![](modHeader.png)](modScreen.png)
-## Compatibility Issues
+# [Known Issues](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20label%3Aknown-issue%20sort%3Aupdated-desc)
+
+### AI workers & Multi-fruit combine headers [#26](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/26)
+
+This is due to the fact that these headers have been updated to fruit preparer cutter (because of potato, ...).
+
+# [Compatibility Issues](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20label%3Acompatibility%20sort%3Aupdated-desc)
 
 ### Color mods
 
@@ -26,13 +32,7 @@ Please avoid mods that update pallets as it may interfere with this mod.<br>*And
 
 - `Larger capacity pallets` by Virgile0, TopAce888, pipopaaulus [#51](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/51)
 
-## Known Issues
-
-### AI workers & Multi-fruit combine headers [#26](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/26)
-
-This is due to the fact that these headers have been updated to fruit preparer cutter (because of potato, ...).
-
-## Server Known Issues
+# Server Known Issues
 
 ### XML file sizes that are too big [#93](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/93)
 ```
@@ -47,3 +47,4 @@ XML original file sizes:
 
 These problems will not prevent your game from starting. If it is, you may consider using another hosting provider, as the base game and mods created by GIANTS Sofwtare exceed this 0.25 MB limit.
 We consider this limit as a bug on the GIANTS Sofware server's side, since even GIANTS Sofware cannot comply with it.
+

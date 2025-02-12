@@ -1,10 +1,10 @@
 ---
 id: placeables-food-production
-title: Yurg's Custom Pack - Food Production Placeables
-sidebar_label: Food Production
+title: Yurg's Custom Pack - Food Productions Placeables
+sidebar_label: Food Productions
 ---
 [![](modHeader.png)](modScreen.png)
-# Food Production
+# Food Productions
 
 ## Green Houses
 

@@ -1,10 +1,10 @@
 ---
 id: objects-livestock
-title: Yurg's Custom Pack - Livestock Pallets
-sidebar_label: Livestock Pallets
+title: Yurg's Custom Pack - Livestock Productions
+sidebar_label: Livestock Productions
 ---
 [![](modHeader.png)](modScreen.png)
-# Livestock Pallets
+# Livestock Productions
 
 ### Livestock Liftable Pallets (x10 capacity & price)
 - Eggs Boxes

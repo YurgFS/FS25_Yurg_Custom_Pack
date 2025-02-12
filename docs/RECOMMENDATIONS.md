@@ -4,7 +4,7 @@ title: Yurg's Custom Pack - Recommendations
 sidebar_label: Recommendations
 ---
 [![](modHeader.png)](modScreen.png)
-## Recommendations
+# Recommendations
 
 
 ### Must-Have Scripts
