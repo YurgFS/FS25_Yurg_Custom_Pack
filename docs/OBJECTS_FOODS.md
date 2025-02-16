@@ -14,6 +14,7 @@ sidebar_label: Food Productions
 - Grape Processing products
 - Green Houses products
 - Mushrooms Green House products
+- Vegetables Green House products
 - Preserved Food Factory products
 - Soup Factory products
 - Sugar Mill products

@@ -24,7 +24,8 @@ sidebar_label: Root crops
 - 2 additional motors with higher max speed (896hp 58kph, 996hp 73kph)
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
-- optional unreal filling capacities
+- additional fill types (potato sugarBeet beetRoot carrot parsnip greenBean pea spinach sugarCane)
+- optional unreal filling capacities (default, double, unreal up to 1500000)
 - discharge rate increased for unreal filling capacities
 - no color configuration yet
 
@@ -32,7 +33,12 @@ sidebar_label: Root crops
 
 ### Ropa RR-XL 9x45
 - higher working speed (35kph)
+- optional working widths
 - no color configuration yet
+
+### Ropa RR-XL 9x45 Multi-fruit
+- same as Ropa RR-XL 9x45
+- multi-fruit (potato sugarBeet beetRoot carrot parsnip greenBean pea spinach sugarCane)
 
 ### Ropa RR-XL Trailer
 - no color configuration yet

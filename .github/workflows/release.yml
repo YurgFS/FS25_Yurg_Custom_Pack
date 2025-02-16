@@ -54,7 +54,7 @@ jobs:
             echo "::error title=Wrong Input::Provided version does not match expected pattern."
             exit 1
           fi
-      - name: "Checkout Private Repository"
+      - name: "Checkout Repository"
         uses: actions/checkout@v4
       - name: "Prepare Release"
         shell: bash
