@@ -1,3 +1,69 @@
+## v1.3.7.0 (16/02/2025)
+
+[Feature] Vegetables Greenhouse [#138](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/138)
+- based on the Large Tarp Green House
+- Potatoes, Sugar Beets, Beet Roots, Carrots, Parsnips, Green Beans, Peas, Spinach
+- no daily upkeep fee
+- low cost per hour
+
+[Feature] PlanET Biogas Plant 10mW [#137](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/137)
+- no daily upkeep fee
+- reduction of cost per hour
+- storage and distribution (or sale) of methane and electric charges
+
+[Feature] Large Sapling Greenhouses [#134](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/134)
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+
+[Feature] Textile Factory (Rope Maker US) [#133](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/133)
+- huge building, production speed increased, Spinnery and Tailor Shop recipes added
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x20)
+- input storage increased (x40)
+- output storage increased (x20)
+- liftable Rope Maker product pallets update: x10 capacity & price
+
+[Feature] Cooper US [#132](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/132)
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+- liftable Cooper product pallets update: x10 capacity & price
+
+[Feature] Tailor Shop, Tailor Shop US [#131](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/131)
+- no daily upkeep fee
+- reduction of cost per hour
+- production increased (x10)
+- input storage increased (x20)
+- output storage increased (x10)
+- liftable Tailor Shop product pallets update: x10 capacity & price
+
+[Enhancement] Ropa Tiger 6S & RR-XL 9x45 multi-fruit [#114](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/114)
+
+Ropa Tiger 6S
+- additional fill types (potato sugarBeet beetRoot carrot parsnip greenBean pea spinach sugarCane)
+- additional optional unreal filling capacities (up to 1500000)
+
+Ropa RR-XL 9x45
+- addition of optional working widths
+
+Ropa RR-XL 9x45 Multi-fruit
+- same as Ropa RR-XL 9x45
+- multi-fruit (potato sugarBeet beetRoot carrot parsnip greenBean pea spinach sugarCane)
+
+[Enhancement] Mow grass on non-owned farmlands [#123](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/123)
+
+Krone BiG M 450
+- now able to work on non-owned farmlands
+
+Krone EasyFlow 300 S
+- now able to work on non-owned farmlands
+
 ## v1.3.6.0 (12/02/2025)
 
 [Feature] Spinnery [#118](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/118)

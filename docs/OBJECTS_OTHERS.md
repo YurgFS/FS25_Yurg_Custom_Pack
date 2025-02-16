@@ -7,10 +7,8 @@ sidebar_label: Other Productions
 # Other Productions
 
 ### Other Liftable Pallets (x10 capacity & price)
-- Paper Factory products
-- Spinnery products
-
-### Other Liftable Pallets (standard capacity & price)
 - Cooper products
+- Paper Factory products
 - Rope Maker products
+- Spinnery products
 - Tailor Shop products

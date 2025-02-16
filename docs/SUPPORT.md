@@ -19,7 +19,7 @@ For any problems, suggestions or questions, please create an issue using one of 
 [❓ Other Requests](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new?template=04-other_requests.yml)
 
 ### Ongoing Issues
-- [Bug Reports & Known Issues](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20label%3Abug%2Ccompatibility%2Cknown-issue%20sort%3Aupdated-desc)
+- [Bug Reports, Compatibility & Known Issues](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20label%3Abug%2Ccompatibility%2Cknown-issue%20sort%3Aupdated-desc)
 - [Features & Enhancement requests](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20is%3Aissue%20label%3Aenhancement%2Cfeature%20sort%3Aupdated-desc)
 - [In Progress (Next Version)](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/milestones?state=open)
 

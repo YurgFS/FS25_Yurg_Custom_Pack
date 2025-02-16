@@ -6,30 +6,39 @@ sidebar_label: Food Productions
 [![](modHeader.png)](modScreen.png)
 # Food Productions
 
-## Green Houses
+## Greenhouses
 
-### Large Glass Green House
+### Large Glass Greenhouse
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - input storage increased (x20)
 - output storage increased (x10)
 
-### Large Mushrooms Green House
+### Large Mushrooms Greenhouse
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - input storage increased (x20)
 - output storage increased (x10)
 
-### Grapes & Olives Green House
-- based on the tomato recipe using Large Mushrooms Green House
+### Large Sapling Greenhouse
 - no daily upkeep fee
 - reduction of cost per hour
 - production increased (x10)
 - input storage increased (x20)
 - output storage increased (x10)
 
+### Grapes & Olives Greenhouse
+- based on the Large Mushrooms Green House
+- no daily upkeep fee
+- low cost per hour
+
+### Vegetables Greenhouse
+- based on the Large Tarp Green House
+- Potatoes, Sugar Beets, Beet Roots, Carrots, Parsnips, Green Beans, Peas, Spinach
+- no daily upkeep fee
+- low cost per hour
 
 ## Food Production Points
 
