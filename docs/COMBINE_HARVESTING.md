@@ -14,8 +14,8 @@ sidebar_label: Combine Harvesting
 - 1 additional motor with higher max speed (900hp 70kph)
 - motor start duration reduced to 1.5s
 - fuel tank size is modified depending on the chosen motor
-- optional unreal filling capacities
-- higher discharge rate
+- optional filling capacities (default, double, 6 unreal options up to 1500000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ## Grain Headers

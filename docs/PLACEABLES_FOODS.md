@@ -30,11 +30,13 @@ sidebar_label: Food Productions
 - output storage increased (x10)
 
 ### Grapes & Olives Greenhouse
+![](greenHouseGrapesOlives.png)
 - based on the Large Mushrooms Green House
 - no daily upkeep fee
 - low cost per hour
 
 ### Vegetables Greenhouse
+![](greenHouseVegetables.png)
 - based on the Large Tarp Green House
 - Potatoes, Sugar Beets, Beet Roots, Carrots, Parsnips, Green Beans, Peas, Spinach
 - no daily upkeep fee

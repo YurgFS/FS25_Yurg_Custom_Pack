@@ -11,9 +11,9 @@ sidebar_label: Forage Harvesting
 ### Krone BiG X 1180
 - 3 additional motors with higher max speed (1500hp 53kph, 1800hp 63kph, 2100hp 73kph)
 - motor start duration reduced to 1.5s
+- optional filling capacities (none, 2 unreal options up to 500 000)
 - silage additive increased capacity
 - higher discharge rate (to avoid a bottleneck due to higher working speed)
-- optional unreal filling capacities
 - addition of straw & dry grass fill types
 
 ## Headers

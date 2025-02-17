@@ -12,8 +12,8 @@ sidebar_label: Root crops
 - 3 additional motors with higher max speed (569hp 40kph, 669hp 55kph, 769hp 70kph)
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
-- optional unreal filling capacities
-- discharge rate increased for unreal filling capacities
+- optional filling capacities (default, double, 2 unreal options up to 150 000)
+- higher discharge rate (based on filling capacity)
 - optional working widths (2.95, 3.20, 4.00)
 - no color configuration yet
 
@@ -25,8 +25,8 @@ sidebar_label: Root crops
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
 - additional fill types (potato sugarBeet beetRoot carrot parsnip greenBean pea spinach sugarCane)
-- optional unreal filling capacities (default, double, unreal up to 1500000)
-- discharge rate increased for unreal filling capacities
+- optional filling capacities (default, double, 6 unreal options up to 1 500 000)
+- higher discharge rate (based on filling capacity)
 - no color configuration yet
 
 ## Beet Harvester Headers
@@ -60,8 +60,8 @@ sidebar_label: Root crops
 - 3 additional motors with higher max speed (630hp 42kph, 730hp 57kph, 830hp 72kph)
 - motor start duration reduced to 1.5s
 - higher working speed (35kph)
-- optional unreal filling capacities
-- discharge rate increased for unreal filling capacities
+- optional filling capacities (default, double, 2 unreal options up to 300 000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ## Consumables

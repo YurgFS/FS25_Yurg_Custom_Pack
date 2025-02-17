@@ -9,24 +9,24 @@ sidebar_label: Trailers
 ## Trailers
 
 ### Šálek RZK ANS-1900
-- higher discharge rate
-- optional unreal filling capacities
+- optional filling capacities (defaults, 2 unreal options up to 60000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ### Krampe Big Body 750 S
-- higher discharge rate
-- optional unreal filling capacities
+- optional filling capacities (defaults, doubles, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
 - optional trailer hitch
 - additional color configurations
 
 ### Krampe RamBody AS 750+
-- higher discharge rate
-- optional unreal filling capacities
+- optional filling capacities (defaults, doubles, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ### Krone GX 520
-- higher discharge rate
-- optional unreal filling capacities
+- optional filling capacities (default, double, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 
@@ -34,8 +34,8 @@ sidebar_label: Trailers
 
 ### Elmer's Manufacturing HaulMaster
 - multi-fruit (crops, root fruits, rice...)
-- optional unreal filling capacities
-- discharge rate increased (x2 but x10 & x20 for unreal filling capacities)
+- optional filling capacities (3 defaults, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 
@@ -54,7 +54,7 @@ sidebar_label: Trailers
 ## Semi Trailers
 
 ### Krampe SKS 30/1050
-- higher discharge rate
-- optional unreal filling capacities
+- optional filling capacities (default, double, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
 - optional trailer hitch
 - additional color configurations
