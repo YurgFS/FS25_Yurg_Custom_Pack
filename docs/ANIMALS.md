@@ -14,27 +14,27 @@ sidebar_label: Animals
 
 ### Abi 550
 - all liquids
-- optional unreal filling capacities
+- optional filling capacities (default, 5 unreal options up to 66 560 + Silo Debug option)
 - higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ### Abi 1600
 - all liquids
-- optional unreal filling capacities
+- optional filling capacities (default, 5 unreal options up to 193 600)
 - higher discharge rate (based on filling capacity)
 - optional trailer hitch
 - additional color configurations
 
 ### Lizard MKS 8
 - all liquids
-- optional unreal filling capacities
+- optional filling capacities (default, 5 unreal options up to 256 000)
 - higher discharge rate (based on filling capacity)
 - optional trailer hitch
 - additional color configurations
 
 ### Lizard MKS 32
 - all liquids
-- optional unreal filling capacities
+- optional filling capacities (default, 5 unreal options up to 1 024 000)
 - higher discharge rate (based on filling capacity)
 - optional trailer hitch
 - additional color configurations

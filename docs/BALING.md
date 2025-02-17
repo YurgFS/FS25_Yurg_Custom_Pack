@@ -22,7 +22,7 @@ sidebar_label: Baling
 - GIANTS Software sillage additive bug fixed
 - addition of 8 BALE_NET slots
 - reduction of BALE_NET use
-- optional unreal filling capacities
+- optional filling capacities (default, 2 unreal options up to 200 000)
 - faster baler for unreal filling capacities
 - additional color configurations
 

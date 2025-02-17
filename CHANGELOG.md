@@ -1,3 +1,41 @@
+## v1.3.8.0 (17/02/2025)
+
+[Bug] Bergmann Shuttle 490 S: forage wagon is not restricted to current swath, the previous one being lost [#156](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/156)
+- Issue might be fixed, releasing right now.
+
+[Enhancement] Vegetable and Olive & Grapes Greenhouses production speed adjustment [#152](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/152)
+- New values: https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/152#issuecomment-2663157603
+
+[Enhancement] Gregoire GL: more unreal filling capacities options [#154](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/154)
+- optional filling capacities update (default, 6 unreal options up to 45000)
+- higher discharge rate (based on filling capacity)
+
+[Enhancement] Agco Ideal: more unreal filling capacities options [#111](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/111)
+- optional filling capacities update (default, double, 6 unreal options up to 1500000)
+- higher discharge rate (based on filling capacity)
+
+[Enhancement] Rework of BULK trailers using configuration sets [#29](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/29)
+
+Krampe Big Body 750 S
+- optional filling capacities update (defaults, doubles, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
+
+Krampe RamBody AS 750+
+- optional filling capacities update (defaults, doubles, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
+
+Krampe SKS 30/1050
+- optional filling capacities update (default, double, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
+
+Krone GX 520
+- optional filling capacities update (default, double, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
+
+Elmer's Manufacturing HaulMaster
+- optional filling capacities update (3 defaults, 6 unreal options up to 10000000)
+- higher discharge rate (based on filling capacity)
+
 ## v1.3.7.0 (16/02/2025)
 
 [Feature] Vegetables Greenhouse [#138](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/138)
@@ -5,6 +43,7 @@
 - Potatoes, Sugar Beets, Beet Roots, Carrots, Parsnips, Green Beans, Peas, Spinach
 - no daily upkeep fee
 - low cost per hour
+- liftable Vegetables Greenhouse product pallets with x10 capacity
 
 [Feature] PlanET Biogas Plant 10mW [#137](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/137)
 - no daily upkeep fee

@@ -12,8 +12,8 @@ sidebar_label: Grapes & Olives
 - 2 additional motors with higher max speed (224hp 40kph, 258hp 50kph, 292hp 60kph)
 - motor start duration reduced to 1.5s
 - higher working speed (24)
-- optional unreal filling capacities (9000, 12000)
-- higher discharge rate (x2)
+- optional filling capacities (defaults, 6 unreal options up to 45000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ## Grapes Trailers

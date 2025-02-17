@@ -28,7 +28,7 @@ sidebar_label: Grassland
 - higher working speed (35kph)
 - optional additional working widths (3.5, 5, 10, 20m)
 - max pickup liters per second increased (x10)
-- optional unreal filling capacities
+- optional filling capacities (default, double, 6 unreal options up to 10000000)
 - higher discharge rate (based on filling capacity)
 - able to pick up swaths on non-owned farmlands
 - additional color configurations

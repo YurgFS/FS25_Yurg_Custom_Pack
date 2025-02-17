@@ -16,10 +16,10 @@ And the ones made on some vehicles and implements:
 - customized gearbox based on real options from the manufacturers
 - additional fuel tank size options
 - higher working speed (24 or 35kph)
-- higher discharge rate
 - optional additional plow or roller function
 - optional working widths
-- optional unreal filling capacities
+- optional filling capacities (defaults, doubles, unreals)
+- higher discharge rate (based on filling capacity)
 - optional trailer hitch
 - additional color configurations
   - no color configurations yet for Krone, Ropa, Dewulf, Oxbo and Iseki

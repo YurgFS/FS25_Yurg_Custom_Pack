@@ -36,7 +36,8 @@ sidebar_label: Drivables
 ### Lizard Dragon
 - 1 additional motor with higher max speed (340hp 110kph)
 - motor start duration reduced to 1.5s
-- additional optional unreal filling capacities
+- optional filling capacities (defaults, 2 unreal options up to 180 000)
+- higher discharge rate (based on filling capacity)
 - additional optional trailer hitch
 - additional color configurations
 
@@ -44,7 +45,8 @@ sidebar_label: Drivables
 - new electric vehicle based on the diesel one
 - 1 additional motor with higher max speed (340hp 110kph)
 - motor start duration reduced to 0.5s (electric...)
-- additional optional unreal filling capacities
+- optional filling capacities (defaults, 2 unreal options up to 180 000 + Silo Debug option)
+- higher discharge rate (based on filling capacity)
 - additional optional trailer hitch
 - additional color configurations
 

@@ -19,8 +19,8 @@ sidebar_label: Loaders
 
 ### Front Loader Tools Updates
 - all Front Loader Tools are liftable
-- optional unreal filling capacities (10 000, 50 000)
-- discharge rate increased for unreal filling capacities
+- optional filling capacities (default, 2 unreal options up to 50 000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ### Front Loader Tools List
@@ -50,8 +50,8 @@ sidebar_label: Loaders
 
 ### Telehandler Tools Updates
 - all Telehandler Tools are liftable
-- optional unreal filling capacities (10 000, 50 000)
-- higher discharge rate
+- optional filling capacities (default, 2 unreal options up to 50 000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ### Telehandler Tools List
@@ -82,8 +82,8 @@ sidebar_label: Loaders
 
 ### Skid Steer Loader Tools Updates
 - all Skid Steer Loader Tools are liftable
-- optional unreal filling capacities (10 000, 50 000)
-- higher discharge rate
+- optional filling capacities (default, 2 unreal options up to 50 000)
+- higher discharge rate (based on filling capacity)
 - additional color configurations
 
 ### Skid Steer Loader Tools List
