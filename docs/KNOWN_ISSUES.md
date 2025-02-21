@@ -8,6 +8,15 @@ sidebar_label: Known Issues
 
 [**Complete & Up-To-Date Known Issues List**](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues?q=is%3Aopen%20label%3Aknown-issue%20sort%3Aupdated-desc)
 
+### Forage Wagons with a load of less than 5%
+If your forage wagon hold:
+- less than 5% of some product, it will delete its content and start to load the new product.
+- more than 5% of Hay, it will collect Grass as Hay
+- more than 5% of Grass, it will collect Hay as Grass
+- more than 5% of Straw, it will only collect Straw
+
+This is a bug from GIANTS Software [#166](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/166)
+
 ### Multi-fruit tools & AI workers
 Many Multi-fruit tools may have side effects
 - Multi-fruit combine headers will not work with employees [#26](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/26)

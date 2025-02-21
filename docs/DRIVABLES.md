@@ -29,6 +29,8 @@ sidebar_label: Drivables
 - 3 additional motors with higher max speed (520hp 63kph, 620hp 73kph, 820hp 83kph)
 - motor start duration reduced to 1.5s
 - additional fuel tank options (670, 730, 790, 850L)
+- additional weight option (from 0 to 9000kg)
+- center of mass update if additional weight is used
 - additional color configurations
 
 ## Trucks
@@ -36,19 +38,18 @@ sidebar_label: Drivables
 ### Lizard Dragon
 - 1 additional motor with higher max speed (340hp 110kph)
 - motor start duration reduced to 1.5s
+- additional weight option (from 0 to 3000kg)
+- center of mass update if additional weight is used
 - optional filling capacities (defaults, 2 unreal options up to 180 000)
 - higher discharge rate (based on filling capacity)
 - additional optional trailer hitch
 - additional color configurations
 
 ### Lizard Dragon Electric
-- new electric vehicle based on the diesel one
-- 1 additional motor with higher max speed (340hp 110kph)
+- same as Lizard Dragon but converted to an electric vehicle
+- additional motor (612hp 110kph), on purpose hard-to-handle kart just for fun
 - motor start duration reduced to 0.5s (electric...)
-- optional filling capacities (defaults, 2 unreal options up to 180 000 + Silo Debug option)
-- higher discharge rate (based on filling capacity)
-- additional optional trailer hitch
-- additional color configurations
+- additional optional filling capacities (Silo Debug option)
 
 ### Volvo FH16
 - higher base motors gearboxes updated using real options from the manufacturer, adding some low gears with higher torque
