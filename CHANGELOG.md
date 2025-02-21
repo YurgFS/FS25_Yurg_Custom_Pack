@@ -1,3 +1,28 @@
+## v1.3.8.1 (21/02/2025)
+
+[Bug] FS25 v1.6.0.0: Rudolf Hörmann Big Cows Barn animal capacity regression [#177](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/177)
+- update of `placeable.husbandry.animals#baseMaxNumAnimals` on all barns
+
+[Bug] Bergmann Shuttle 490 S: forage wagon is not restricted to current swath, the previous one being lost [#156](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/156)
+- fillTypeCategories reverted back to BULK as this is an issue from GIANTS Software that we cannot fix on our own.
+- warning added in shop description: "Choose capacity wisely, risk of collection loss if load is under 5%."
+- Known Issue added about Forage Wagons with a load of less than 5% [#166](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/166)
+
+[Enhancement] Valtra S Series: stability improvement [#165](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/165)
+- additional weight option (from 0 to 9000kg)
+- center of mass update if additional weight is used
+
+[Enhancement] Lizard Dragon: stability improvement [#162](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/162)
+
+Lizard Dragon & Lizard Dragon Electric
+- additional weight option (from 0 to 3000kg)
+- center of mass update if additional weight is used
+
+Lizard Dragon Electric
+- 170hp motor now really have 170hp (instead of 240)
+- new 340hp motor that really have 340hp
+- old 340hp motor renamed using its real power value (612hp), on purpose hard-to-handle kart just for fun
+
 ## v1.3.8.0 (17/02/2025)
 
 [Bug] Bergmann Shuttle 490 S: forage wagon is not restricted to current swath, the previous one being lost [#156](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/156)

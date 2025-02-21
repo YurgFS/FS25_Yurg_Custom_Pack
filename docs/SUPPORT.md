@@ -25,7 +25,7 @@ For any problems, suggestions or questions, please create an issue using one of 
 
 ### A few tips to help you find the root cause
 If you are unsure, you can try the following method, this might help you find the root cause of the problem:
-- create a new game with [a dedicated test map](https://github.com/YurgFS/FS25_Yurg_Dev_Map/releases/latest) having this mod as the only activated one.
+- create a new game with [a dedicated test map](https://yurgfs.github.io/FS25_Yurg_Dev_Map/) having this mod as the only activated one.
 - if everything is fine, restart the test map by adding other mods until the problem re-occurs.
 
 You may do the same with your main game, but be very careful, do not save and beware of auto save.
