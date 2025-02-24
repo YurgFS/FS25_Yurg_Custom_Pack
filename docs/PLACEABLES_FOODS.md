@@ -42,6 +42,11 @@ sidebar_label: Food Productions
 - no daily upkeep fee
 - low cost per hour
 
+### All in One Greenhouse
+- based on the Large Mushrooms Green House
+- Lettuces, Strawberries, Tomatoes, Spring Onions, Napa Cabbages, Chillis, Garlics, Enokis, Oysters,
+- Grapes, Olives, Potatoes, Sugar Beets, Beet Roots, Carrots, Parsnips, Green Beans, Peas, Spinachs
+
 ## Food Production Points
 
 ### Grain Mill

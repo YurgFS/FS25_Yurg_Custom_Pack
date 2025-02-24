@@ -27,21 +27,21 @@ sidebar_label: Root crops
 - additional fill types (potato sugarBeet beetRoot carrot parsnip greenBean pea spinach sugarCane)
 - optional filling capacities (default, double, 6 unreal options up to 1 500 000)
 - higher discharge rate (based on filling capacity)
-- no color configuration yet
+- additional color configurations
 
 ## Beet Harvester Headers
 
 ### Ropa RR-XL 9x45
 - higher working speed (35kph)
 - optional working widths
-- no color configuration yet
+- additional color configurations
 
 ### Ropa RR-XL 9x45 Multi-fruit
 - same as Ropa RR-XL 9x45
 - multi-fruit (potato sugarBeet beetRoot carrot parsnip greenBean pea spinach sugarCane)
 
 ### Ropa RR-XL Trailer
-- no color configuration yet
+- additional color configurations
 
 ## Beet Loading
 

@@ -19,6 +19,7 @@ sidebar_label: Soil Cultivation
 
 ### Bednar SwifterDisc XE 18400 Mega
 - higher working speed (35kph)
+- optional working widths
 - optional plow function instead of cultivator
 - additional color configurations
 
@@ -34,6 +35,7 @@ sidebar_label: Soil Cultivation
 
 ### Horsch Cultro 12 TC
 - higher working speed (35kph)
+- optional working widths
 - additional color configurations
 
 ## Spaders
@@ -42,4 +44,9 @@ sidebar_label: Soil Cultivation
 
 ## Stone Pickers
 
-
+### Elho Scorpio 550
+- higher working speed (35kph)
+- optional working widths
+- optional filling capacities (defaults, double, 6 unreal options up to 256000)
+- higher discharge rate (based on filling capacity)
+- additional color configurations

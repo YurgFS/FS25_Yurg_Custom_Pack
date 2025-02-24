@@ -10,7 +10,7 @@ sidebar_label: Livestock
 
 ### Rudolf Hörmann Big Cows Barn
 - 1000 cows
-- 800 000 food capacity
+- 2 000 000 food capacity
 - 500 000 straw capacity
 - 625 000 milk capacity
 - 1 500 000 liquid manure capacity
@@ -26,7 +26,11 @@ sidebar_label: Livestock
 
 ## Horses
 
-
+### Rudolf Hörmann Big Horses Barn
+- 16 horses
+- 200 000 food capacity
+- 100 000 straw capacity
+- 1 500 000 manure capacity
 
 ## Pigs
 

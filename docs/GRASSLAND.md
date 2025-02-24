@@ -8,6 +8,18 @@ sidebar_label: Grassland
 
 ## Mowers
 
+### SaMASZ KDF 341 STH
+- higher working speed (35kph)
+- optional working widths
+- optional brand decals
+- additional color configurations
+
+### SaMASZ KDD 941 SDH
+- higher working speed (35kph)
+- optional working widths
+- optional brand decals
+- additional color configurations
+
 ### Krone BiG M 450
 - 3 additional motors with higher max speed (560hp 53kph, 670hp 63kph, 780hp 73kph)
 - motor start duration reduced to 1.5s
@@ -16,11 +28,17 @@ sidebar_label: Grassland
 
 ## Tedders
 
-
+### Pöettinger HIT 16.18 T
+- higher working speed (35kph)
+- optional working widths
+- additional color configurations
 
 ## Windrowers
 
-
+### Pöettinger TOP 1403 C
+- higher working speed (35kph)
+- optional working widths
+- additional color configurations
 
 ## Forage Wagons
 
@@ -35,7 +53,11 @@ sidebar_label: Grassland
 
 ## Grassland Care
 
-
+### Dalbo MaxiRoll 630 Greenline
+- higher working speed (35kph)
+- optionnal filling capacity options (x2, x3, x4, x5)
+- optional working widths
+- additional color configurations
 
 ## Consumables
 

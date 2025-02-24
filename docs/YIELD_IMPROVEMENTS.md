@@ -59,6 +59,22 @@ sidebar_label: Yield Improvements
 
 ## Fertilizer Spreaders
 
+### Amazone ZA-TS 3200
+- higher working speed (35kph)
+- application rate reduced
+- small increase of max working widths (48)
+- optional unreal filling capacities (default, double, 6 unreal options up to 128000)
+- optional brand decals
+- additional color configurations
+
+### Bredal K105
+- higher working speed (35kph)
+- application rate reduced
+- optional working widths (24, 36, 48)
+- optional unreal filling capacities (defaults, doubles, 6 unreal options up to 256000)
+- optional brand decals
+- additional color configurations
+
 ### Samson US 235 Dynamic
 - can also spread lime and fertilizer
 
@@ -100,12 +116,14 @@ sidebar_label: Yield Improvements
 
 ### Elmer's Manufacturing Super 7
 - higher working speed (35kph)
+- optional working widths
 - additional color configurations
 
 ## Rollers
 
 ### Brandt LandRoller 591A
 - higher working speed (35kph)
+- optional working widths
 - additional color configurations
 
 ## Consumables

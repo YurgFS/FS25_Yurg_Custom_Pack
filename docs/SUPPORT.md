@@ -8,6 +8,8 @@ sidebar_label: Support
 
 For any problems, suggestions or questions, please create an issue using one of the following addresses:
 
+For any request for additions or updates, please create one request per item. Otherwise, your request will be rejected.
+
 [🐞 Bug Report](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new?template=01-bug_report.yml)
 
 [🪛 Enhancement Request](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/new?template=02-enhancement_request.yml)
