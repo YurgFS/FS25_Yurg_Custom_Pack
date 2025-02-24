@@ -1,3 +1,85 @@
+## v1.3.9.0 (24/02/2025)
+
+[Feature] Pöettinger HIT 16.18 T (tedder) [#168](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/168)
+- higher working speed (35kph)
+- optional working widths
+- additional color configurations
+
+[Feature] Pöettinger TOP 1403 C (windrower) [#169](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/169)
+- higher working speed (35kph)
+- optional working widths
+- additional color configurations
+
+[Feature] Dalbo MaxiRoll 630 Greenline (grass roller) [#170](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/170)
+- higher working speed (35kph)
+- optionnal filling capacity options (x2, x3, x4, x5)
+- optional working widths
+- additional color configurations
+
+[Feature] SaMASZ KDF 341 STH (front mower) [#171](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/171)
+- higher working speed (35kph)
+- optional working widths
+- optional brand decals
+- additional color configurations
+
+[Feature] SaMASZ KDD 941 SDH (rear mower) [#172](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/172)
+- higher working speed (35kph)
+- optional working widths
+- optional brand decals
+- additional color configurations
+
+[Feature] Rudolf Hörmann Big Horses Barn [#173](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/173)
+- 16 horses
+- 200 000 food capacity
+- 100 000 straw capacity
+- 1 500 000 manure capacity
+
+[Feature] All in One Greenhouse [#174](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/174)
+- based on the Large Mushrooms Green House
+- Lettuces, Strawberries, Tomatoes, Spring Onions, Napa Cabbages, Chillis, Garlics, Enokis, Oysters,
+- Grapes, Olives, Potatoes, Sugar Beets, Beet Roots, Carrots, Parsnips, Green Beans, Peas, Spinachs
+
+[Feature] Elho Scorpio 550 (stone picker) [#186](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/186)
+- higher working speed (35kph)
+- optional working widths
+- optional filling capacities (defaults, double, 6 unreal options up to 256000)
+- higher discharge rate (based on filling capacity)
+- additional color configurations
+
+[Feature] Bredal K105 (spreader) [#188](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/188)
+- higher working speed (35kph)
+- application rate reduced
+- optional working widths (24, 36, 48)
+- optional unreal filling capacities (defaults, doubles, 6 unreal options up to 256000)
+- optional brand decals
+- additional color configurations
+
+[Feature] Amazone ZA-TS 3200 (spreader) [#189](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/189)
+- higher working speed (35kph)
+- application rate reduced
+- small increase of max working widths (48)
+- optional unreal filling capacities (default, double, 6 unreal options up to 128000)
+- optional brand decals
+- additional color configurations
+
+[Enhancement] Ropa Tiger 6S additional color configurations [#158](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/158)
+- additional color configurations
+
+[Enhancement] Valtra S Series: stability improvement [#165](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/165)
+- center of mass adjustment
+
+[Enhancement] Brandt LandRoller 591A [#178](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/178)
+- optional working widths
+
+[Enhancement] Bednar SwifterDisc XE 18400 Mega [#179](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/179)
+- optional working widths
+
+[Enhancement] Elmer's Manufacturing Super 7 [#180](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/180)
+- optional working widths
+
+[Enhancement] Horsch Cultro 12 TC [#181](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/181)
+- optional working widths
+
 ## v1.3.8.1 (21/02/2025)
 
 [Bug] FS25 v1.6.0.0: Rudolf Hörmann Big Cows Barn animal capacity regression [#177](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/177)
