@@ -22,7 +22,7 @@ And the ones made on some vehicles and implements:
 - higher discharge rate (based on filling capacity)
 - optional trailer hitch
 - additional color configurations
-  - no color configurations yet for Krone, Ropa, Dewulf, Oxbo and Iseki
+  - no color configurations yet for Krone, Dewulf, Oxbo and Iseki
   - it requires to include i3d files making the pack size bigger
   - I will probably add some of them, tell me which ones you prefer
 

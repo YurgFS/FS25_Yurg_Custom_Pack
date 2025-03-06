@@ -62,7 +62,7 @@ sidebar_label: Yield Improvements
 ### Amazone ZA-TS 3200
 - higher working speed (35kph)
 - application rate reduced
-- small increase of max working widths (48)
+- small increase of max working width (48)
 - optional unreal filling capacities (default, double, 6 unreal options up to 128000)
 - optional brand decals
 - additional color configurations
