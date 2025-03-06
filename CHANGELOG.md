@@ -1,3 +1,13 @@
+## v1.3.9.1 (06/03/2025)
+
+[Bug] Bredal K105 (spreader) - not all fill capacities work [#198](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/198)
+- exactFillRootNode was wrongly set to exactFillRootNodeDefault instead of exactFillRootNodeSmall
+
+[Bug] All in One Greenhouse FPS drops [#193](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/193)
+- tentative to fix this by having only 10 cycles per hour for all products for all greenhouses.
+
+Agco Multi Silo/Prod update: loading speed increased (x2.5)
+
 ## v1.3.9.0 (24/02/2025)
 
 [Feature] Pöettinger HIT 16.18 T (tedder) [#168](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/168)
@@ -57,7 +67,7 @@
 [Feature] Amazone ZA-TS 3200 (spreader) [#189](https://github.com/YurgFS/FS25_Yurg_Custom_Pack/issues/189)
 - higher working speed (35kph)
 - application rate reduced
-- small increase of max working widths (48)
+- small increase of max working width (48)
 - optional unreal filling capacities (default, double, 6 unreal options up to 128000)
 - optional brand decals
 - additional color configurations
